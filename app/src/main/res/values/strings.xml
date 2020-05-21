@@ -1,47 +1,36 @@
 <resources>
     <string name="app_name">Spoken English</string>
 
+
     <string-array name="spoken_header">
 
 
+<item>
 
-        <item>
-            1.am/is/are+To= তে হয়।
-             \n বাংলায়  \"তে হয়\" যুক্ত বাক্যের ক্ষেত্রে।
-         </item>
-
-
-
-        <item>
-            2.Have/Has To= তেই হয়
-             \n বাংলায় \"তেই হয়\" যুক্ত বাক্যে ক্ষেত্রে।
-        </item>
+    1.am/is/are+to= তে হয়।
+\nVerb এর সাথে \"তে হয়\" যুক্ত বাক্যের ক্ষেত্রে।
+ \nবাংলা বাক্যের  শেষে তে হয় থাকলে।
+</item>
 
 
 
 
-
-        <item>
-            3. Had To = তেই হয়েছিল
-            \n বাংলায় \"তেই হয়েছিল\" যুক্ত বাক্যে।
-        </item>
-
-
-
-
-        <item>
-            4.Shall/Will Have To= তে হবে।
-            \n বাংলায় \"তে হবে\" যুক্ত বাক্যের ক্ষেত্রে।
-            </item>
+        <item> 2.Have/Has to= তেই হয়
+\nVerb এর সাথে তেই হয় যুক্ত বাক্যে।
+\nআমাকে ------- করতেই।
+</item>
 
 
 
 
 
-        <item>
-            5.Have/Has Got To=তেই হবে।
-            \n বাংলায়  \"তেই হবে\" যুক্ত বাক্যের ক্ষত্রে।
-        </item>
+
+
+
+        <item> 3. had to = তেই হয়েছিল
+\nVerb এর সাথে তেই হয়েছিল যুক্ত বাক্যে।
+\nআমাকে ------- করতেই হয়েছিল।
+</item>
 
 
 
@@ -49,9 +38,30 @@
 
 
         <item>
-            6.Am/is/are supposed to=কথা আছে।
-            \n বাংলায় \"কথা আছে\" যুক্ত বাক্যের ক্ষত্রে।
-        </item>
+4.shall/will have to= তে হবে।
+\nVerb এর সাথে তে হবে যুক্ত বাক্যের ক্ষেত্রে।
+\n-----তে হবে। </item>
+
+
+
+
+
+        <item>
+5.have/has got to=তেই হবে।
+\nVerb এর সাথে তেই হবে যুক্ত বাক্যের ক্ষত্রে।
+\n-----তেই হবে।
+ </item>
+
+
+
+
+
+
+        <item>
+6.Am/is/are supposed to=কথা আছে।
+\nVerb এর সাথে কথা আছে যুক্ত বাক্যের ক্ষত্রে।
+\n------কথা আছে।
+ </item>
 
 
 
@@ -60,7 +70,8 @@
         <item>
 7.was/ware supposed to=কথা ছিল।
 \nVerb এর সাথে কথা ছিল যুক্ত বাক্যের ক্ষেত্রে।
-\n-------কথা ছিল। </item>
+\n-------কথা ছিল।
+ </item>
 
 
 
@@ -70,7 +81,8 @@
         <item>
 8.am,is,are likely to=সম্ভাবনা আছে।
 \nVerb এর সাথে  কথা  ছিল  যুক্ত  ব্যাকের  ক্ষেত্রে।
-\n-------কথা ছিল ।</item>
+\n-------কথা ছিল ।
+</item>
 
 
 
@@ -78,7 +90,8 @@
         <item>
 9.was/ware likely to=সম্ভাবনা ছিল।
 \nVerb এর সাথে কথা ছিল  যুক্ত বাক্যের  ক্ষেত্রে।
-\nকর্তার-------কথা ছিল।</item>
+\nকর্তার-------কথা ছিল।
+</item>
 
 
 
@@ -87,7 +100,8 @@
         <item>
 10.Can\'t but =না পারি না।
 \nVerb এর সাথে না পারি না যুক্ত বাক্যের ক্ষেত্রে।
-\nকর্তা কিছু না করে পারে না  ।</item>
+\nকর্তা কিছু না করে পারে না ।
+</item>
 
 
 
@@ -96,7 +110,8 @@
         <item>
 11.Could\'t but=না পারলাম না ।
 \nVerb এর সাথে কথা ছিল যুক্ত বাক্যের ক্ষেত্রে।।
-\n-------কথা ছিল  ।</item>
+\n-------কথা ছিল  ।
+</item>
 
 
 
@@ -105,7 +120,7 @@
 
         <item>
 12.am,is,are about to =আবস্থায় আছে।
-\n বাংলা ক্রিয়ার শেষে অবস্তায় আছে যুক্ত বাক্যের ক্ষেত্রে।
+\n বাংলা বাক্যের  শেষে অবস্তায় আছে যুক্ত বাক্যের ক্ষেত্রে।
 </item>
 
 
@@ -113,7 +128,7 @@
 
         <item>
 13.Was,ware about to = অবস্থায় ছিল।
-\n বাংলা ক্রিয়ার শেষে অবস্থায় ছিল যুক্ত বাক্যের ক্ষেত্রে।
+\n বাংলা বাক্যের  শেষে অবস্থায় ছিল যুক্ত বাক্যের ক্ষেত্রে।
 </item>
 
 
@@ -121,7 +136,7 @@
 
         <item>
 14. Can have= লে-লেও পারে।
-\n বাংলা ক্রিয়ার শেষে লে-লেও পারে যুক্ত বাক্যের ক্ষেত্রে।
+\n বাংলা বাক্যের  শেষে লে-লেও পারে যুক্ত বাক্যের ক্ষেত্রে।
 </item>
 
 
@@ -129,8 +144,8 @@
 
 
         <item>
-15. Could have= লে-লেও পারতাম
-\n বাংলা ক্রিয়ার শেষে লে-লেও পারতাম যুক্ত বাক্যের ক্ষেত্রে।
+15.Could have= লে-লেও পারতাম
+\n বাংলা বাক্যের  শেষে লে-লেও পারতাম যুক্ত বাক্যের ক্ষেত্রে।
 </item>
 
 
@@ -138,798 +153,1047 @@
 
         <item>
 16.Should have= উচিৎ ছিল ।
-\n বাংলা ক্রিয়ার শেষে উচিৎ ছিল বাক্যের ক্ষত্রে।
+\n বাংলা বাক্যের  শেষে উচিৎ ছিল বাক্যের ক্ষত্রে।
 </item>
 
 
 
         <item>
 17.Shouldn\'t have= ঠিক হয় নাই/উচিৎ হয় নাই।
-\n বাংলা ক্রিয়ার শেষে ঠিক হয় নাই/উচিৎ হয় নাই বাক্যের ক্ষেত্রে।
+\n বাংলা বাক্যের  শেষে ঠিক হয় নাই/উচিৎ হয় নাই বাক্যের ক্ষেত্রে।
 </item>
 
 
 
         <item>
 18. কি ইয়াছিল/কি ইয়াছিলেন?
-\nবাংলা ক্রিয়ার শেষে \"কি ইয়াছিল/কি ইয়াছিলেন?"যুক্ত বাক্যের ক্ষেত্রে।
+\n বাংলা বাক্যের  শেষে \"কি ইয়াছিল/কি ইয়াছিলেন?"\ যুক্ত বাক্যের ক্ষেত্রে।
 </item>
 
 
 
         <item>
-19.রে,র,নে,ও,ই,এ+?
-\n\n বাংলা ক্রিয়ার শেষে \"রে,র,নে,ও,ই,এ+?\" যুক্ত বাক্যের ক্ষেত্রে।
-
-</item>
-
-
-
-
-
-        <item>
-20.How Long=কতদিন যাবৎ.........তেছি/তেছে/তেছ/তেছেন?
-\n\n  বাংলা ক্রিয়ার শেষে  \"কতদিন যাবৎ.........তেছি/তেছে/তেছ/তেছেন?\" যুক্ত বাক্যের ক্ষেত্রে।
-
-</item>
-
-
-
-
-
-        <item>
-21.How Long=কতদিন যাবৎ.........হয়েছে/হয়েছ/হয়েছেন?
-\n\n  বাংলা ক্রিয়ার শেষে \"কতদিন যাবৎ.........হয়েছে/হয়েছ/হয়েছেন?\" যুক্ত বাক্যের ক্ষেত্রে।
-
-</item>
-
-
-
-        <item>
-22.How Long=কতদিন যাবৎ ............রয়েছ/রয়েছে/রয়েছেন? (স্থানের ক্ষেত্রে)।
-\n\n  বাংলা ক্রিয়ার শেষে \"কতদিন যাবৎ ............রয়েছ/রয়েছে/রয়েছেন? \" যুক্ত বাক্যের ক্ষেত্রে।
-
+19.5W1H/প্রশ্ন বোধক বাক্যে  \"এ,ই,অ+?\" থাকলে।
+\n বাংলায় প্রশ্নবোধক বাক্যে \"এ,ই,অ+?"\ যুক্ত থাকলে।
 </item>
 
 
 
 
         <item>
-23. How Far=কতদুর/কতটুকু?
-\n\n  বাংলা ক্রিয়ার শেষে \"কতদুর/কতটুকু? \" যুক্ত বাক্যের ক্ষেত্রে।
+20. 5W1H/প্রশ্ন বোধক বাক্যে \"বে,ব,বা,বেন+?"\ থাকলে।
+\n বাংলা বাক্যের  শেষে \" বে,ব,বা,বেন+?"\ যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
+        <!--20.1-->
 
+
+        <item>
+21.How Long =কতদিন যাবৎ......তেছ,তেছে,তেছি+?
+\n বাংলা বাক্যে   \"কতদিন যাবৎ......তেছ,তেছে,তেছি+? \" যুক্ত  থাকলে।
+</item>
+
+
+
+
+        <!--   20.2-->
 
 
 
         <item>
-24.Didn\'t=নাই।
-\n\n  বাংলা ক্রিয়ার শেষে \"নাই  \" যুক্ত বাক্যের ক্ষেত্রে।
+    22.How long=কতদিন যাবৎ......হয়েছে,হয়েছ,হয়েছেন+?
+    \n বাংলা বাক্যে   \"কতদিন যাবৎ......হয়েছে,হয়েছ,হয়েছেন+? \" যুক্ত  থাকলে।
+
 </item>
 
 
-
+        <!--  20.3-->
 
 
         <item>
-25.Couldn\'t = তে পারি নাই/তে পার নাই/তে পারে নাই।
-\n\n  বাংলা ক্রিয়ার শেষে \"তে পারি নাই/তে পার নাই/তে পারে নাই \" যুক্ত বাক্যের ক্ষেত্রে।
+    23.How long=কতদিন যাবৎ.........রয়েছ,রয়েছে,রয়েছেন+? (স্থানের ক্ষেত্রে)।
+    \n বাংলা বাক্যে   \"কতদিন যাবৎ.........রয়েছ,রয়েছে,রয়েছেন+?\" যুক্ত  থাকলে।
 
-</item>
-
-
+    </item>
 
 
 
-
-        <item>
-26.তে চাই নাই।
-\n\nবাংলা ক্রিয়ার শেষে  \"তে চাই নাই \" যুক্ত বাক্যের ক্ষেত্রে।
-
-</item>
-
-
-
+        <!--21-->
 
 
         <item>
-27.তে চাই না।
-\n\n বাংলা ক্রিয়ার শেষে  \"তে চাই না। \" যুক্ত বাক্যের ক্ষেত্রে।
-
+24.How far=কতদুর/কতটুকু।
+\n\n বাংলা বাক্যে \"কতদুর/কতটুকু \" যুক্ত থাকলে ।
 </item>
 
 
+        <!--22-->
 
+        <item>
+25.Didn\'t=নাই।
+\n\n  বাংলা বাক্যের  শেষে \"নাই  \" যুক্ত বাক্যের ক্ষেত্রে।
+</item>
+
+
+        <!-- 23-->
 
 
         <item>
-28.তে চাইবো না।
-\n\nবাংলা ক্রিয়ার শেষে  \"তে চাইবো না। \" যুক্ত বাক্যের ক্ষেত্রে।
+26.Couldn\'t\ = তে পারি নাই/তে পারো নাই/তে পারে নাই।
+\n\n  বাংলায় \"তে পারি নাই/তে পারো নাই/তে পারে নাই \" যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
 
 
 
+
+        <!-- 24.1-->
+        <item>
+27.Didn\'t\ want to=তে চাই নাই।
+\n\n বাংলা বাক্যের  শেষে  \"তে চাই নাই।  \" যুক্ত থাকলে।
+
+</item>
+
+
+        <!--24.2-->
+
+        <item>
+28. Don\’t\/doesn\'t\ want to=তে চাই না।
+\n\n বাংলা বাক্যের  শেষে  \"তে চাই না।  \" যুক্ত ক্ষেত্রে।
+
+</item>
+
+
+
+
+        <!--  24.3-->
 
 
         <item>
-29.তে চাই নাই/তে চাই না/তে চাইবো না।
-\n\nবাংলা ক্রিয়ার শেষে  \"তে চাই নাই/তে চাই না/তে চাইবো না। \" যুক্ত বাক্যের ক্ষেত্রে।
-
+29. Won\'t\+want to=তে চাই না।
+\n\n বাংলা বাক্যের  শেষে  \"তে চাই না।  \" যুক্ত ক্ষেত্রে।
 </item>
 
 
-
+        <!-- 25.1-->
 
 
         <item>
-30.তে হচ্ছে।
-\n\nবাংলা ক্রিয়ার শেষে  \"তে হচ্ছে।  \" যুক্ত বাক্যের ক্ষেত্রে।
+30.Am,is,are+to be=তে হচ্ছে।
+\n\n বাংলা বাক্যের  শেষে  \"তে হচ্ছে। \" যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
 
 
-
+        <!--   25.2-->
 
 
         <item>
-31.তে হয়াছে।
-\n\nবাংলা ক্রিয়ার শেষে  \"তে হয়াছে। \" যুক্ত বাক্যের ক্ষেত্রে।
+31.Have/Hasto=তে হইয়াছে।
+\n\nবাংলা বাক্যের  শেষে  \"তে হইয়াছে। \" যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
 
 
 
+        <!-- 25.3-->
 
 
         <item>
-32.তে হলো।
-\n\nবাংলা ক্রিয়ার শেষে  \"তে হলো।  \" যুক্ত বাক্যের ক্ষেত্রে।
+32.Had+been to=তে হলো।
+
+\n\nবাংলা বাক্যের  শেষে  \"তে হলো। \" যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
 
 
 
-
+        <!-- 26.1-->
 
         <item>
-33.Use of How= আশ্চর্য/বিস্ময়ের! ক্ষেত্রে।
-\n\nবাংলা ক্রিয়ায়  \" আশ্চর্য/বিস্ময় ! \" যুক্ত বাক্যের ক্ষেত্রে।
+33.Use of How=আশ্চর্য/বিস্ময়ের ক্ষেত্রে!
+\n\বাংলা বাক্যের  শেষে  \"আশ্চর্য/বিস্ময়ের ক্ষেত্রে!"\ যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
 
-
-
-
+        <!--26.2-->
 
         <item>
 34.Use of How=কিভাবে/কেমন করে বুঝানোর জন্য!
-\n\n বাংলা ক্রিয়ার শেষে  \"কিভাবে/কেমন করে বুঝানো! \" যুক্ত বাক্যের ক্ষেত্রে।
+\n\n বাংলা বাক্যের  শেষে  \"কিভাবে/কেমন করে বুঝানো!"\ যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
 
 
-
+        <!--26.3-->
 
 
         <item>
 35.Use of How=প্রশ্ন বোধক বুঝাতে?
-\n\n বাংলা বাক্যে প্রশ্ন বোধক বুঝাতে-এবং বাক্যের শেষে  \"? \" চিহ্ন যুক্ত বাক্যের ক্ষেত্রে।
+\n\n বাংলা বাক্যে প্রশ্ন বোধক বুঝাতে-এবং বাক্যের \"? \" চিহ্ন যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
 
 
-
+        <!--  27.1-->
 
 
         <item>
 36.Use of Can= কর্তা কিছু করতে পারে বুঝাতে।
-\n\n বাংলা ক্রিয়ার শেষে  \"পারি/পারে/পারো। \" যুক্ত বাক্যের ক্ষেত্রে।
+\n\n বাংলা বাক্যের  শেষে  \"পারি/পারে/পারো। \" যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
 
 
-
+        <!--   27.2-->
 
 
         <item>
-37.Use of Can= কর্তা কিছু করতে পারে না বুঝাতে।
-\n\n বাংলা ক্রিয়ার শেষে  \"পারি না/পারে না/পারো না। \" যুক্ত বাক্যের ক্ষেত্রে।
+37.Use of Can\'t\= কর্তা কিছু করতে পারে না বুঝাতে।
+\n\n বাংলা বাক্যের  শেষে  \"পারি /পারে না/পারো না। \" যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
 
 
-
+        <!-- 27.3-->
 
 
         <item>
-38.Use of Can= কর্তা কিছু করতেই পারে বুঝাতে।
-\n\n বাংলা ক্রিয়ার শেষে  \"করতেই পারি/করতেই পারে/করতেই পারো। \" যুক্ত বাক্যের ক্ষেত্রে।
+38.Use of Can be= কর্তা কিছু করতেই পারে বুঝাতে।
+\n\n বাংলা বাক্যের  শেষে  \"করতেই পারি/করতেই পারে/করতেই পারো। \" যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
 
 
-
+        <!--27.4-->
 
 
         <item>
-39.Use of Can= কর্তা কিছু করতেই পারে না বুঝাতে।
-\n\n বাংলা ক্রিয়ার শেষে  \"করতেই পারি না/করতেই পারে না/করতেই পারো না। \" যুক্ত বাক্যের ক্ষেত্রে।
+39.Use of can\’t\ be= কর্তা কিছু করতেই পারে না বুঝাতে।
+    \n\n বাংলা বাক্যের  শেষে  \"করতেই পারি /করতেই পারে না/করতেই পারো না। \" যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
 
 
-
+        <!--27.5-->
 
 
         <item>
-40.Use of Can= কর্তা কিছু হতেই পারে বুঝাতে।
-\n\n বাংলা ক্রিয়ার শেষে  \"হতেই পারি /হতেই পারে /হতেই পারো । \" যুক্ত বাক্যের ক্ষেত্রে।
+40.Use of Can be = কর্তা কিছু হতেই পারে বুঝাতে।
+\n\n বাংলা বাক্যের  শেষে  \"হতেই পারি /হতেই পারে /হতেই পারো । \" যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
 
 
+        <!--27.6-->
+
+        <item>
+41.Use of can\’t\ be= কর্তা কিছু হতেই পারে না বুঝাতে
+\n\n বাংলা বাক্যের  শেষে  \"হতেই পারি না/হতেই পারে না/হতেই পারো না। \" যুক্ত বাক্যের ক্ষেত্রে।
+</item>
+
+
+
+
+        <!--28.1-->
 
 
         <item>
-41.Use of Can= কর্তা কিছু হতেই পারে না বুঝাতে।
-\n\n বাংলা ক্রিয়ার শেষে  \"হতেই পারি না/হতেই পারে না/হতেই পারো না। \" যুক্ত বাক্যের ক্ষেত্রে।
+    42.Have/has been+Able to= কর্তা কিছু করতে পারিয়াছি/ পারিয়াছে/ পারিয়াছো বুঝাতে।
+    বাংলা বাক্যের  শেষে  \"তে পারিয়াছি/তে পারিয়াছে/তে পারিয়াছো। \" যুক্ত বাক্যের ক্ষেত্রে।
+
 </item>
 
 
-
-
-
+        <!--28.2-->
 
 
         <item>
-42.Able to= কর্তা কিছু করতে পারে বুঝাতে।
-বাংলা ক্রিয়ার শেষে  \"তে পারিয়াছি/তে পারিয়াছে/তে পারিয়াছো। \" যুক্ত বাক্যের ক্ষেত্রে।
+    43. am/is/are being + Able to= কর্তা কিছু করতে পারিতেছে বুঝাতে।
+    বাংলা বাক্যের  শেষে  \"তে পারিতেছি/তে পারিতেছ /তে পারিতেছে। \" যুক্ত বাক্যের ক্ষেত্রে।
+</item>
 
+
+        <!--28.3-->
+
+        <item>    43. am/is/are being + Able to= কর্তা কিছু করতে পারিতেছে বুঝাতে।
+    বাংলা বাক্যের  শেষে  \"তে পারিতেছি/তে পারিতেছ /তে পারিতেছে। \" যুক্ত বাক্যের ক্ষেত্রে।
 </item>
 
 
 
+        <!--28.4-->
 
 
         <item>
-43.Able to= কর্তা কিছু করতে পারিতেছে বুঝাতে।
-বাংলা ক্রিয়ার শেষে  \"তে পারিতেছি/তে পারিতেছ /তে পারিতেছে। \" যুক্ত বাক্যের ক্ষেত্রে।
+    45. Had been + Able to= কর্তা কিছু করতে পারিয়াছিলো/পারিয়াছিলাম বুঝাতে।
+    বাংলা বাক্যের  শেষে  \"পারিয়াছিলো/পারিয়াছিলাম । \" যুক্ত বাক্যের ক্ষেত্রে।
 </item>
 
 
-
-
+        <!--28.5-->
 
         <item>
-44.In a position to = কর্তা কিছু করার যোগ্যতা থাকলে বুঝাতে।
-বাংলা ক্রিয়ার শেষে  \"তে চাই নাই/তে চাই না/তে চাইবো না। \" যুক্ত বাক্যের ক্ষেত্রে।
-
+    46. Was/ware + being able to= কর্তা কিছু করতে পারিতেছিলো/পারিতেছিলাম বুঝাতে।
+    বাংলা বাক্যের  শেষে  \"পারিতেছিলো/পারিতেছিলাম \" যুক্ত বাক্যের ক্ষেত্রে।
 </item>
 
 
 
-
+        <!--30.1-->
 
         <item>
-45.In a position to=তে চাই নাই/তে চাই না/তে চাইবো না।
-বাংলা ক্রিয়ার শেষে  \"তে চাই নাই/তে চাই না/তে চাইবো না। \" যুক্ত বাক্যের ক্ষেত্রে।
-
+    47. Proud of= কর্তা কিছু বা কাওকে নিয়ে গর্ব করলে।
+    বাংলা বাক্যের  শেষে  \"গর্বিত \" যুক্ত বাক্যের ক্ষেত্রে।
 </item>
 
 
 
-    </string-array>
+
+
+        <!--30.2-->
+
+        <item>
+    48. Proud of= কর্তা কিছু কর্তা কিছু করতে পেরে গর্বিত হলে।
+    \n\n বাংলা বাক্যের  শেষে  \"গর্বিত \" যুক্ত বাক্যের ক্ষেত্রে।
+</item>
+
+
+
+        <!--30.3-->
+
+        <item>
+    49. Proud of= কর্তা কিছু হতে পেরে গর্বিত হলে।
+    \n\n বাংলা বাক্যের  শেষে  \"গর্বিত \" যুক্ত বাক্যের ক্ষেত্রে।
+</item>
+
+
+
+
+        <!--31.1-->
+
+        <item>
+    50. Scared of= কর্তা কিছু বা কাওকে দেখে ভয় পেলে।
+    \n\n বাংলা বাক্যের  শেষে  \"ভীত/ভয়  \" যুক্ত বাক্যের ক্ষেত্রে।
+</item>
+
+
+
+        <!--31.2-->
+
+        <item>
+    51. Scared of= কর্তা কিছু করতে ভয় পেলে।
+    \n\n বাংলা বাক্যের  শেষে  \"ভীত/ভয়  \" যুক্ত বাক্যের ক্ষেত্রে।
+</item>
+
+
+
+</string-array>
+
 
 
 
 
     <string-array name="spoken_child">
+
+
         //1
-
         <item>
-         \n Structure:-S + am/is/ are to+ PV (1st).
+\n Structure:-S + am/is/ are to+ PV (1st)
 
-        \n \n➠I am to go to school.
-        \n☛আমাকে স্কুলে যাইতে হয়।
-        \n➠You are to drive a car.
-        \n☛তোমাকে গাড়ি চালাইতে হয়।
-         \n➠He is to attend to the meeting.
-        \n☛তাকে মিটিং এ উপস্থিত হতে হয়।
-        </item>
+\n\n➠I am to go to school.
+\n☛আমাকে স্কুলে যাইতে হয়।
+\n➠You are to drive a car.
+\n☛তোমাকে গাড়ি চালাইতে হয়।
+\n➠He is to attend to the meeting.
+\n☛তাকে মিটিং এ উপস্থিত হতে হয়।
+</item>
+
+
 
         //2
 
 
-        <item>
-        \nStructure:-S + have/has to+ PV (1st).
 
-        \n\n➠I have to do my duty.
-        \n☛আমাকে আমার দায়িত্ব পালন করতেই হয়।
-        \n➠The fisherman has to catch fish.
-         \n☛জেলেকে মাছ ধরতেই হয়। </item>
+        <item>
+\nStructure:-S + have/has to+ PV (1st)
+
+\n\n➠I have to do my duty.
+\n☛আমাকে আমার দায়িত্ব পালন করতেই হয়।
+\n➠The fisherman has to catch fish.
+\n☛জেলেকে মাছ ধরতেই হয়। </item>
+
+
+
 
         //3
 
-        <item>
-        \nStructure:-S +had to + PV (1st).
 
-        \n\nExample:
-        \n➠Moga had to do steal.
-        \n☛মগাকে চুরি করতেই হয়েছিলো।
-        \n➠We had to go to picnic.
-        \n☛আমাদের পিকনিকে জাইতেই হয়েছিলো।
-        </item>
+
+        <item>
+Structure:-S +had to + PV (1st)
+
+\n\nExample:
+\nMoga had to do steal.
+\nমগাকে চুরি করতেই হয়েছিলো।
+\nWe had to go to picnic.
+\nআমাদের পিকনিকে জাইতেই হয়েছিলো।
+ </item>
+
+
 
         //4
 
+
+
+
         <item>
-\nStructure:-
+Structure:-
 S+shall/will have to+ PV (1st)
 
 \n\nExample:
 \n➠I shall have to go to market.
 \n☛আমাকে বাজারে যাইতে হবে।
-\n➠We have to cut paddy.
-\n☛আমাদের ধান কাটতে হবে।  </item>
+\n➠We will have to cut paddy.
+\n☛আমাদের ধান কাটতে হবে।
+        </item>
 
-        //5
 
-        <item>
-\nStructure:-S+have/has got to + PV (1st).
+
+//5
+
+
+
+
+<item>
+Structure:-
+S+have/has got to + PV (1st).
 
 \n\nExample:-
-\n➠I have to learn English.
+\n➠I have got to learn English.
 \n☛আমাকে ইংরেজি শিখতেই হবে।
-\n➠He has to go to Dhaka
-\n☛তার ঢাকা যেতেই হবে। </item>
+\n➠He has got to go to Dhaka
+\n☛তার ঢাকা যেতেই হবে।
+</item>
 
-        //6
 
-        <item>
-\nStructure:-S +am/is/are supposed to + PV (1st).
+
+//6
+
+
+<item>
+Structure:-S +am/is/are supposed to + PV (1st).
 
 \n\nExample:-
 \nI am supposed to meet with him.
 \nআমার তার সাথে দেখা করার কথা আছে।
 \nHe is supposed to get promotion to his job.
-\nতার চাকরিতে পদোন্নতি পাবার কথা আছে। </item>
+\nতার চাকরিতে পদোন্নতি পাবার কথা আছে।
+</item>
 
-        //7
 
-        <item>
-\nStructure:- S +was/were supposed to + PV (1st).
+
+//7
+
+
+
+
+<item>
+Structure:- S +was/were supposed to + PV (1st).
 
 \n\nExample:-
 \nHe was supposed to buy a cow.
 \nতার একটি গরু কেনার কথা ছিলো।
 \nWe were supposed to start a business.
-\nআমাদের ব্যবসা শুরু করার কথা ছিলো। </item>
-        //8
+\nআমাদের ব্যবসা শুরু করার কথা ছিলো।
+</item>
 
 
-        <item>
-\nStructure:-S+am/is/are likely to + PV (1st)
+
+//8
+
+
+
+
+<item>
+Structure:-S+am/is/are Likely to + PV (1st)
 
 \n\nExample:-
-\nI am likely to shop today.
-\nআজকে আমার কেনাকাটা করার কথা আছে ।
+\nI am likely to buy a car.
+\n আমার গাড়ি কেনার কথা আছে ।
 \nYou are likely to punish.
-\nতোমার শাস্তি পাওয়ার কথা আছে।</item>
+\nতোমার শাস্তি পাওয়ার কথা আছে।
+</item>
 
-        //9
 
-        <item>
-\nStructure:-S+was/were likely to+PV (1st)
 
-\n\nExample:-
+
+//9
+
+
+<item>
+Structure:-S+was/were likely to+PV (1st)
+
+
+\n\Example:-
 \nWe were likely to arrange a picnic.
 \nআমাদের বনভজন আয়জনের কথা ছিল।
 \nHe ware likely to play football.
 \nতার ফুটবল খেলার কথা ছিল।</item>
 
-        //10
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
+ //10
+
+
+<item>
+Structure:-S + can\"t\" but + PV (1st).
+
+\n\n We can\"t"\ but eat  rice.
+\n আমরা ভাত না খেয়ে পারি না।
+\n Kodu can\"t"\ but go to school.
+\n কদু স্কুলে না যেয়ে পারে না। </item>
+
+
 
         //11
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
+        <item>
+Structure:-S + couldn\"t\" but + PV (1st).
+
+\n\n We couldn\"t"\ but bit the thief.
+\n আমরা চরটিকে না মেরে পারলাম না।
+\n He couldn\"t"\ but dig the pond.
+\n সে পুকুরটি ন খনন করে পারলো না।
+
+</item>
+
 
 
         //12
 
-        <item>
-         \n Structure:-S + am/is/ are to+ PV (1st).
 
-        \n \n➠I am to go to school.
-        \n☛আমাকে স্কুলে যাইতে হয়।
-        \n➠You are to drive a car.
-        \n☛তোমাকে গাড়ি চালাইতে হয়।
-         \n➠He is to attend to the meeting.
-        \n☛তাকে মিটিং এ উপস্থিত হতে হয়।
-        </item>
+        <item>
+Structure:-S + am/is/are about to + PV (1st). .
+
+\n\n I am about to buy a car.
+\n আমি একটি গাড়ি কিনি কিনি অবস্থায় আছি।
+\n He is about to die.
+\n সে মরে মরে অবস্থায় আছে।
+
+\n \n বাংলা ক্রিয়া দুই বার উচ্চারিত হলে এটি ব্যাবহার করতে হবে।
+\n যেমনঃ- যায় যায়, করে করে, মরে মরে ইত্যাদি।
+
+</item>
+
+
 
         //13
 
 
         <item>
-        \nStructure:-S + have/has to+ PV (1st).
+Structure:-S +was/ware+about to + PV (1st).
 
-        \n\n➠I have to do my duty.
-        \n☛আমাকে আমার দায়িত্ব পালন করতেই হয়।
-        \n➠The fisherman has to catch fish.
-         \n☛জেলেকে মাছ ধরতেই হয়। </item>
+\n\n I was about to call you.
+\n আমি তোমাকে কল দেই দেই অবস্থায় ছিলাম।
+\n The axxused person ware about to
+say something.
+\n দোষি ব্যাক্তিটি কিছু বলে বলে অবস্থায় ছিলো।
+
+</item>
+
+
 
         //14
 
-        <item>
-        \nStructure:-S +had to + PV (1st).
 
-        \n\nExample:
-        \n➠Moga had to do steal.
-        \n☛মগাকে চুরি করতেই হয়েছিলো।
-        \n➠We had to go to picnic.
-        \n☛আমাদের পিকনিকে জাইতেই হয়েছিলো।
-        </item>
+        <item>
+Structure:-S + can have + PV(3rd)
+
+\n\n We can have won the match.
+\n আমরা ম্যাচটি জিতলেও জিততে পারি।
+\n He can have do the work.
+\n সে কাজটি করতে পারলেও করতে পারে।
+
+</item>
+
+
 
         //15
 
-        <item>
-\nStructure:-
-S+shall/will have to+ PV (1st)
-
-\n\nExample:
-\n➠I shall have to go to market.
-\n☛আমাকে বাজারে যাইতে হবে।
-\n➠We have to cut paddy.
-\n☛আমাদের ধান কাটতে হবে।  </item>
-
-        //16
 
         <item>
-\nStructure:-S+have/has got to + PV (1st).
+Structure:-S + could have + PV(3rd).
 
-\n\nExample:-
-\n➠I have to learn English.
-\n☛আমাকে ইংরেজি শিখতেই হবে।
-\n➠He has to go to Dhaka
-\n☛তার ঢাকা যেতেই হবে। </item>
+\n\n You could have join the party.
+\n তুমি পার্টিতে যোগ দিলেও দিতে পারতো।
+\n He could have went to India
+\n সে ইন্ডিয়া যেতে পারতো।</item>
 
-        //17
 
-        <item>
-\nStructure:-S +am/is/are supposed to + PV (1st).
 
-\n\nExample:-
-\nI am supposed to meet with him.
-\nআমার তার সাথে দেখা করার কথা আছে।
-\nHe is supposed to get promotion to his job.
-\nতার চাকরিতে পদোন্নতি পাবার কথা আছে। </item>
+    //16
 
-        //18
 
-        <item>
-\nStructure:- S +was/were supposed to + PV (1st).
+    <item>
+        Structure:-S + should have + PV(3rd).
 
-\n\nExample:-
-\nHe was supposed to buy a cow.
-\nতার একটি গরু কেনার কথা ছিলো।
-\nWe were supposed to start a business.
-\nআমাদের ব্যবসা শুরু করার কথা ছিলো। </item>
-        //19
+        \n\n I should have foughten with Nibir.
+        \n আমার নিবিরের সাথে মারা মারি করা উচিৎ ছিলো।
+        \n He should have marriged eralyer.
+        \n তার তারাতারি বিয়ে করা উচিৎ ছিলো।
 
+    </item>
 
-        <item>
-\nStructure:-S+am/is/are likely to + PV (1st)
 
-\n\nExample:-
-\nI am likely to shop today.
-\nআজকে আমার কেনাকাটা করার কথা আছে ।
-\nYou are likely to punish.
-\nতোমার শাস্তি পাওয়ার কথা আছে।</item>
 
-        //20
+    //17
 
-        <item>
-\nStructure:-S+was/were likely to+PV (1st)
 
-\n\nExample:-
-\nWe were likely to arrange a picnic.
-\nআমাদের বনভজন আয়জনের কথা ছিল।
-\nHe ware likely to play football.
-\nতার ফুটবল খেলার কথা ছিল।</item>
+    <item>
+        Structure:-S + shouldn\'t\ have + PV(3rd).
 
-        //21
+        \n\n He shouldn\'t\ have gone abroad.
+        \n তার বিদেশ যাওয়া ঠিক হয় নাই ।
+        \n I shouldn\'t\ have bought a flat.
+        \n আমার বাড়ি কিনা উচিৎ হয় নাই।
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
+    </item>
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
 
-        //22
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
+    //18
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
 
+    <item>
+        Structure:-Did + S + PV(1st) +?.
+        \n 5W1H++ did + S + PV (1st) + ?
 
+        \n\n Did you go to school?
+        \n তুমি কি স্কুলে গিয়েছিলে?
+        \n Wher did he go?
+        \n সে কোথায় গিয়েছিলো?
 
-        //23
+        \n\n Note:-5W1H=What,Where,Why,When,Whom &amp; How.
 
-        <item>
-\nStructure:- S +was/were supposed to + PV (1st).
+    </item>
 
-\n\nExample:-
-\nHe was supposed to buy a cow.
-\nতার একটি গরু কেনার কথা ছিলো।
-\nWe were supposed to start a business.
-\nআমাদের ব্যবসা শুরু করার কথা ছিলো। </item>
 
 
-        //24
+    //19
 
 
-        <item>
-\nStructure:-S+am/is/are likely to + PV (1st)
+    <item>
+        Structure:-5W1H+do/does + S + PV(1st)+Obj+Ext?
 
-\n\nExample:-
-\nI am likely to shop today.
-\nআজকে আমার কেনাকাটা করার কথা আছে ।
-\nYou are likely to punish.
-\nতোমার শাস্তি পাওয়ার কথা আছে।</item>
+        \n\n What do you do?
+        \n তুমি কি করো?
+        \n When does he want to go?
+        \n সে কখন গিয়েছিলো?
+        \n\n Note:-5W1H=What,Where,Why,When,Whom &amp; How.
 
-        //25
+    </item>
 
-        <item>
-\nStructure:-S+was/were likely to+PV (1st)
 
-\n\nExample:-
-\nWe were likely to arrange a picnic.
-\nআমাদের বনভজন আয়জনের কথা ছিল।
-\nHe ware likely to play football.
-\nতার ফুটবল খেলার কথা ছিল।</item>
 
-        //26
+    //20
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
+    <item>
+        Structure:-5W1H +will+S+PV(1st)+Obj+Ext?.
 
-        //27
+        \n\n What will i do?
+        \n আমি কি করবো?
+        \n When will you go to school?
+        \n তুমি কখন স্কুলে যাবে?
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
+    </item>
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
+    //21
 
 
-        //28
+    <item>
+        Structure:-How long + have/has + S + been + PV.ing +?
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
+        \n\n How long has he been reading?
+        \n সে কত সময় যাবৎ পরতেছে?
+        \n How long have you been working?
+        \n তুমি কত সময় যাবৎ কাজ করতেছো?
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
+    </item>
 
 
-        //29
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
+    //22
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
 
+    <item>
+        Structure:-How long + have/has + S + been + N/p +?
 
-        //30
+        \n\n How long have you been ill?
+        \n তুমি কত দিন যাবৎ অসুস্থ হয়েছ?
+        \n How long have you been rich?
+        \n তুমি কত দিন যাবৎ ধনি হয়েছ?
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
+    </item>
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
 
 
-        //31
+    //23
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
 
 
-        //32
+    <item>
+        Structure:-How long + have/has + S + been +স্থান+?
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
+        \n\n How long have you been Dhaka?
+        \n তুমি কতদিন যাবৎ ঢাকায় আছো?
+        \n How long have you been here?
+        \n তুমি কতদিন যাবৎ এখানে আছো?
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
+    </item>
 
 
-        //33
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
+    //24
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
 
+    <item>
+        Structure:-How far + AV + S + PV(AT)+?
 
-        //34
+        \n\n How far did you study last night?
+        \n তুমি গতরাতে কতটুকু লেখা পড়া করেছো?
+        \n How far did you go yesterday?
+        \n তুমি গতকাল কতদূর গিয়েছিলে?
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
+    </item>
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
 
 
-        //35
+    //25
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
+    <item>
+        Structure:-S + didn\’t\ + PV (1st).
 
+        \n\n I didn’t do this.
+        \n আমি এইটা করি নাই।
+        \n He didn’t go there.
+        \n সে সেখানে যায় নাই।
+    </item>
 
-        //36
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
+    //26
 
 
-        //37
+    <item>
+        Structure:-S + couldn\'t\ PV(1st).
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
+        \n\n I couldn\'t\ sleep.
+        \n আমি ঘুমাইতে পারি নাই।
+        \n You couldn\'t\ win the match.
+        \n সে ম্যাচটি জিততে পারে নি।
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
+    </item>
 
 
-        //38
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
+    //27
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
+    <item>
+        Structure:-S + didn’t + want to + PV(1st) +
 
+        \n\n I didn\’t\ want to do this.
+        \n আমি এইটা করতে চাই নাই।
+        \n He didn\’t\ want to to to market.
+        \n সে বাজারে যাইতে চাই নাই।
+    </item>
 
-        //39
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
+    //28
+    <item>
+        Structure:-S + don\’t\/doesn\’t\ + want to + PV (1st) +
+        (\n\n I don\’t\ want to play right now.
+        \n আমি এই মুহূর্তে খেলতে চাচ্ছি না।
+        \n He /doesn\’t\ want to die.
+        \n সে মরতে চায় না।
+    </item>
 
 
-        //40
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
+    //29
+    <item>
+        Structure:-S + won\’t\ + want to + PV(1st) +
+        (\n\n They won\’t\ want to to come here
+        \n তারা এই খানে আসতে চাইবে না।
+        \n He won\’t\ + want to die.
+        \n সে মরতে চাইবে না।
+    </item>
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
 
 
-        //41
+    //30
+    <item>
+        Structure:-S + am/is/are to be + PV+ing
+        (\n\n I am to be eating rice.
+        \n আমাকে খাইতে হচ্ছে।
+        \n He is to reading newspaper.
+        \n তাকে সংবাদপত্র পরতে হচ্ছে।
+    </item>
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
+    //31
+    <item>
+        Structure:-S + have/has been to + PV(1st)
+        (\n\n I have been to sleep.
+        \n আমাকে ঘুমাইতে হইয়াছে।
+        \n He has been to play football.
+        \n তাকে ফুটবল খেলতে হইয়াছে।
+    </item>
 
 
-        //42
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
+    //32
+    <item>
+        Structure:-S + had been to + PV(1st)
+        (\n\n I had been to work hard.
+        \n আমাকে কোঠর পরিশ্রম করতে হলো।
+        \n He had been to go to market.
+        \n তাকে বাজারে যাইতে হলো।
+    </item>
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
 
 
-        //43
+    //33
+    <item>
+        Structure:-How + adj + the + N/P + be verb + !
+        (\n\n How beautiful the flower is!
+        \n কি সুন্দর ফুল!
+        \n How brilliant the student is!
+        \n কি মেধাবী ছাত্র!
+    </item>
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
 
+    //34
+    <item>
+        Structure:-How + S + PV(AT)
+        (\n\n  How I love you, you don’t know?
+        \n আমি তোমাকে কেমন ভালোবাসি,তুমি জানো না?
+    </item>
 
-        //44
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
 
+    //35
+    <item>
+        Structure:-How + AV + S + PV(AT) + ?
+        (\n\n How did he know it?
+        \n সে এইটা কিভাবে জানে?
+        \n How will you go there?
+        \n তুমি সেখানে কিভাবে যাবে?
+    </item>
 
-        //45
 
-        <item>
-\nStructure:-S + cant but + PV (1st)
 
-\n\nWe cant but eat  rice.
-\nআমরা ভাত না খেয়ে পারি না।
-\nKodu cant but go to school.
-\nকদু স্কুলে না যেয়ে পারে না। </item>
 
+    //36
+    <item>
+        Structure:-S + can + PV(1st)
+        (\n\n  I can speak Enlish now.
+        \n আমি এখন ইংরেজী তে কথা বলতে পারি।
+        \n He can drive car.
+        \n সে গাড়ি চালাইতে পারে।
+    </item>
 
 
+    //37
+    <item>
+        Structure:-S + Can\'t\ + PV(1st)
+        (\n\n  I Can\'t\  understand bad or good.
+        \n আমি ভালো মন্দ বুঝতে পারি না।
+        \n The baby Can\'t\  walk.
+        \n শিশুটি হাটতে পারে না।
+    </item>
 
-    </string-array>
+
+
+    //38
+    <item>
+        Structure:-S + can be + PV.ing
+        (\n\n  I can be speaking English.
+        \n আমি ইংরেজী বলতেই পারি।
+        \n Nila can be go school.
+        \n নিলা স্কুলে জাইতেই পারে।
+    </item>
+
+
+
+
+    //39
+    <item>
+        Structure:-S + can\’t\ be + PV.ing
+        (\n\n  I can\’t\ be doing such work.
+        \n আমি এই ধরণের কাজ করতেই পারি না।
+        \n He can’t be going there.
+        \n সে সেখানে জাইতেই পারে না।
+    </item>
+
+
+
+    //40
+    <item>
+        Structure:-S + can be + N/P
+        (\n\n  A teacher can be my friend.
+        \n একজন শিক্ষক আমার বন্ধু হতেই পারে।
+        \n Anis can be a doctor.
+        \n আনিস ডাক্তার হতেই পারে।
+    </item>
+
+
+
+    //41
+    <item>
+        Structure:-S + can\’t\ be + N/P
+        (\n\n Jorina can’t be actreess.
+        \n জরিনা অভিনেত্রী হতেই পারে না।
+        \n Nahid can\’t\ be a pilot.
+        \n নাহিদ বিমানচালক হতেই পারে না।
+    </item>
+
+
+
+    //42
+    <item>
+        Structure:-S + have/has been + able to + PV(1st)
+        (\n\n I have been able to pass the exam.
+        \n আমি পরিক্ষায় পাস করতে পারিয়াছি।
+        \n Jabed hav been able to reach to his house.
+        \n জাবেদ তার বাড়ি পোঁছাইতে পারিয়াছে।
+    </item>
+
+
+
+    //43
+    <item>
+        Structure:-S + am/is/are being +able to + PV(1st)
+        (\n\n Nidhi is being able to coock rice.
+        \n নিধি ভাত রান্না করতে পারিতেছে।
+        \n Jubayer is being able to speak English.
+        \n জুবায়ের ইংরেজী বলতে পারিয়াছে
+    </item>
+
+
+
+
+    //44
+    <item>
+        Structure:-S + will be + able to +PV(1st)
+        (\n\n I will be able to start a business.
+        \n আমি ব্যবসা শুরু করতে পারবো।
+        \n Nazmul will be able to cut paddy.
+        \n নাজমুল ধান কাটতে পারবে।
+    </item>
+
+
+
+
+    //45
+    <item>
+        Structure:-S + had been + able to + able to +PV(1st)
+        (\n\n I will be able to start a business.
+        \n আমি ব্যবসা শুরু করতে পারবো।
+        \n Nazmul will be able to cut paddy.
+        \n নাজমুল ধান কাটতে পারবে।
+    </item>
+
+
+
+
+    //46
+    <item>
+        Structure:-S + was/were being + able to +PV(1st)
+        (\n\n I will be able to start a business.
+        \n আমি ব্যবসা শুরু করতে পারবো।
+        \n Nazmul will be able to cut paddy.
+        \n নাজমুল ধান কাটতে পারবে।
+    </item>
+
+
+
+
+
+    //47
+    <item>
+        Structure:-S + be verb + proud of + N/P +
+        (\n\n I am proud of my village.
+        \n আমি আমার গ্রামকে নিয়ে গর্বিত।
+        \n Hridoy was proud with his dignity.
+        \n হৃদয় তার সম্মান নিয়ে গর্বিত।
+    </item>
+
+
+
+
+    //48
+    <item>
+        Structure:-S + be verb + proud of + PV + ing
+
+        \n\n I am proud of learning English.
+        \n আমি ইংরেজী শিখতে পেরে গর্বিত।
+        \n Monir was proud of wining the match.
+        \n মনির  ম্যাচ জিততে পেরে গর্বিত।
+    </item>
+
+
+
+
+    //49
+    <item>
+        Structure:-S + be verb + proud of + being + N/P
+
+        \n\n I am proud of being a devloper.
+        \n আমি ইংরেজী শিখতে পেরে গর্বিত।
+        \n He was proud of being a rickshaw puller.
+        \n সে রিক্সা চালক হতে পেরে গর্বিত।
+    </item>
+
+
+
+    //50
+    <item>
+        Structure:-S + be verb + scared of + N/P +
+
+        \n\n I am scared of my teacher.
+        \n আমি আমার শিক্ষককে দেখে ভয় পাই।
+        \n Moga was scared of snake.
+        \n মগা সাপ দেখে ভয় পেতো।
+    </item>
+
+
+
+
+
+    //51
+    <item>
+        Structure:-S + be verb + scared of + PV.ing
+
+        \n\n I am scared of going out at night.
+        \n আমি রাতে বাহিরে যেতে ভয় পাই।
+        \n Jorina was scared of loving me.
+        \n জরিনা আমাকে ভালবাসতে ভয় পেতো।
+    </item>
+
+
+
+
+
+</string-array>
+
+
+
 </resources>
