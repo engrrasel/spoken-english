@@ -70,8 +70,16 @@
                 android:clickable="true"
                 android:focusableInTouchMode="true"
                 app:cardCornerRadius="30dp"
-                app:cardBackgroundColor="@color/colorPrimaryDark"
+                app:cardBackgroundColor="#663FBF"
                 android:focusable="true">
+
+                <ImageView
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:src="@drawable/spoken1"/>
+
+
+
 
             </androidx.cardview.widget.CardView>
 
