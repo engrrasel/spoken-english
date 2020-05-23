@@ -31,7 +31,22 @@
             android:layout_width="match_parent"
             android:layout_height="250dp"
             android:scaleType="centerCrop"
-            android:src="@drawable/rasel"
+            android:src="@drawable/rose"
+            />
+
+        <TextView
+            android:id="@+id/marquee"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:textColor="#FFE70C"
+            android:textStyle="bold"
+            android:text="@string/welcome"
+            android:ellipsize="marquee"
+            android:marqueeRepeatLimit="marquee_forever"
+            android:scrollHorizontally="true"
+            android:padding="10dp"
+            android:singleLine="true"
             />
     <androidx.appcompat.widget.Toolbar
         android:layout_width="match_parent"
