@@ -1,9 +1,14 @@
 <resources>
-    <string name="app_name">Spoken English</string>
-
+    <string name="app_name">"Spoken English- ইংরজি শেখার সবচেয়ে সহজ পদ্ধতি"</string>
 
 
     <string name="welcome">"Welcome To Spoken English!!!"</string>
+
+
+    <string name="tense_defination">"Tense:-ক্রিয়া বা কোন কাজ সম্পাদনের
+        \nসময়কে ইংরেজীতে Tense বলে। "</string>
+
+    <string name="clasificationoftense">"Tense প্রধানত ৩ প্রকার"</string>
 
 
     <string-array name="spoken_header">
@@ -16,35 +21,20 @@
 </item>
 
 
-
-
-<item> 2.Have/Has to= তেই হয়
+        <item> 2.Have/Has to= তেই হয়
 \nVerb এর সাথে তেই হয় যুক্ত বাক্যে।
 </item>
 
 
-
-
-
-
-
-
-<item> 3.Had to = তেই হয়েছিল
+        <item> 3.Had to = তেই হয়েছিল
 \nVerb এর সাথে তেই হয়েছিল যুক্ত বাক্যে।
 </item>
-
-
-
-
 
 
         <item>
 4.Shall/will have to= তে হবে।
 \nVerb এর সাথে তে হবে যুক্ত বাক্যের ক্ষেত্রে।
  </item>
-
-
-
 
 
         <item>
@@ -54,18 +44,11 @@
  </item>
 
 
-
-
-
-
         <item>
 6.Am/is/are supposed to=কথা আছে।
 \nVerb এর সাথে কথা আছে যুক্ত বাক্যের ক্ষত্রে।
 
  </item>
-
-
-
 
 
         <item>
@@ -75,17 +58,11 @@
  </item>
 
 
-
-
-
-
         <item>
 8.Am,is,are likely to=সম্ভাবনা আছে।
 \nVerb এর সাথে  \"সম্ভাবনা আছে।=\"  যুক্ত  ব্যাকের  ক্ষেত্রে।
 
 </item>
-
-
 
 
         <item>
@@ -95,17 +72,11 @@
 </item>
 
 
-
-
-
         <item>
 10.Can\'t but =না পারি না।
 \nVerb এর সাথে না পারি না যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
-
-
-
 
 
         <item>
@@ -115,16 +86,10 @@
 </item>
 
 
-
-
-
-
         <item>
 12.Am,is,are about to =আবস্থায় আছে।
 \n বাংলা বাক্যের  শেষে অবস্তায় আছে যুক্ত বাক্যের ক্ষেত্রে।
 </item>
-
-
 
 
         <item>
@@ -133,15 +98,10 @@
 </item>
 
 
-
-
         <item>
 14.Can have= লে-লেও পারে।
 \n বাংলা বাক্যের  শেষে লে-লেও পারে যুক্ত বাক্যের ক্ষেত্রে।
 </item>
-
-
-
 
 
         <item>
@@ -150,13 +110,10 @@
 </item>
 
 
-
-
         <item>
 16.Should have= উচিৎ ছিল ।
 \n বাংলা বাক্যের  শেষে উচিৎ ছিল বাক্যের ক্ষত্রে।
 </item>
-
 
 
         <item>
@@ -165,20 +122,16 @@
 </item>
 
 
-
         <item>
 18.কি ইয়াছিল/কি ইয়াছিলেন?
 \n বাংলা বাক্যের  শেষে \"কি ইয়াছিল/কি ইয়াছিলেন?"\ যুক্ত বাক্যের ক্ষেত্রে।
 </item>
 
 
-
         <item>
 19.5W1H/প্রশ্ন বোধক বাক্যে  \"এ,ই,অ+?\" থাকলে।
 \n বাংলায় প্রশ্নবোধক বাক্যে \"এ,ই,অ+?"\ যুক্ত থাকলে।
 </item>
-
-
 
 
         <item>
@@ -195,10 +148,7 @@
 </item>
 
 
-
-
         <!--   20.2-->
-
 
 
         <item>
@@ -216,7 +166,6 @@
     \n বাংলা বাক্যে   \"কতদিন যাবৎ.........রয়েছ,রয়েছে,রয়েছেন+?\" যুক্ত  থাকলে।
 
     </item>
-
 
 
         <!--21-->
@@ -246,8 +195,6 @@
 </item>
 
 
-
-
         <!-- 24.1-->
         <item>
 27.Didn\'t\ want to=তে চাই নাই।
@@ -263,8 +210,6 @@
 \n\n বাংলা বাক্যের  শেষে  \"তে চাই না।  \" যুক্ত ক্ষেত্রে।
 
 </item>
-
-
 
 
         <!--  24.3-->
@@ -296,7 +241,6 @@
 </item>
 
 
-
         <!-- 25.3-->
 
 
@@ -306,7 +250,6 @@
 \n\nবাংলা বাক্যের  শেষে  \"তে হলো। \" যুক্ত বাক্যের ক্ষেত্রে।
 
 </item>
-
 
 
         <!-- 26.1-->
@@ -394,8 +337,6 @@
 </item>
 
 
-
-
         <!--28.1-->
 
 
@@ -422,7 +363,6 @@
 </item>
 
 
-
         <!--28.4-->
 
 
@@ -440,16 +380,12 @@
 </item>
 
 
-
         <!--30.1-->
 
         <item>
     47. Proud of= কর্তা কিছু বা কাওকে নিয়ে গর্ব করলে।
     বাংলা বাক্যের  শেষে  \"গর্বিত \" যুক্ত বাক্যের ক্ষেত্রে।
 </item>
-
-
-
 
 
         <!--30.2-->
@@ -460,15 +396,12 @@
 </item>
 
 
-
         <!--30.3-->
 
         <item>
     49. Proud of= কর্তা কিছু হতে পেরে গর্বিত হলে।
     \n\n বাংলা বাক্যের  শেষে  \"গর্বিত \" যুক্ত বাক্যের ক্ষেত্রে।
 </item>
-
-
 
 
         <!--31.1-->
@@ -479,7 +412,6 @@
 </item>
 
 
-
         <!--31.2-->
 
         <item>
@@ -488,11 +420,7 @@
 </item>
 
 
-
-</string-array>
-
-
-
+    </string-array>
 
 
     <string-array name="spoken_child">
@@ -511,9 +439,7 @@
 </item>
 
 
-
         //2
-
 
 
         <item>
@@ -525,10 +451,7 @@
 \n☛জেলেকে মাছ ধরতেই হয়। </item>
 
 
-
-
         //3
-
 
 
         <item>
@@ -542,10 +465,7 @@ Structure:-S +had to + PV (1st)
  </item>
 
 
-
         //4
-
-
 
 
         <item>
@@ -560,13 +480,10 @@ S+shall/will have to+ PV (1st)
         </item>
 
 
-
-//5
-
+        //5
 
 
-
-<item>
+        <item>
 Structure:-
 S+have/has got to + PV (1st).
 
@@ -578,11 +495,10 @@ S+have/has got to + PV (1st).
 </item>
 
 
+        //6
 
-//6
 
-
-<item>
+        <item>
 Structure:-S +am/is/are supposed to + PV (1st).
 
 \n\n Example:-
@@ -593,13 +509,10 @@ Structure:-S +am/is/are supposed to + PV (1st).
 </item>
 
 
-
-//7
-
+        //7
 
 
-
-<item>
+        <item>
 Structure:- S +was/were supposed to + PV (1st).
 
 \n\n Example:-
@@ -610,13 +523,10 @@ Structure:- S +was/were supposed to + PV (1st).
 </item>
 
 
-
-//8
-
+        //8
 
 
-
-<item>
+        <item>
 Structure:-S+am/is/are Likely to + PV (1st)
 
 \n\n Example:-
@@ -627,12 +537,10 @@ Structure:-S+am/is/are Likely to + PV (1st)
 </item>
 
 
+        //9
 
 
-//9
-
-
-<item>
+        <item>
 Structure:-S+was/were likely to+PV (1st)
 
 
@@ -643,10 +551,10 @@ Structure:-S+was/were likely to+PV (1st)
 \n☛তার ফুটবল খেলার সম্ভবনা ছিল।</item>
 
 
- //10
+        //10
 
 
-<item>
+        <item>
 Structure:-S + can\'t but + PV (1st).
 
 \n\n Example:-
@@ -654,7 +562,6 @@ Structure:-S + can\'t but + PV (1st).
 \n☛আমরা ভাত না খেয়ে পারি না।
 \n➠Kodu can\'t but go to school.
 \n☛কদু স্কুলে না যেয়ে পারে না। </item>
-
 
 
         //11
@@ -669,7 +576,6 @@ Structure:-S + couldn\'t but + PV (1st).
 \n☛সে পুকুরটি ন খনন করে পারলো না।
 
 </item>
-
 
 
         //12
@@ -689,7 +595,6 @@ Structure:-S + am/is/are about to + PV (1st). .
 </item>
 
 
-
         //13
 
 
@@ -702,7 +607,6 @@ Structure:-S +was/ware+about to + PV (1st).
 \n☛দোষি ব্যাক্তিটি কিছু বলে বলে অবস্থায় ছিলো।
 
 </item>
-
 
 
         //14
@@ -719,7 +623,6 @@ Structure:-S + can have + PV(3rd)
 </item>
 
 
-
         //15
 
 
@@ -732,11 +635,10 @@ Structure:-S + could have + PV(3rd).
 \n☛সে ইন্ডিয়া যেতে পারতো।</item>
 
 
+        //16
 
-    //16
 
-
-    <item>
+        <item>
 Structure:-S + should have + PV(3rd).
 \n\nExample:-
 \n➠I should have foughten with Nibir.
@@ -747,11 +649,10 @@ Structure:-S + should have + PV(3rd).
     </item>
 
 
+        //17
 
-    //17
 
-
-    <item>
+        <item>
         Structure:-S + shouldn\'t\ have + PV(3rd).
 \n\nExample:-
 \n➠He shouldn\'t\ have gone abroad.
@@ -762,11 +663,10 @@ Structure:-S + should have + PV(3rd).
     </item>
 
 
+        //18
 
-    //18
 
-
-<item>
+        <item>
 Structure:-Did + S + PV(1st) +?.
 \n 5W1H++ did + S + PV (1st) + ?
 \n\nExample:-
@@ -780,11 +680,10 @@ Structure:-Did + S + PV(1st) +?.
 </item>
 
 
+        //19
 
-    //19
 
-
-    <item>
+        <item>
 Structure:-5W1H+do/does + S + PV(1st)+Obj+Ext?
 \n\nExample:-
 \n➠What do you do?
@@ -796,11 +695,10 @@ Structure:-5W1H+do/does + S + PV(1st)+Obj+Ext?
     </item>
 
 
+        //20
 
-    //20
 
-
-<item>
+        <item>
 Structure:-5W1H +will+S+PV(1st)+Obj+Ext?
 \n\nExample:-
 \n➠What will i do?
@@ -809,10 +707,10 @@ Structure:-5W1H +will+S+PV(1st)+Obj+Ext?
 \n☛তুমি কখন স্কুলে যাবে?
 </item>
 
-    //21
+        //21
 
 
-<item>
+        <item>
 Structure:-How long + have/has + S + been + PV.ing +?
 \n\nExample:-
 \n➠How long has he been reading?
@@ -823,11 +721,10 @@ Structure:-How long + have/has + S + been + PV.ing +?
 </item>
 
 
+        //22
 
-    //22
 
-
-<item>
+        <item>
 Structure:-How long + have/has + S + been + N/p +?
 \n\nExample:-
 \n➠How long have you been ill?
@@ -838,13 +735,10 @@ Structure:-How long + have/has + S + been + N/p +?
 </item>
 
 
-
-    //23
-
+        //23
 
 
-
-    <item>
+        <item>
 Structure:-How long + have/has + S + been +স্থান+?
 \n\nExample:-
 \n➠How long have you been Dhaka?
@@ -855,11 +749,10 @@ Structure:-How long + have/has + S + been +স্থান+?
     </item>
 
 
+        //24
 
-    //24
 
-
-<item>
+        <item>
 Structure:-How far + AV + S + PV(AT)+?
 \n\nExample:-
 \n➠How far did you study last night?
@@ -870,11 +763,10 @@ Structure:-How far + AV + S + PV(AT)+?
 </item>
 
 
+        //25
 
-    //25
 
-
-<item>
+        <item>
 Structure:-S + didn\'t + PV (1st).
 \n\nExample:-
 \n➠I didn\'t do this.
@@ -884,11 +776,10 @@ Structure:-S + didn\'t + PV (1st).
 </item>
 
 
+        //26
 
-    //26
 
-
-<item>
+        <item>
 Structure:-S + couldn\'t PV(1st).
 \n\nExample:-
 \n➠I couldn\'t sleep.
@@ -899,10 +790,9 @@ Structure:-S + couldn\'t PV(1st).
     </item>
 
 
+        //27
 
-    //27
-
-<item>
+        <item>
 Structure:-S + didn\'t + want to + PV(1st) +
 \n\nExample:-
 \n➠I didn\'t want to do this.
@@ -912,9 +802,8 @@ Structure:-S + didn\'t + want to + PV(1st) +
 </item>
 
 
-
-    //28
-<item>
+        //28
+        <item>
 Structure:-S + don\’t\/doesn\’t\ + want to + PV (1st) +
 \n\nExample:-
 \n➠I don\'t want to play right now.
@@ -924,9 +813,8 @@ Structure:-S + don\’t\/doesn\’t\ + want to + PV (1st) +
 </item>
 
 
-
-//29
-<item>
+        //29
+        <item>
 Structure:-S + won\’t\ + want to + PV(1st) +
 \n\nExample:-
 \n➠They won\'t want to come here
@@ -936,9 +824,8 @@ Structure:-S + won\’t\ + want to + PV(1st) +
 </item>
 
 
-
-//30
-<item>
+        //30
+        <item>
 Structure:-S + am/is/are to be + PV+ing
 \n\nExample:-
 (\n➠I am to be eating rice.
@@ -948,8 +835,8 @@ Structure:-S + am/is/are to be + PV+ing
 </item>
 
 
-//31
-<item>
+        //31
+        <item>
 Structure:-S + have/has been to + PV(1st)
 \n\nExample:-
 \n➠I have been to sleep.
@@ -959,9 +846,8 @@ Structure:-S + have/has been to + PV(1st)
 </item>
 
 
-
-//32
-<item>
+        //32
+        <item>
 Structure:-S + had been to + PV(1st)
 \n\nExample:-
 \n➠I had been to work hard.
@@ -971,9 +857,8 @@ Structure:-S + had been to + PV(1st)
 </item>
 
 
-
-//33
-<item>
+        //33
+        <item>
 Structure:-How + adj + the + N/P + be verb + !
 \n\nExample:-
 \n➠How beautiful the flower is!
@@ -983,9 +868,8 @@ Structure:-How + adj + the + N/P + be verb + !
     </item>
 
 
-
-//34
-<item>
+        //34
+        <item>
 Structure:-How + S + PV(AT)
 \n\nExample:-
 \n➠How I love you, you don’t know?
@@ -993,10 +877,8 @@ Structure:-How + S + PV(AT)
 </item>
 
 
-
-
-//35
-<item>
+        //35
+        <item>
 Structure:-How + AV + S + PV(AT) + ?
 \n\nExample:-
 \n ➠How did he know it?
@@ -1006,10 +888,8 @@ Structure:-How + AV + S + PV(AT) + ?
 </item>
 
 
-
-
-//36
-<item>
+        //36
+        <item>
 Structure:-S + can + PV(1st)
 \n\nExample:-
 \n➠I can speak English now.
@@ -1019,8 +899,8 @@ Structure:-S + can + PV(1st)
 </item>
 
 
-//37
-<item>
+        //37
+        <item>
 Structure:-S + Can\'t\ + PV(1st)
 \n\nExample:-
 \n➠I Can\'t\  understand bad or good.
@@ -1030,9 +910,8 @@ Structure:-S + Can\'t\ + PV(1st)
     </item>
 
 
-
-//38
-<item>
+        //38
+        <item>
 Structure:-S + can be + PV.ing
 \n\nExample:-
 \n➠I can be speaking English.
@@ -1042,10 +921,8 @@ Structure:-S + can be + PV.ing
 </item>
 
 
-
-
-//39
-<item>
+        //39
+        <item>
 Structure:-S + can\'t be + PV.ing
 \n\nExample:-
 \n ➠I can\'t be doing such work.
@@ -1055,9 +932,8 @@ Structure:-S + can\'t be + PV.ing
 </item>
 
 
-
-    //40
-<item>
+        //40
+        <item>
 Structure:-S + can be + N/P
 \n\nExample:-
 \n➠A teacher can be my friend.
@@ -1067,9 +943,8 @@ Structure:-S + can be + N/P
 </item>
 
 
-
-//41
-<item>
+        //41
+        <item>
 Structure:-S + can\'t be + N/P
 \n\nExample:-
 \n➠Jorina can\'t be actreess.
@@ -1079,9 +954,8 @@ Structure:-S + can\'t be + N/P
     </item>
 
 
-
-    //42
-<item>
+        //42
+        <item>
 Structure:-S + have/has been + able to + PV(1st)
 \n\nExample:-
 \n➠I have been able to pass the exam.
@@ -1091,9 +965,8 @@ Structure:-S + have/has been + able to + PV(1st)
 </item>
 
 
-
-//43
-<item>
+        //43
+        <item>
 Structure:-S + am/is/are being +able to + PV(1st)
 \n\nExample:-
 \n➠Nidhi is being able to coock rice.
@@ -1103,10 +976,8 @@ Structure:-S + am/is/are being +able to + PV(1st)
 </item>
 
 
-
-
-//44
-<item>
+        //44
+        <item>
 Structure:-S + will be + able to +PV(1st)
 \n\nExample:-
 \n➠I will be able to start a business.
@@ -1116,10 +987,8 @@ Structure:-S + will be + able to +PV(1st)
 </item>
 
 
-
-
-//45
-<item>
+        //45
+        <item>
 Structure:-S + had been + able to + able to +PV(1st)
 \n\nExample:-
 \n ➠I will be able to start a business.
@@ -1129,10 +998,8 @@ Structure:-S + had been + able to + able to +PV(1st)
     </item>
 
 
-
-
-    //46
-<item>
+        //46
+        <item>
 Structure:-S + was/were being + able to +PV(1st)
 \n\nExample:-
 \n➠I will be able to start a business.
@@ -1142,11 +1009,8 @@ Structure:-S + was/were being + able to +PV(1st)
     </item>
 
 
-
-
-
-//47
-<item>
+        //47
+        <item>
 Structure:-S + be verb + proud of + N/P +
 \n\nExample:-
 \n➠I am proud of my village.
@@ -1156,10 +1020,8 @@ Structure:-S + be verb + proud of + N/P +
     </item>
 
 
-
-
-//48
-<item>
+        //48
+        <item>
 Structure:-S + be verb + proud of + PV + ing
 \n\nExample:-
 \n➠I am proud of learning English.
@@ -1169,10 +1031,8 @@ Structure:-S + be verb + proud of + PV + ing
 </item>
 
 
-
-
-    //49
-<item>
+        //49
+        <item>
 Structure:-S + be verb + proud of + being + N/P
 \n\nExample:-
 \n➠I am proud of being a devloper.
@@ -1182,9 +1042,8 @@ Structure:-S + be verb + proud of + being + N/P
     </item>
 
 
-
-    //50
-<item>
+        //50
+        <item>
 Structure:-S + be verb + scared of + N/P +
 \n\nExample:-
 \n➠I am scared of my teacher.
@@ -1194,11 +1053,8 @@ Structure:-S + be verb + scared of + N/P +
     </item>
 
 
-
-
-
-    //51
-<item>
+        //51
+        <item>
 Structure:-S + be verb + scared of + PV.ing
 \n\nExample:-
 \n➠I am scared of going out at night.
@@ -1208,12 +1064,10 @@ Structure:-S + be verb + scared of + PV.ing
     </item>
 
 
+    </string-array>
 
-
-
-</string-array>
-
-
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 
 
 </resources>

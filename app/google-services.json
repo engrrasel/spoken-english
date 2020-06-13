@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "472967167608",
+    "firebase_url": "https://spoken-english-d2750.firebaseio.com",
+    "project_id": "spoken-english-d2750",
+    "storage_bucket": "spoken-english-d2750.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:472967167608:android:7fa41bff7430d8e598378d",
+        "android_client_info": {
+          "package_name": "com.example.spokenenglish"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "472967167608-g37uvtrodd34unalca9qrhoss3er4irh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6xl-z1Fr9jWYKVv4eIqRYdHP4rHJKCsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "472967167608-g37uvtrodd34unalca9qrhoss3er4irh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -4,60 +4,77 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".MainActivity"
     android:gravity="center"
     android:orientation="vertical"
+    android:background="@color/ash"
+    tools:context=".MainActivity"
     >
 
-   <com.google.android.material.appbar.AppBarLayout
-       android:layout_width="wrap_content"
-       android:layout_height="wrap_content"
-       android:fitsSystemWindows="true"
-       android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
-       >
-
-    <com.google.android.material.appbar.CollapsingToolbarLayout
+    <com.google.android.material.appbar.AppBarLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:fitsSystemWindows="true"
-        app:contentScrim="?attr/colorPrimary"
-        app:expandedTitleMarginEnd="64dp"
-        app:expandedTitleMarginStart="48dp"
-        app:layout_scrollFlags="scroll|snap|exitUntilCollapsed"
-        app:title="Spoken English"
-        android:outlineSpotShadowColor="@color/colorAccent"
+        android:theme="@style/Theme.AppCompat.DayNight.DarkActionBar"
         >
-        <ImageView
-            android:layout_width="match_parent"
-            android:layout_height="250dp"
-            android:scaleType="centerCrop"
-            android:src="@drawable/rose"
-            />
 
-        <TextView
-            android:id="@+id/marquee"
-            android:layout_width="match_parent"
+        <com.google.android.material.appbar.CollapsingToolbarLayout
+            android:layout_width="wrap_content"
             android:layout_height="wrap_content"
-            android:textSize="30sp"
-            android:textColor="#FFE70C"
-            android:textStyle="bold"
-            android:text="@string/welcome"
-            android:ellipsize="marquee"
-            android:marqueeRepeatLimit="marquee_forever"
-            android:scrollHorizontally="true"
-            android:padding="10dp"
-            android:singleLine="true"
-            />
-    <androidx.appcompat.widget.Toolbar
-        android:layout_width="match_parent"
-        android:layout_height="?attr/actionBarSize"
-        app:layout_collapseMode="pin"
-        app:popupTheme="@style/ThemeOverlay.AppCompat"/>
-
-    </com.google.android.material.appbar.CollapsingToolbarLayout>
+            android:fitsSystemWindows="true"
+            app:expandedTitleMarginEnd="64dp"
+            app:expandedTitleMarginStart="48dp"
+            android:background="@color/ash"
+            app:layout_scrollFlags="scroll|snap|exitUntilCollapsed"
+            app:title="Spoken English"
+            android:outlineSpotShadowColor="@color/colorAccent"
+            >
 
 
-   </com.google.android.material.appbar.AppBarLayout>
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="270dp"
+                android:scaleType="centerCrop"
+                android:background="@drawable/collapsing_image"
+                />
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="40dp"
+                android:scaleType="centerCrop"
+                android:background="@drawable/spoken_english_head"
+                android:layout_marginLeft="8dp"
+                android:layout_marginRight="8dp"
+                android:layout_marginTop="5dp"
+                />
+
+
+            <TextView
+                android:id="@+id/marquee"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textSize="30sp"
+                android:textColor="#000000"
+                android:textStyle="bold"
+                android:text="@string/welcome"
+                android:ellipsize="marquee"
+                android:marqueeRepeatLimit="marquee_forever"
+                android:scrollHorizontally="true"
+                android:singleLine="true"
+                android:layout_marginRight="10dp"
+                android:layout_marginLeft="10dp"
+                android:layout_marginTop="5dp"
+                />
+            <androidx.appcompat.widget.Toolbar
+                android:layout_width="match_parent"
+                android:layout_height="?attr/actionBarSize"
+                app:titleTextColor="@color/colorAccent"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light"/>
+
+        </com.google.android.material.appbar.CollapsingToolbarLayout>
+
+
+    </com.google.android.material.appbar.AppBarLayout>
 
 
     <androidx.core.widget.NestedScrollView
@@ -70,43 +87,116 @@
             android:layout_height="match_parent"
             android:orientation="vertical"
             android:layout_gravity="center_horizontal"
-            android:layout_marginTop="20dp"
+            android:layout_marginTop="30dp"
             android:padding="10dp"
-
+            android:layout_marginLeft="5dp"
+            android:layout_marginRight="5dp"
+            android:layout_marginBottom="20dp"
 
             >
 
-            <androidx.cardview.widget.CardView
-                android:id="@+id/spokenenglishid"
+            <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="200dp"
-                android:clickable="true"
-                android:focusableInTouchMode="true"
-                app:cardCornerRadius="30dp"
-                app:cardBackgroundColor="#663FBF"
-                android:focusable="true">
+                android:layout_height="160dp"
+                android:weightSum="4">
 
-                <ImageView
-                    android:layout_width="match_parent"
+
+                <Button
+                    android:id="@+id/spokenenglishid"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.75"
+                    android:layout_height="150dp"
+                    android:background="@drawable/button"
+                    android:text="Spoken\nEnglish"
+                    />
+
+                <View
+                    android:layout_width="0dp"
                     android:layout_height="match_parent"
-                    android:src="@drawable/spoken1"/>
+                    android:layout_weight=".5"/>
+
+                <Button
+                    android:id="@+id/tenseid"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.75"
+                    android:layout_height="150dp"
+                    android:background="@drawable/button"
+                    android:text="tense"
+                    />
 
 
 
+            </LinearLayout>
 
-            </androidx.cardview.widget.CardView>
 
-            <androidx.cardview.widget.CardView
+
+            <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="200dp"
-                android:clickable="true"
-                android:focusableInTouchMode="true"
-                app:cardCornerRadius="30dp"
-                android:layout_marginTop="20dp"
-                app:cardBackgroundColor="@color/colorAccent"
-                android:focusable="true">
+                android:layout_height="160dp"
+                android:weightSum="4">
 
-            </androidx.cardview.widget.CardView>
+                <Button
+                    android:id="@+id/learneverydayid"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.75"
+                    android:layout_height="150dp"
+                    android:background="@drawable/button"
+                    android:text="Learn\n everyday"
+                    />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight=".5"/>
+
+                <Button
+                    android:id="@+id/verbsid"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.75"
+                    android:layout_height="150dp"
+                    android:background="@drawable/button"
+                    android:text="verbs"
+                    />
+
+
+
+            </LinearLayout>
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="160dp"
+                android:weightSum="4">
+
+                <Button
+                    android:id="@+id/proverbsid"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.75"
+                    android:layout_height="150dp"
+                    android:background="@drawable/button"
+                    android:text="proverbs"
+                    />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight=".5"/>
+
+                <Button
+                    android:id="@+id/aboutid"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.75"
+                    android:layout_height="150dp"
+                    android:background="@drawable/button"
+                    android:text="about"
+                    />
+
+
+
+            </LinearLayout>
+
+
+
 
 
         </LinearLayout>

@@ -2,8 +2,11 @@ package com.example.spokenenglish;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.os.Build;
 import android.os.Bundle;
+import android.view.Window;
 import android.widget.ExpandableListView;
+import android.widget.TextView;
 
 import java.util.ArrayList;
 import java.util.HashMap;
@@ -15,6 +18,8 @@ public class spoken extends AppCompatActivity {
     private Customadapter customAdapter;
     List<String> listdataHeader;
     HashMap<String,List<String>> listDatachild;
+    Window window;
+    TextView textView;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -26,6 +31,17 @@ public class spoken extends AppCompatActivity {
         expandableListView = findViewById(R.id.expandableListViewId);
         customAdapter = new Customadapter(this,listdataHeader,listDatachild);
         expandableListView.setAdapter(customAdapter);
+
+        if (Build.VERSION.SDK_INT>=21){
+            window=this.getWindow();
+            window.setStatusBarColor(this.getResources().getColor(R.color.ash));
+
+
+
+            textView=findViewById(R.id.spoken_ruls);
+            textView.setSelected(true);
+        }
+
 
 
     }

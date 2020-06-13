@@ -8,10 +8,14 @@ import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
+import android.widget.Button;
 import android.widget.TextView;
 
-public class MainActivity extends AppCompatActivity {
-    private CardView cardView;
+public class MainActivity extends AppCompatActivity implements View.OnClickListener {
+    public
+    /*CardView spokenenglish,tense;*/
+            Button spokenenglish,tense,learneveryday;
+
     Window window;
     TextView textView;
 
@@ -19,25 +23,47 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
-        cardView=findViewById(R.id.spokenenglishid);
 
-        cardView.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-                Intent intent= new Intent(MainActivity.this,spoken.class);
-                startActivity(intent);
+
+        spokenenglish=findViewById(R.id.spokenenglishid);
+        tense=findViewById(R.id.tenseid);
+        learneveryday=findViewById(R.id.learneverydayid);
 
 
 
-            }
-        });
+
+        spokenenglish.setOnClickListener(this);
+        tense.setOnClickListener(this);
 
         if (Build.VERSION.SDK_INT>=21){
             window=this.getWindow();
-            window.setStatusBarColor(this.getResources().getColor(R.color.black));
+            window.setStatusBarColor(this.getResources().getColor(R.color.ash));
+
+
             textView=findViewById(R.id.marquee);
 
             textView.setSelected(true);
+        }
+
+    }
+
+    @Override
+    public void onClick(View v) {
+
+        Intent cardview;
+        switch (v.getId()){
+            case R.id.spokenenglishid:cardview=new Intent(this,spoken.class);
+            startActivity(cardview);
+            break;
+
+            case R.id.tenseid:cardview=new Intent(this,tense_activity.class);
+                startActivity(cardview);
+            default:break;
+
+/*            case R.id.learneverydayid:cardview=new Intent(this,learn_everyday.class);
+                startActivity(cardview);
+                break;
+            default:break;*/
         }
 
     }
