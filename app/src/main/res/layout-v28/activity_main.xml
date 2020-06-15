@@ -93,7 +93,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="170dp"
-                android:layout_marginTop="20dp"
+                android:layout_marginTop="5dp"
                 android:layout_marginRight="5dp"
                 android:layout_marginLeft="5dp"
                 android:weightSum="5"
@@ -107,10 +107,8 @@
                     android:layout_height="160dp"
                     android:layout_weight="2.35"
                     app:cardCornerRadius="20dp"
-                    android:layout_marginLeft="5dp"
                     android:clickable="true"
                     android:focusable="true"
-                    android:layout_marginStart="5dp"
                     android:foreground="?android:attr/selectableItemBackground"
                     >
 
@@ -130,10 +128,8 @@
                     android:layout_height="160dp"
                     android:layout_weight="2.35"
                     app:cardCornerRadius="20dp"
-                    android:layout_marginLeft="5dp"
                     android:clickable="true"
                     android:focusable="true"
-                    android:layout_marginStart="5dp"
                     android:foreground="?android:attr/selectableItemBackground"
                     >
 
@@ -150,7 +146,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="170dp"
-                android:layout_marginTop="20dp"
+                android:layout_marginTop="5dp"
                 android:layout_marginRight="5dp"
                 android:layout_marginLeft="5dp"
                 android:weightSum="5"
@@ -164,10 +160,8 @@
                     android:layout_height="160dp"
                     android:layout_weight="2.35"
                     app:cardCornerRadius="20dp"
-                    android:layout_marginLeft="5dp"
                     android:clickable="true"
                     android:focusable="true"
-                    android:layout_marginStart="5dp"
                     android:foreground="?android:attr/selectableItemBackground"
                     >
 
@@ -187,10 +181,8 @@
                     android:layout_height="160dp"
                     android:layout_weight="2.35"
                     app:cardCornerRadius="20dp"
-                    android:layout_marginLeft="5dp"
                     android:clickable="true"
                     android:focusable="true"
-                    android:layout_marginStart="5dp"
                     android:foreground="?android:attr/selectableItemBackground"
                     >
 
@@ -207,7 +199,7 @@
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="170dp"
-                android:layout_marginTop="20dp"
+                android:layout_marginTop="5dp"
                 android:layout_marginRight="5dp"
                 android:layout_marginLeft="5dp"
                 android:weightSum="5"
@@ -221,10 +213,8 @@
                     android:layout_height="160dp"
                     android:layout_weight="2.35"
                     app:cardCornerRadius="20dp"
-                    android:layout_marginLeft="5dp"
                     android:clickable="true"
                     android:focusable="true"
-                    android:layout_marginStart="5dp"
                     android:foreground="?android:attr/selectableItemBackground"
                     >
 
@@ -244,10 +234,8 @@
                     android:layout_height="160dp"
                     android:layout_weight="2.35"
                     app:cardCornerRadius="20dp"
-                    android:layout_marginLeft="5dp"
                     android:clickable="true"
                     android:focusable="true"
-                    android:layout_marginStart="5dp"
                     android:foreground="?android:attr/selectableItemBackground"
                     >
 
@@ -261,14 +249,15 @@
 
             </LinearLayout>
 
+
             <LinearLayout
                 android:layout_width="match_parent"
-                android:layout_height="170dp"
-                android:layout_marginTop="20dp"
+                android:layout_height="250dp"
+                android:layout_marginTop="5dp"
                 android:layout_marginRight="5dp"
                 android:layout_marginLeft="5dp"
                 android:weightSum="5"
-                android:gravity="center"
+                android:gravity="top|center"
                 >
 
 
@@ -279,10 +268,8 @@
                     android:layout_height="160dp"
                     android:layout_weight="2.35"
                     app:cardCornerRadius="20dp"
-                    android:layout_marginLeft="5dp"
                     android:clickable="true"
                     android:focusable="true"
-                    android:layout_marginStart="5dp"
                     android:foreground="?android:attr/selectableItemBackground"
                     >
 
@@ -291,7 +278,16 @@
 
 
 
+
+
+
+
+
+
+
+
             </LinearLayout>
+
 
 
 
