@@ -14,7 +14,7 @@ import android.widget.TextView;
 public class MainActivity extends AppCompatActivity implements View.OnClickListener {
     public
     /*CardView spokenenglish,tense;*/
-            Button spokenenglish,tense,learneveryday;
+            Button spokenenglish,tense,learneveryday,verbs,proverbs,groupverb,phrase_idiomsid,about;
 
     Window window;
     TextView textView;
@@ -27,7 +27,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         spokenenglish=findViewById(R.id.spokenenglishid);
         tense=findViewById(R.id.tenseid);
-        learneveryday=findViewById(R.id.learneverydayid);
+        learneveryday=findViewById(R.id.learneverydayid);\
+        verbs=findViewById(R.id.verbsid);
+        proverbs=findViewById(R.id.proverbsid);
+        groupverb=findViewById(R.id.groupverbid);
+        phrase_idiomsid=findViewById(R.id.phrase_idiomsid);
+        about=findViewById(R.id.aboutid);
+
 
 
 
@@ -58,12 +64,13 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
             case R.id.tenseid:cardview=new Intent(this,tense_activity.class);
                 startActivity(cardview);
-            default:break;
+            break;
 
-/*            case R.id.learneverydayid:cardview=new Intent(this,learn_everyday.class);
+            case R.id.learneverydayid:cardview=new Intent(this,learn_everyday.class);
                 startActivity(cardview);
                 break;
-            default:break;*/
+
+            case R.id.verbsid:cardview= new Intent(MainActivity.this,)
         }
 
     }

@@ -95,6 +95,7 @@
 
             >
 
+
             <LinearLayout
                 android:layout_width="match_parent"
                 android:layout_height="160dp"
@@ -104,31 +105,26 @@
                 <Button
                     android:id="@+id/spokenenglishid"
                     android:layout_width="0dp"
-                    android:layout_weight="1.75"
                     android:layout_height="150dp"
+                    android:layout_weight="1.75"
                     android:background="@drawable/button"
-                    android:text="Spoken\nEnglish"
-                    />
+                    android:text="Spoken\nEnglish" />
 
                 <View
                     android:layout_width="0dp"
                     android:layout_height="match_parent"
-                    android:layout_weight=".5"/>
+                    android:layout_weight=".5" />
 
                 <Button
                     android:id="@+id/tenseid"
                     android:layout_width="0dp"
-                    android:layout_weight="1.75"
                     android:layout_height="150dp"
+                    android:layout_weight="1.75"
                     android:background="@drawable/button"
-                    android:text="tense"
-                    />
-
+                    android:text="tense" />
 
 
             </LinearLayout>
-
-
 
             <LinearLayout
                 android:layout_width="match_parent"
@@ -183,6 +179,37 @@
                     android:layout_weight=".5"/>
 
                 <Button
+                    android:id="@+id/groupverbid"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.75"
+                    android:layout_height="150dp"
+                    android:background="@drawable/button"
+                    android:text="groupvrb"
+                    />
+
+
+
+            </LinearLayout>
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="160dp">
+
+                <Button
+                    android:id="@+id/phrase_idiomsid"
+                    android:layout_width="0dp"
+                    android:layout_weight="1.75"
+                    android:layout_height="150dp"
+                    android:background="@drawable/button"
+                    android:text="phrase idioms"
+                    />
+
+                <View
+                    android:layout_width="0dp"
+                    android:layout_height="match_parent"
+                    android:layout_weight=".5"/>
+
+                <Button
                     android:id="@+id/aboutid"
                     android:layout_width="0dp"
                     android:layout_weight="1.75"
@@ -193,7 +220,14 @@
 
 
 
+
+
+
             </LinearLayout>
+
+
+
+
 
 
 

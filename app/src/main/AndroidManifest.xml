@@ -11,7 +11,12 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".future_tense"></activity>
+        <activity android:name=".about_activity"></activity>
+        <activity android:name=".phrase_idioms_activity" />
+        <activity android:name=".groupverb_activity" />
+        <activity android:name=".proverb_activity" />
+        <activity android:name=".verbs_activity" />
+        <activity android:name=".future_tense" />
         <activity android:name=".past_tense" />
         <activity android:name=".present_tense" />
         <activity android:name=".learn_everyday" />
