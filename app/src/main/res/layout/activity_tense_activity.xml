@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".tense_activity"
+    android:background="@color/ash"
+    android:orientation="vertical"
+
+    >
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="120dp"
+        android:background="@drawable/tense_head"
+        android:gravity="center"
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="111dp"
+            android:gravity="center"
+            android:text="@string/tense_defination"
+            android:textColor="@color/black"
+            android:textSize="20sp" />
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@drawable/down_background_spoken"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="20dp"
+        android:orientation="vertical"
+        android:gravity="center"
+
+        >
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="50dp"
+            android:text="@string/clasificationoftense"
+            android:textSize="20sp"
+            android:gravity="top|center"
+            android:textColor="#FB0000"
+            android:layout_marginTop="10dp"
+            />
+            <Button
+                android:id="@+id/presenttenseid"
+                android:layout_width="300dp"
+                android:layout_height="150dp"
+                android:background="@drawable/tense_head"/>
+
+        <Button
+            android:id="@+id/pasttenseid"
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:background="@drawable/tense_head"/>
+
+        <Button
+            android:id="@+id/futuretenseid"
+            android:layout_width="300dp"
+            android:layout_height="150dp"
+            android:background="@drawable/tense_head"/>
+
+    </LinearLayout>
+
+</ScrollView>
+
+</LinearLayout>
