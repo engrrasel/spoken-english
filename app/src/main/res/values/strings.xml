@@ -25,411 +25,554 @@
     <string name="about">"About"</string>
 
 
-    <string-array name="phrase_data">
-
-        <item>	1	.	A black sheep\nকুলাঙ্গার</item>
-        <item>	2	.	A gala day\n</item>
-        <item>	3	.	A forgone conclusion\n জানা কথা</item>
-        <item>	4	.	A good paradise\n</item>
-        <item>	5	.	A jail bird\n</item>
-        <item>	6	.	A Jaundiced eye\n</item>
-        <item>	7	.	A fair weather friend\nসুসময়ের বন্ধু</item>
-        <item>	8	.	A few\nকিছু</item>
-        <item>	9	.	A fish out of water অস্বস্তিকর অবস্থা</item>
-        <item>	10	.	A good deal ofভাল</item>
-        <item>	11	.	A hard nut to crackকঠোর প্ররিশ্রমের সাথে</item>
-        <item>	12	.	A jack of all tradesসবজান্তা কিন্তু ওস্তাদ নয়</item>
-        <item>	13	.	A lame excuseঅজুহাত</item>
-        <item>	14	.	A lot of প্রচুর</item>
-        <item>	15	.	A man of lettersপন্ডিত ব্যক্তি</item>
-        <item>	16	.	A man of word এককথার মানুষ</item>
-        <item>	17	.	A rainy day দুর্দিন</item>
-        <item>	18	.	A snake in the grassলুকানো বিপদ</item>
-        <item>	19	.	A white elephantগরীবের হাতি পোষার মত ব্যয়সাধ্য</item>
-        <item>	20	.	Above allসর্বোপরি</item>
-        <item>	21	.	All in allহঠাৎ	</item>
-        <item>	22	.	All alongপ্রায়	</item>
-        <item>	23	.	All and sundryদুর্বোধ্য</item>
-        <item>	24	.	All at onceহঠাৎ</item>
-        <item>	25	.	All butপ্রায়</item>
-        <item>	26	.	All Greekদুর্বোধ্য</item>
-        <item>	27	.	All of a suddenহঠাৎ	</item>
-        <item>	28	.	All ones sweet willনিজের ইচ্ছামত</item>
-        <item>	29	.	All the sameএকই</item>
-        <item>	30	.	An essential part ofগুরত্বপূর্ণ অংশ</item>
-        <item>	31	.	Apart fromএছাড়াও</item>
-        <item>	32	.	As ifযেন</item>
-        <item>	33	.	As long asযতদুর সম্ভব</item>
-        <item>	34	.	As soon asযত তাড়াতাড়ি সম্ভব</item>
-        <item>	35	.	As thoughযেন/ মনে হয় যেন</item>
-        <item>	36	.	As well asএবং</item>
-        <item>	37	.	At a glanceএক নজরে</item>
-        <item>	38	.	At a great speedদ্রূত গতিতে</item>
-        <item>	39	.	At a stretchএকটানা</item>
-        <item>	40	.	At allসর্বশেষে</item>
-        <item>	41	.	At all costsযতই লোকসান হোক না কেন</item>
-        <item>	42	.	At any rateযে কোন মূল্যে</item>
-        <item>	43	.	At any meansযে কোন উপায়ে</item>
-        <item>	44	.	At both ends meetকায়ক্লেশে জীবন ধারন</item>
-        <item>	45	.	At daggers drawnসাপে নেউলে</item>
-        <item>	46	.	At finger’s end  নখদর্পনে 	</item>
-        <item>	47	.	At first sight  প্রথম দর্শনে 	</item>
-        <item>	48	.	At home  দক্ষ 	</item>
-        <item>	49	.	At large  স্বাধীনভাবে 	</item>
-        <item>	50	.	At last  অবশেষে 	</item>
-        <item>	51	.	At least  অন্তত 	</item>
-        <item>	52	.	At length  অবশেষে / বিস্তারিত/অনেক পরে 	</item>
-        <item>	53	.	At a loss  হতবুদ্ধি 	</item>
-        <item>	54	.	At present  বর্তমান 	</item>
-        <item>	55	.	At present  খুব বেশী হলে 	</item>
-        <item>	56	.	At sixes and sevens এলোমেলো 	</item>
-        <item>	57	.	At stake  বিপদাপন্ন 	</item>
-        <item>	58	.	At stretch  একটানা 	</item>
-        <item>	59	.	At the eleventh hour শেষ মুহুর্তে 	</item>
-        <item>	60	.	Bad blood  শত্রুতা 	</item>
-        <item>	61	.	Bag and baggage  তল্পিতল্পাসহ 	</item>
-        <item>	62	.	Bear in mind  মনে রাখা 	</item>
-        <item>	63	.	Bear testy to	</item>
-        <item>	64	.	Because of  কারনে 	</item>
-        <item>	65	.	Before along  অনতি বিলম্বে  	</item>
-        <item>	66	.	Before long  শ্রীঘ্রই 	</item>
-        <item>	67	.	Before my eyes  চোখের সামনে 	</item>
-        <item>	68	.	Beggar description  বর্ণনাতীত 	</item>
-        <item>	69	.	Below the mark  প্রত্যাশার নীচে 	</item>
-        <item>	70	.	Beneath the dignity  মর্যাদা হানিকর 	</item>
-        <item>	71	.	Better half  সহধর্মিনী 	</item>
-        <item>	72	.	Beyond all doubt  সন্দেহের উর্ধ্বে / সন্দেহাতীতভাবে 	</item>
-        <item>	73	.	Bid adieu বিদায় জানানো 	</item>
-        <item>	74	.	Bid fair  আশা জাগা /  সম্ভাবনা 	</item>
-        <item>	75	.	Birds of same feather  একই ঝাকের লোক 	</item>
-        <item>	76	.	Black and blue  বেদম প্রহার 	</item>
-        <item>	77	.	Black sheep  কুলাঙ্গার 	</item>
-        <item>	78	.	Blue blood  অভিজাত বংশীয় 	</item>
-        <item>	79	.	Bolt from the blue  অপ্রত্যাশিত বিপদ 	</item>
-        <item>	80	.	Bone of contention  বিবাদের সূত্র 	</item>
-        <item>	81	.	Bread and butter  জীবিকা 	</item>
-        <item>	82	.	Bring to book  শাস্তি দেওয়া 	</item>
-        <item>	83	.	Burn the candle  বেহিসেবে খরচ করা 	</item>
-        <item>	84	.	By all means  সর্বপ্রকারে 	</item>
-        <item>	85	.	By and by  ক্রমেক্রমে 	</item>
-        <item>	86	.	By chance  হঠাৎ/দৈবক্রমে 	</item>
-        <item>	87	.	By dint of  বলে/ফলে  	</item>
-        <item>	88	.	By fair means or foul  ন্যায় বা অন্যায় যে ভাবে হোক 	</item>
-        <item>	89	.	By fits and starts  অনিয়মিতভাবে /  অসঙ্গত রূপে 	</item>
-        <item>	90	.	By hook or by crook  যেভাবেই হোক না কোন 	</item>
-        <item>	91	.	By leaps and bounds দ্রতগতিতে 	</item>
-        <item>	92	.	By means of  বলে /  উপায়ে 	</item>
-        <item>	93	.	By the by  কথা প্রসঙ্গে 	</item>
-        <item>	94	.	By this time  ইতিমধ্যে 	</item>
-        <item>	95	.	By turns  পর্যায় ক্রমে 	</item>
-        <item>	96	.	By virtue of  বলে 	</item>
-        <item>	97	.	By way of  উদ্দেশ্য/ রূপ 	</item>
-        <item>	98	.	Call at  গিয়ে দেখা করা 	</item>
-        <item>	99	.	Call in  ডেকে আনা 	</item>
-        <item>	100	.	Call names  গালি দেওয়া 	</item>
-        <item>	101	.	At least  অন্তত 	</item>
-        <item>	102	.	At length  অবশেষে / বিস্তারিত/অনেক পরে 	</item>
-        <item>	103	.	At a loss  হতবুদ্ধি 	</item>
-        <item>	104	.	At present  বর্তমান 	</item>
-        <item>	105	.	At present  খুব বেশী হলে 	</item>
-        <item>	106	.	At sixes and sevens এলোমেলো 	</item>
-        <item>	107	.	At stake  বিপদাপন্ন 	</item>
-        <item>	108	.	At stretch  একটানা 	</item>
-        <item>	109	.	At the eleventh hour শেষ মুহুর্তে 	</item>
-        <item>	110	.	Bad blood  শত্রুতা 	</item>
-        <item>	111	.	Bag and baggage  তল্পিতল্পাসহ 	</item>
-        <item>	112	.	Bear in mind  মনে রাখা 	</item>
-        <item>	113	.	Bear testy to	</item>
-        <item>	114	.	Because of  কারনে 	</item>
-        <item>	115	.	Before along  অনতি বিলম্বে  	</item>
-        <item>	116	.	Before long  শ্রীঘ্রই 	</item>
-        <item>	117	.	Before my eyes  চোখের সামনে 	</item>
-        <item>	118	.	Beggar description  বর্ণনাতীত 	</item>
-        <item>	119	.	Below the mark  প্রত্যাশার নীচে 	</item>
-        <item>	120	.	Beneath the dignity  মর্যাদা হানিকর 	</item>
-        <item>	121	.	Better half  সহধর্মিনী 	</item>
-        <item>	122	.	Beyond all doubt  সন্দেহের উর্ধ্বে / সন্দেহাতীতভাবে 	</item>
-        <item>	123	.	Bid adieu বিদায় জানানো 	</item>
-        <item>	124	.	Bid fair  আশা জাগা /  সম্ভাবনা 	</item>
-        <item>	125	.	Birds of same feather  একই ঝাকের লোক 	</item>
-        <item>	126	.	Black and blue  বেদম প্রহার 	</item>
-        <item>	127	.	Black sheep  কুলাঙ্গার 	</item>
-        <item>	128	.	Blue blood  অভিজাত বংশীয় 	</item>
-        <item>	129	.	Bolt from the blue  অপ্রত্যাশিত বিপদ 	</item>
-        <item>	130	.	Bone of contention  বিবাদের সূত্র 	</item>
-        <item>	131	.	Bread and butter  জীবিকা 	</item>
-        <item>	132	.	Bring to book  শাস্তি দেওয়া 	</item>
-        <item>	133	.	Burn the candle  বেহিসেবে খরচ করা 	</item>
-        <item>	134	.	By all means  সর্বপ্রকারে 	</item>
-        <item>	135	.	By and by  ক্রমেক্রমে 	</item>
-        <item>	136	.	By chance  হঠাৎ/দৈবক্রমে 	</item>
-        <item>	137	.	By dint of  বলে/ফলে  	</item>
-        <item>	138	.	By fair means or foul  ন্যায় বা অন্যায় যে ভাবে হোক 	</item>
-        <item>	139	.	By fits and starts  অনিয়মিতভাবে /  অসঙ্গত রূপে 	</item>
-        <item>	140	.	By hook or by crook  যেভাবেই হোক না কোন 	</item>
-        <item>	141	.	By leaps and bounds দ্রতগতিতে 	</item>
-        <item>	142	.	By means of  বলে /  উপায়ে 	</item>
-        <item>	143	.	By the by  কথা প্রসঙ্গে 	</item>
-        <item>	144	.	By this time  ইতিমধ্যে 	</item>
-        <item>	145	.	By turns  পর্যায় ক্রমে 	</item>
-        <item>	146	.	By virtue of  বলে 	</item>
-        <item>	147	.	By way of  উদ্দেশ্য/ রূপ 	</item>
-        <item>	148	.	Call at  গিয়ে দেখা করা 	</item>
-        <item>	149	.	Call in  ডেকে আনা 	</item>
-        <item>	150	.	Call names  গালি দেওয়া 	</item>
-        <item>	151	.	At least  অন্তত 	</item>
-        <item>	152	.	At length  অবশেষে / বিস্তারিত/অনেক পরে 	</item>
-        <item>	153	.	At a loss  হতবুদ্ধি 	</item>
-        <item>	154	.	At present  বর্তমান 	</item>
-        <item>	155	.	At present  খুব বেশী হলে 	</item>
-        <item>	156	.	At sixes and sevens এলোমেলো 	</item>
-        <item>	157	.	At stake  বিপদাপন্ন 	</item>
-        <item>	158	.	At stretch  একটানা 	</item>
-        <item>	159	.	At the eleventh hour শেষ মুহুর্তে 	</item>
-        <item>	160	.	Bad blood  শত্রুতা 	</item>
-        <item>	161	.	Bag and baggage  তল্পিতল্পাসহ 	</item>
-        <item>	162	.	Bear in mind  মনে রাখা 	</item>
-        <item>	163	.	Bear testy to	</item>
-        <item>	164	.	Because of  কারনে 	</item>
-        <item>	165	.	Before along  অনতি বিলম্বে  	</item>
-        <item>	166	.	Before long  শ্রীঘ্রই 	</item>
-        <item>	167	.	Before my eyes  চোখের সামনে 	</item>
-        <item>	168	.	Beggar description  বর্ণনাতীত 	</item>
-        <item>	169	.	Below the mark  প্রত্যাশার নীচে 	</item>
-        <item>	170	.	Beneath the dignity  মর্যাদা হানিকর 	</item>
-        <item>	171	.	Better half  সহধর্মিনী 	</item>
-        <item>	172	.	Beyond all doubt  সন্দেহের উর্ধ্বে / সন্দেহাতীতভাবে 	</item>
-        <item>	173	.	Bid adieu বিদায় জানানো 	</item>
-        <item>	174	.	Bid fair  আশা জাগা /  সম্ভাবনা 	</item>
-        <item>	175	.	Birds of same feather  একই ঝাকের লোক 	</item>
-        <item>	176	.	Black and blue  বেদম প্রহার 	</item>
-        <item>	177	.	Black sheep  কুলাঙ্গার 	</item>
-        <item>	178	.	Blue blood  অভিজাত বংশীয় 	</item>
-        <item>	179	.	Bolt from the blue  অপ্রত্যাশিত বিপদ 	</item>
-        <item>	180	.	Bone of contention  বিবাদের সূত্র 	</item>
-        <item>	181	.	Bread and butter  জীবিকা 	</item>
-        <item>	182	.	Bring to book  শাস্তি দেওয়া 	</item>
-        <item>	183	.	Burn the candle  বেহিসেবে খরচ করা 	</item>
-        <item>	184	.	By all means  সর্বপ্রকারে 	</item>
-        <item>	185	.	By and by  ক্রমেক্রমে 	</item>
-        <item>	186	.	By chance  হঠাৎ/দৈবক্রমে 	</item>
-        <item>	187	.	By dint of  বলে/ফলে  	</item>
-        <item>	188	.	By fair means or foul  ন্যায় বা অন্যায় যে ভাবে হোক 	</item>
-        <item>	189	.	By fits and starts  অনিয়মিতভাবে /  অসঙ্গত রূপে 	</item>
-        <item>	190	.	By hook or by crook  যেভাবেই হোক না কোন 	</item>
-        <item>	191	.	By leaps and bounds দ্রতগতিতে 	</item>
-        <item>	192	.	By means of  বলে /  উপায়ে 	</item>
-        <item>	193	.	By the by  কথা প্রসঙ্গে 	</item>
-        <item>	194	.	By this time  ইতিমধ্যে 	</item>
-        <item>	195	.	By turns  পর্যায় ক্রমে 	</item>
-        <item>	196	.	By virtue of  বলে 	</item>
-        <item>	197	.	By way of  উদ্দেশ্য/ রূপ 	</item>
-        <item>	198	.	Call at  গিয়ে দেখা করা 	</item>
-        <item>	199	.	Call in  ডেকে আনা 	</item>
-        <item>	200	.	Call names  গালি দেওয়া 	</item>
-        <item>	201	.	At least  অন্তত 	</item>
-        <item>	202	.	At length  অবশেষে / বিস্তারিত/অনেক পরে 	</item>
-        <item>	203	.	At a loss  হতবুদ্ধি 	</item>
-        <item>	204	.	At present  বর্তমান 	</item>
-        <item>	205	.	At present  খুব বেশী হলে 	</item>
-        <item>	206	.	At sixes and sevens এলোমেলো 	</item>
-        <item>	207	.	At stake  বিপদাপন্ন 	</item>
-        <item>	208	.	At stretch  একটানা 	</item>
-        <item>	209	.	At the eleventh hour শেষ মুহুর্তে 	</item>
-        <item>	210	.	Bad blood  শত্রুতা 	</item>
-        <item>	211	.	Bag and baggage  তল্পিতল্পাসহ 	</item>
-        <item>	212	.	Bear in mind  মনে রাখা 	</item>
-        <item>	213	.	Bear testy to	</item>
-        <item>	214	.	Because of  কারনে 	</item>
-        <item>	215	.	Before along  অনতি বিলম্বে  	</item>
-        <item>	216	.	Before long  শ্রীঘ্রই 	</item>
-        <item>	217	.	Before my eyes  চোখের সামনে 	</item>
-        <item>	218	.	Beggar description  বর্ণনাতীত 	</item>
-        <item>	219	.	Below the mark  প্রত্যাশার নীচে 	</item>
-        <item>	220	.	Beneath the dignity  মর্যাদা হানিকর 	</item>
-        <item>	221	.	Better half  সহধর্মিনী 	</item>
-        <item>	222	.	Beyond all doubt  সন্দেহের উর্ধ্বে / সন্দেহাতীতভাবে 	</item>
-        <item>	223	.	Bid adieu বিদায় জানানো 	</item>
-        <item>	224	.	Bid fair  আশা জাগা /  সম্ভাবনা 	</item>
-        <item>	225	.	Birds of same feather  একই ঝাকের লোক 	</item>
-        <item>	226	.	Black and blue  বেদম প্রহার 	</item>
-        <item>	227	.	Black sheep  কুলাঙ্গার 	</item>
-        <item>	228	.	Blue blood  অভিজাত বংশীয় 	</item>
-        <item>	229	.	Bolt from the blue  অপ্রত্যাশিত বিপদ 	</item>
-        <item>	230	.	Bone of contention  বিবাদের সূত্র 	</item>
-        <item>	231	.	Bread and butter  জীবিকা 	</item>
-        <item>	232	.	Bring to book  শাস্তি দেওয়া 	</item>
-        <item>	233	.	Burn the candle  বেহিসেবে খরচ করা 	</item>
-        <item>	234	.	By all means  সর্বপ্রকারে 	</item>
-        <item>	235	.	By and by  ক্রমেক্রমে 	</item>
-        <item>	236	.	By chance  হঠাৎ/দৈবক্রমে 	</item>
-        <item>	237	.	By dint of  বলে/ফলে  	</item>
-        <item>	238	.	By fair means or foul  ন্যায় বা অন্যায় যে ভাবে হোক 	</item>
-        <item>	239	.	By fits and starts  অনিয়মিতভাবে /  অসঙ্গত রূপে 	</item>
-        <item>	240	.	By hook or by crook  যেভাবেই হোক না কোন 	</item>
-        <item>	241	.	By leaps and bounds দ্রতগতিতে 	</item>
-        <item>	242	.	By means of  বলে /  উপায়ে 	</item>
-        <item>	243	.	By the by  কথা প্রসঙ্গে 	</item>
-        <item>	244	.	By this time  ইতিমধ্যে 	</item>
-        <item>	245	.	By turns  পর্যায় ক্রমে 	</item>
-        <item>	246	.	By virtue of  বলে 	</item>
-        <item>	247	.	By way of  উদ্দেশ্য/ রূপ 	</item>
-        <item>	248	.	Call at  গিয়ে দেখা করা 	</item>
-        <item>	249	.	Call in  ডেকে আনা 	</item>
-        <item>	250	.	Call names  গালি দেওয়া 	</item>
-        <item>	251	.	At least  অন্তত 	</item>
-        <item>	252	.	At length  অবশেষে / বিস্তারিত/অনেক পরে 	</item>
-        <item>	253	.	At a loss  হতবুদ্ধি 	</item>
-        <item>	254	.	At present  বর্তমান 	</item>
-        <item>	255	.	At present  খুব বেশী হলে 	</item>
-        <item>	256	.	At sixes and sevens এলোমেলো 	</item>
-        <item>	257	.	At stake  বিপদাপন্ন 	</item>
-        <item>	258	.	At stretch  একটানা 	</item>
-        <item>	259	.	At the eleventh hour শেষ মুহুর্তে 	</item>
-        <item>	260	.	Bad blood  শত্রুতা 	</item>
-        <item>	261	.	Bag and baggage  তল্পিতল্পাসহ 	</item>
-        <item>	262	.	Bear in mind  মনে রাখা 	</item>
-        <item>	263	.	Bear testy to	</item>
-        <item>	264	.	Because of  কারনে 	</item>
-        <item>	265	.	Before along  অনতি বিলম্বে  	</item>
-        <item>	266	.	Before long  শ্রীঘ্রই 	</item>
-        <item>	267	.	Before my eyes  চোখের সামনে 	</item>
-        <item>	268	.	Beggar description  বর্ণনাতীত 	</item>
-        <item>	269	.	Below the mark  প্রত্যাশার নীচে 	</item>
-        <item>	270	.	Beneath the dignity  মর্যাদা হানিকর 	</item>
-        <item>	271	.	Better half  সহধর্মিনী 	</item>
-        <item>	272	.	Beyond all doubt  সন্দেহের উর্ধ্বে / সন্দেহাতীতভাবে 	</item>
-        <item>	273	.	Bid adieu বিদায় জানানো 	</item>
-        <item>	274	.	Bid fair  আশা জাগা /  সম্ভাবনা 	</item>
-        <item>	275	.	Birds of same feather  একই ঝাকের লোক 	</item>
-        <item>	276	.	Black and blue  বেদম প্রহার 	</item>
-        <item>	277	.	Black sheep  কুলাঙ্গার 	</item>
-        <item>	278	.	Blue blood  অভিজাত বংশীয় 	</item>
-        <item>	279	.	Bolt from the blue  অপ্রত্যাশিত বিপদ 	</item>
-        <item>	280	.	Bone of contention  বিবাদের সূত্র 	</item>
-        <item>	281	.	Bread and butter  জীবিকা 	</item>
-        <item>	282	.	Bring to book  শাস্তি দেওয়া 	</item>
-        <item>	283	.	Burn the candle  বেহিসেবে খরচ করা 	</item>
-        <item>	284	.	By all means  সর্বপ্রকারে 	</item>
-        <item>	285	.	By and by  ক্রমেক্রমে 	</item>
-        <item>	286	.	By chance  হঠাৎ/দৈবক্রমে 	</item>
-        <item>	287	.	By dint of  বলে/ফলে  	</item>
-        <item>	288	.	By fair means or foul  ন্যায় বা অন্যায় যে ভাবে হোক 	</item>
-        <item>	289	.	By fits and starts  অনিয়মিতভাবে /  অসঙ্গত রূপে 	</item>
-        <item>	290	.	By hook or by crook  যেভাবেই হোক না কোন 	</item>
-        <item>	291	.	By leaps and bounds দ্রতগতিতে 	</item>
-        <item>	292	.	By means of  বলে /  উপায়ে 	</item>
-        <item>	293	.	By the by  কথা প্রসঙ্গে 	</item>
-        <item>	294	.	By this time  ইতিমধ্যে 	</item>
-        <item>	295	.	By turns  পর্যায় ক্রমে 	</item>
-        <item>	296	.	By virtue of  বলে 	</item>
-        <item>	297	.	By way of  উদ্দেশ্য/ রূপ 	</item>
-        <item>	298	.	Call at  গিয়ে দেখা করা 	</item>
-        <item>	299	.	Call in  ডেকে আনা 	</item>
-        <item>	300	.	Call names  গালি দেওয়া 	</item>
-        <item>	301	.	At least  অন্তত 	</item>
-        <item>	302	.	At length  অবশেষে / বিস্তারিত/অনেক পরে 	</item>
-        <item>	303	.	At a loss  হতবুদ্ধি 	</item>
-        <item>	304	.	At present  বর্তমান 	</item>
-        <item>	305	.	At present  খুব বেশী হলে 	</item>
-        <item>	306	.	At sixes and sevens এলোমেলো 	</item>
-        <item>	307	.	At stake  বিপদাপন্ন 	</item>
-        <item>	308	.	At stretch  একটানা 	</item>
-        <item>	309	.	At the eleventh hour শেষ মুহুর্তে 	</item>
-        <item>	310	.	Bad blood  শত্রুতা 	</item>
-        <item>	311	.	Bag and baggage  তল্পিতল্পাসহ 	</item>
-        <item>	312	.	Bear in mind  মনে রাখা 	</item>
-        <item>	313	.	Bear testy to	</item>
-        <item>	314	.	Because of  কারনে 	</item>
-        <item>	315	.	Before along  অনতি বিলম্বে  	</item>
-        <item>	316	.	Before long  শ্রীঘ্রই 	</item>
-        <item>	317	.	Before my eyes  চোখের সামনে 	</item>
-        <item>	318	.	Beggar description  বর্ণনাতীত 	</item>
-        <item>	319	.	Below the mark  প্রত্যাশার নীচে 	</item>
-        <item>	320	.	Beneath the dignity  মর্যাদা হানিকর 	</item>
-        <item>	321	.	Better half  সহধর্মিনী 	</item>
-        <item>	322	.	Beyond all doubt  সন্দেহের উর্ধ্বে / সন্দেহাতীতভাবে 	</item>
-        <item>	323	.	Bid adieu বিদায় জানানো 	</item>
-        <item>	324	.	Bid fair  আশা জাগা /  সম্ভাবনা 	</item>
-        <item>	325	.	Birds of same feather  একই ঝাকের লোক 	</item>
-        <item>	326	.	Black and blue  বেদম প্রহার 	</item>
-        <item>	327	.	Black sheep  কুলাঙ্গার 	</item>
-        <item>	328	.	Blue blood  অভিজাত বংশীয় 	</item>
-        <item>	329	.	Bolt from the blue  অপ্রত্যাশিত বিপদ 	</item>
-        <item>	330	.	Bone of contention  বিবাদের সূত্র 	</item>
-        <item>	331	.	Bread and butter  জীবিকা 	</item>
-        <item>	332	.	Bring to book  শাস্তি দেওয়া 	</item>
-        <item>	333	.	Burn the candle  বেহিসেবে খরচ করা 	</item>
-        <item>	334	.	By all means  সর্বপ্রকারে 	</item>
-        <item>	335	.	By and by  ক্রমেক্রমে 	</item>
-        <item>	336	.	By chance  হঠাৎ/দৈবক্রমে 	</item>
-        <item>	337	.	By dint of  বলে/ফলে  	</item>
-        <item>	338	.	By fair means or foul  ন্যায় বা অন্যায় যে ভাবে হোক 	</item>
-        <item>	339	.	By fits and starts  অনিয়মিতভাবে /  অসঙ্গত রূপে 	</item>
-        <item>	340	.	By hook or by crook  যেভাবেই হোক না কোন 	</item>
-        <item>	341	.	By leaps and bounds দ্রতগতিতে 	</item>
-        <item>	342	.	By means of  বলে /  উপায়ে 	</item>
-        <item>	343	.	By the by  কথা প্রসঙ্গে 	</item>
-        <item>	344	.	By this time  ইতিমধ্যে 	</item>
-        <item>	345	.	By turns  পর্যায় ক্রমে 	</item>
-        <item>	346	.	By virtue of  বলে 	</item>
-        <item>	347	.	By way of  উদ্দেশ্য/ রূপ 	</item>
-        <item>	348	.	Call at  গিয়ে দেখা করা 	</item>
-        <item>	349	.	Call in  ডেকে আনা 	</item>
-        <item>	350	.	Call names  গালি দেওয়া 	</item>
-        <item>	351	.	At least  অন্তত 	</item>
-        <item>	352	.	At length  অবশেষে / বিস্তারিত/অনেক পরে 	</item>
-        <item>	353	.	At a loss  হতবুদ্ধি 	</item>
-        <item>	354	.	At present  বর্তমান 	</item>
-        <item>	355	.	At present  খুব বেশী হলে 	</item>
-        <item>	356	.	At sixes and sevens এলোমেলো 	</item>
-        <item>	357	.	At stake  বিপদাপন্ন 	</item>
-        <item>	358	.	At stretch  একটানা 	</item>
-        <item>	359	.	At the eleventh hour শেষ মুহুর্তে 	</item>
-        <item>	360	.	Bad blood  শত্রুতা 	</item>
-        <item>	361	.	Bag and baggage  তল্পিতল্পাসহ 	</item>
-        <item>	362	.	Bear in mind  মনে রাখা 	</item>
-        <item>	363	.	Bear testy to	</item>
-        <item>	364	.	Because of  কারনে 	</item>
-        <item>	365	.	Before along  অনতি বিলম্বে  	</item>
-        <item>	366	.	Before long  শ্রীঘ্রই 	</item>
-        <item>	367	.	Before my eyes  চোখের সামনে 	</item>
-        <item>	368	.	Beggar description  বর্ণনাতীত 	</item>
-        <item>	369	.	Below the mark  প্রত্যাশার নীচে 	</item>
-        <item>	370	.	Beneath the dignity  মর্যাদা হানিকর 	</item>
-        <item>	371	.	Better half  সহধর্মিনী 	</item>
-        <item>	372	.	Beyond all doubt  সন্দেহের উর্ধ্বে / সন্দেহাতীতভাবে 	</item>
-        <item>	373	.	Bid adieu বিদায় জানানো 	</item>
-        <item>	374	.	Bid fair  আশা জাগা /  সম্ভাবনা 	</item>
-        <item>	375	.	Birds of same feather  একই ঝাকের লোক 	</item>
-        <item>	376	.	Black and blue  বেদম প্রহার 	</item>
-        <item>	377	.	Black sheep  কুলাঙ্গার 	</item>
-        <item>	378	.	Blue blood  অভিজাত বংশীয় 	</item>
-        <item>	379	.	Bolt from the blue  অপ্রত্যাশিত বিপদ 	</item>
-        <item>	380	.	Bone of contention  বিবাদের সূত্র 	</item>
-        <item>	381	.	Bread and butter  জীবিকা 	</item>
-        <item>	382	.	Bring to book  শাস্তি দেওয়া 	</item>
-        <item>	383	.	Burn the candle  বেহিসেবে খরচ করা 	</item>
-        <item>	384	.	By all means  সর্বপ্রকারে 	</item>
-        <item>	385	.	By and by  ক্রমেক্রমে 	</item>
-        <item>	386	.	By chance  হঠাৎ/দৈবক্রমে 	</item>
-        <item>	387	.	By dint of  বলে/ফলে  	</item>
-        <item>	388	.	By fair means or foul  ন্যায় বা অন্যায় যে ভাবে হোক 	</item>
-        <item>	389	.	By fits and starts  অনিয়মিতভাবে /  অসঙ্গত রূপে 	</item>
-        <item>	390	.	By hook or by crook  যেভাবেই হোক না কোন 	</item>
-        <item>	391	.	By leaps and bounds দ্রতগতিতে 	</item>
-        <item>	392	.	By means of  বলে /  উপায়ে 	</item>
-        <item>	393	.	By the by  কথা প্রসঙ্গে 	</item>
-        <item>	394	.	By this time  ইতিমধ্যে 	</item>
-        <item>	395	.	By turns  পর্যায় ক্রমে 	</item>
-        <item>	396	.	By virtue of  বলে 	</item>
-        <item>	397	.	By way of  উদ্দেশ্য/ রূপ 	</item>
-        <item>	398	.	Call at  গিয়ে দেখা করা 	</item>
-        <item>	399	.	Call in  ডেকে আনা 	</item>
-        <item>	400	.	Call names  গালি দেওয়া 	</item>
 
 
 
+
+
+<!-- this data used in proverb activity-->
+    <string-array name="proverb_data">
+
+
+    <item>	1	.			কই মাছের প্রাণ বড়ই শক্ত।	\n
+ 			\t	➠	A cat has nine lives.		</item>
+
+        <item>	2	.			সোজা আঙ্গুলে ঘি ওঠে না।	\n
+ 			\t	➠	A cat in gloves catches no mice.		</item>
+
+        <item>	3	.			আপন গাঁয়ে কুকুর রাজা।	\n
+ 			\t	➠	A cock is always bold on its own dunghill .		</item>
+
+        <item>	4	.			যতক্ষণ শ্বাস, ততকক্ষণ আঁশ।	\n
+ 			\t	➠	A drawing man catches or clutches at a straw .		</item>
+
+        <item>	5	.			বোকার কাছে টাকা থাকে না।	\n
+ 			\t	➠	A fool and his money are soon parted .		</item>
+
+        <item>	6	.			অসময়ের বন্ধুই প্রকৃত বন্ধু।	\n
+ 			\t	➠	A friend in need is a friend in deed.		</item>
+
+        <item>	7	.			ভাত ছড়ালে কাকের অভাব হয় না।	\n
+ 			\t	➠	A full purse never lacks friends.		</item>
+
+        <item>	8	.			টাকায় বাঘের দুধ মেলে।	\n
+ 			\t	➠	A golden key can open any door.		</item>
+
+        <item>	9	.			একটা সুন্দর শুরু কোন কাজের অর্ধেক সাফল্য এনে দেয়,যুদ্ধের শুরু ভালো মানে অর্ধেক বিজয়।	\n
+ 			\t	➠	A good beginning is half the battle .		</item>
+
+        <item>	10	.			স্বামী ভালো হলে স্ত্রীও ভালো হয় ।	\n
+ 			\t	➠	A good husband makes a good wife.		</item>
+
+        <item>	11	.			সেয়ানে সেয়ানে কোলাকুলি।	\n
+ 			\t	➠	A Greek meeting a Greek.		</item>
+
+        <item>	12	.			বাড়ন্তরা অনেক খায়।	\n
+ 			\t	➠	A growing youth has a wolf in his belly .		</item>
+
+        <item>	13	.			অনুতপ্ত হলে অভিযোগকারীর প্রয়োজন নেই।	\n
+ 			\t	➠	A guilty conscience needs no accuser.		</item>
+
+        <item>	14	.			ঠাকুর ঘরে কে, আমি তো কলা খাইনি।	\n
+ 			\t	➠	A guilty mind is always suspicious.		</item>
+
+        <item>	15	.			পকেটে টাকা থাকলে মনও ভালো থাকে।	\n
+ 			\t	➠	A heavy purse makes a light heart.		</item>
+
+        <item>	16	.			একাই একশো।	\n
+ 			\t	➠	A host in himself.		</item>
+
+        <item>	17	.			বিদুরের খুদ ।	\n
+ 			\t	➠	A humble gift made by a poor man with a sincere heart .		</item>
+
+        <item>	18	.			খিদের জ্বালায় মাথা ঠিক থাকে না ।	\n
+ 			\t	➠	A hungry fox is an angry fox .		</item>
+
+        <item>	19	.			ভাগাড়ে গরু মরে, শুকুনির টনক নড়ে।	\n
+ 			\t	➠	A hungry kite sees a dead horse afar.		</item>
+
+        <item>	20	.			নেবু কচলালে তেতো হয়।	\n
+ 			\t	➠	A jest driven hard, loses its point.		</item>
+
+        <item>	21	.			আজ বাদশা কাল ফকির।	\n
+ 			\t	➠	A king today is a beggar tomorrow.		</item>
+
+        <item>	22	.			ট্যাক খালি তো মুখ কালি।	\n
+ 			\t	➠	A light purse is a heavy curse.		</item>
+
+        <item>	23	.			পকেটে টাকা না থাকলে মনও ভালো থাকে না।	\n
+ 			\t	➠	A light purse makes a heavy heart .		</item>
+
+        <item>	24	.			অল্পবিদ্যা ভয়ংকরী।	\n
+ 			\t	➠	A little learning is a dangerous thing.		</item>
+
+        <item>	25	.			পাগলে কী না বলে, ছাগলে কী না খায়।	\n
+ 			\t	➠	A mad man and a animal have no difference.		</item>
+
+        <item>	26	.			সঙ্গ দেখে লোক চেনা যায় ।	\n
+ 			\t	➠	A man is known by the company he keeps .		</item>
+
+        <item>	27	.			নিজ বাড়ি নিজ ভুবন ।	\n
+ 			\t	➠	A man\'s home is his castle .		</item>
+
+        <item>	28	.			প্রায় শেষ করা আর একেবারেই শুরু না করা একই কথা ।	\n
+ 			\t	➠	A miss is as good as a mile.		</item>
+
+        <item>	29	.			নেংটার নেই বাটপারের ভয় ।	\n
+ 			\t	➠	A pauper has nothing to lose .		</item>
+
+        <item>	30	.			এক পয়সা জমানো মানে এক পয়সা রোজগার করা ।	\n
+ 			\t	➠	A penny saved is a penny earned .		</item>
+
+        <item>	31	.			কাঁচায় না নোয়ালে বাঁশ, পাকলে করে ট্যাঁশট্যাঁশ।	\n
+ 			\t	➠	A pet lamb, makes a cross ram.		</item>
+
+        <item>	32	.			যে রক্ষক সেই ভক্ষক ।	\n
+ 			\t	➠	A poacher turned gamekeeper .		</item>
+
+        <item>	33	.			স্বজন কর্তৃক বা স্বদেশে সম্মান মেলে না,গেঁয়ো যোগী ভিখ পায় না।	\n
+ 			\t	➠	A prophet is not without honor save in his own country.		</item>
+
+        <item>	34	.			চোরে শোনে না ধর্মের কাহিনী ।	\n
+ 			\t	➠	A rogue is deaf to all good .		</item>
+
+        <item>	35	.			স্থির না হলে উন্নতি হয় না।	\n
+ 			\t	➠	A rolling stone gathers no mass.		</item>
+
+        <item>	36	.			অসৎ সঙ্গে সর্বনাশ ।	\n
+ 			\t	➠	A rotten sheep infects the flock .		</item>
+
+        <item>	37	.			চুন খেয়ে গাল পোড়ে, দই দেখলে ভয় করে নেড়ে বেলতলা একবারই যায় ।	\n
+ 			\t	➠	A scalded dog fears cold water.		</item>
+
+        <item>	38	.			মনে বিষ, মুখে মধু বিষ কুম্ভং পয়োমুখম,বিষ কুম্ভং পয়োমুখম।	\n
+ 			\t	➠	A serpent under the flower.		</item>
+
+        <item>	39	.			লঘু পাপে গুরু দন্ড।	\n
+ 			\t	➠	A severe punishment for a venial offence.		</item>
+
+        <item>	40	.			কুঁড়ে লোকের দ্বারা কোন কাজ হয় না; কুঁড়ের অন্ন হয় না ।	\n
+ 			\t	➠	A sleeping fox catches no poultry .		</item>
+
+        <item>	41	.			কোমল ব্যবহার সংঘর্ষ এড়ায় ।	\n
+ 			\t	➠	A soft answer turneth away wrath .		</item>
+
+        <item>	42	.			কাঁঠালের আমসত্ত্ব।	\n
+ 			\t	➠	A square peg in a round hole (An Impossibility).		</item>
+
+        <item>	43	.			জ্ঞানীরা স্বল্পভাষী হয়।	\n
+ 			\t	➠	A still tongue makes a wise head.		</item>
+
+        <item>	44	.			সময়ের এক ফোঁড় অসময়ের দশ ফোঁড়।	\n
+ 			\t	➠	A stitch in time saves nine.		</item>
+
+        <item>	45	.			বার মাসে তের পার্বণ।	\n
+ 			\t	➠	A succession of festivities all the year round.		</item>
+
+        <item>	46	.			চায়ের কাপে তুফান।	\n
+ 			\t	➠	A tempest in a tea-pot.		</item>
+
+        <item>	47	.			সুন্দর সবসময়ই আনন্দদায়ক ।	\n
+ 			\t	➠	A thing of beauty is a joy forever .		</item>
+
+        <item>	48	.			ফলনে পরিচীয়তে ।	\n
+ 			\t	➠	A tree is known by its fruit .		</item>
+
+        <item>	49	.			কারো সাথে ভাগাভাগি করলে সমস্যা অর্ধেক হয়ে যায়।	\n
+ 			\t	➠	A trouble shared is a trouble halved .		</item>
+
+        <item>	50	.			লোভে পাপ পাপে মৃত্যু ।	\n
+ 			\t	➠	A varice begets sin, sin begets death .		</item>
+
+        <item>	51	.			অপেক্ষার সময় শেষ হয় না ।	\n
+ 			\t	➠	A watched pot never boils .		</item>
+
+        <item>	52	.			দিল্লীর লাড্ডু - খেলেও পস্তাবে, না খেলেও পস্তাবে।	\n
+ 			\t	➠	A wish, gained or lost, leaves one unsatisfied in either case.		</item>
+
+        <item>	53	.			ছদ্মবেশী শত্রু; বাইরে দেখতে ভালো, ভিতরে খারাপ।	\n
+ 			\t	➠	A wolf in sheep\'s clothing .		</item>
+
+        <item>	54	.			অবলার মুখই বল।	\n
+ 			\t	➠	A woman\'s weapon is her tongue.		</item>
+
+        <item>	55	.			মহিলাদের কাজ বাড়ির ভিতরে ।	\n
+ 			\t	➠	A woman\'s place is in the home.		</item>
+
+        <item>	56	.			মহিলাদের কাজ কখনও শেষ হয় না ।	\n
+ 			\t	➠	A woman\'s work is never done .		</item>
+
+        <item>	57	.			মুখ দিয়ে যে কথা একবার বেরিয়ে যায় তা আর ফিরিয়ে আনা সম্ভব না।	\n
+ 			\t	➠	A word once spoken is past recalling.		</item>
+
+        <item>	58	.			জ্ঞানীরা অল্প কথাতেই বোঝে ।	\n
+ 			\t	➠	A word to the wise is sufficient .		</item>
+
+        <item>	59	.			ভক্তি হলো অজ্ঞতার কন্যা; অজ্ঞতাই ভক্তি করে ।	\n
+ 			\t	➠	Admiration is the daughter of ignorance.		</item>
+
+        <item>	60	.			হিতে বিপরীত ।	\n
+ 			\t	➠	Adversity often leads to prosperity .		</item>
+
+        <item>	61	.			ঝড় থেমে গেলে সব কিছু শান্ত হয়।	\n
+ 			\t	➠	After a storm comes a calm.		</item>
+
+        <item>	62	.			মেঘ দেখে করিসনে ভয়,আড়ালে তার সূর্য হাসে ।	\n
+ 			\t	➠	After clouds comes fair weather.		</item>
+
+        <item>	63	.			চোর পালালে বুদ্ধি বাড়ে।	\n
+ 			\t	➠	After death comes the doctor .		</item>
+
+        <item>	64	.			নুন আনতে পান্তা ফুরায়।	\n
+ 			\t	➠	After meat comes mustard .		</item>
+
+        <item>	65	.			যত হাসি তত কান্না বলে গেছে রাম শর্মা।	\n
+ 			\t	➠	After sweet meat comes sour sauce .		</item>
+
+        <item>	66	.			যত দোষ নন্দ ঘোষ।	\n
+ 			\t	➠	All are blaming "nobody".		</item>
+
+        <item>	67	.			পৈতে থাকলেই বামুন হয় না।	\n
+ 			\t	➠	All are not saints that go to church.		</item>
+
+        <item>	68	.			অতি লোভে তাঁতি নষ্ট।	\n
+ 			\t	➠	Grasp all, lose all		</item>
+
+        <item>	69	.			নানা মুনির নানা মত ।	\n
+ 			\t	➠	All feet tread not in one shoe .		</item>
+
+        <item>	70	.			নিজের জিনিস সকলেই ভালো দেখে ।	\n
+ 			\t	➠	All his geese are swans .		</item>
+
+        <item>	71	.			ভালোবাসা এবং যুদ্ধে সবকিছুই বৈধ,ভালোবাসা এবং যুদ্ধে কোন নিয়মনীতি নেই ।	\n
+ 			\t	➠	All is fair in love and war.		</item>
+
+        <item>	72	.			সুখের সময়গুলো দ্রুত চলে যায় ।	\n
+ 			\t	➠	All our sweetest hours fly fastest .		</item>
+
+        <item>	73	.			পক্ষপাতদুষ্ট লোকের নিকট সবাই মন্দ ।	\n
+ 			\t	➠	All seems yellow to the jaundiced eye .		</item>
+
+        <item>	74	.			চকচক করলেই সোনা হয় না।	\n
+ 			\t	➠	All that glitters is not gold.		</item>
+
+        <item>	75	.			পুরোনো চাল ভাতে বাড়ে।	\n
+ 			\t	➠	All that is old is not bad.		</item>
+
+        <item>	76	.			যে সহে সে রহে; সবুরে মেওয়া ফলে।	\n
+ 			\t	➠	All things come to him who waits .		</item>
+
+        <item>	77	.			শেষ রক্ষাই রক্ষা; মধুরেণ সমাপয়াত; সব ভালো তার, শেষ ভালো যার।	\n
+ 			\t	➠	All well that ends well .		</item>
+
+        <item>	78	.			সব ভাল যার শেষ ভাল তার।	\n
+ 			\t	➠	All\'s well that ends well.		</item>
+
+        <item>	79	.			দিনে একটা আপেল খেলে কখনও ডাক্তারের কাছে যেতে হয় না।	\n
+ 			\t	➠	An apple a day keeps the doctor away .		</item>
+
+        <item>	80	.			ভাগের মা গঙ্গা পায় না।	\n
+ 			\t	➠	An ass that is a common property is always worst saddle .		</item>
+
+        <item>	81	.			পেটে খাবার আর পকেটে টাকা না থাকলে কোন কাজ ঠিকমতো করা যায় না।	\n
+ 			\t	➠	An empty sack cannot stand upright.		</item>
+
+        <item>	82	.			চোখের বদলে চোখ।	\n
+ 			\t	➠	An eye for an eye.		</item>
+
+        <item>	83	.			অলস মস্তিষ্ক শয়তানের কারখানা।	\n
+ 			\t	➠	An idle brain is the devil\'s workshop .		</item>
+
+        <item>	84	.			শুঁড়ির সাক্ষী মাতাল ।	\n
+ 			\t	➠	An interested witness is no witness.		</item>
+
+        <item>	85	.			ঝানু লোক বোকা বনে না।	\n
+ 			\t	➠	An old bird is not caught with chaff.		</item>
+
+        <item>	86	.			বুড়ো পাখি পোষ মানে না।	\n
+ 			\t	➠	An old dog learns no trick.		</item>
+
+        <item>	87	.			যে চুরি করতে জানে সেই চুরি ঠেকাতে জানে।	\n
+ 			\t	➠	An old poacher makes the best gamekeepers.		</item>
+
+        <item>	88	.			তত্ত্বের চেয়ে প্রায়োগিক জ্ঞান গুরুত্বপূর্ণ।	\n
+ 			\t	➠	An ounce of common sense is worth a pound of theory .		</item>
+
+        <item>	89	.			বুদ্ধির চেয়ে বিচক্ষণতা ভালো ।	\n
+ 			\t	➠	An ounce of discretion is worth a pound of wit .		</item>
+
+        <item>	90	.			প্রতিকারের চেয়ে প্রতিরোধ ভালো ।	\n
+ 			\t	➠	An ounce of prevention is worth a pound of cure .		</item>
+
+        <item>	91	.			অকালে কী না খায়।	\n
+ 			\t	➠	Any food is good enough when there is a famine.		</item>
+
+        <item>	92	.			দিল্লীকা লাড্ডু।	\n
+ 			\t	➠	Apple of sodom or Dead sea apple.		</item>
+
+        <item>	93	.			বিদ্যা অনন্ত, জীবন সংক্ষিপ্ত ।	\n
+ 			\t	➠	Art is long, life is short .		</item>
+
+        <item>	94	.			অবলার মুখই বল ।	\n
+ 			\t	➠	Arthur could not tame a woman\'s tongue .		</item>
+
+        <item>	95	.			যেমনি বুনো ওল, তেমনি বাঘা তেঁতুল ।	\n
+ 			\t	➠	As is the evil, so is the remedy .		</item>
+
+        <item>	96	.			যেমন গাছ, তার তেমনি ফল।	\n
+ 			\t	➠	As is the tree, so is the fruit.		</item>
+
+        <item>	97	.			যতদিন কমলার কৃপা থাকে।	\n
+ 			\t	➠	As long as fortune smiles on one.		</item>
+
+        <item>	98	.			ঝোপ বুঝে কোপ মারা ।	\n
+ 			\t	➠	As the wind blows, you must set your sail.		</item>
+
+        <item>	99	.			রাজায় রাজায় যুদ্ধ হয়, উলুখাগড়ার প্রাণ যায়।	\n
+ 			\t	➠	As you brew, so you drink.		</item>
+
+        <item>	100	.			যেমন কর্ম তেমন ফল ।	\n
+ 			\t	➠	As you make your bed, so you must lie on it .		</item>
+
+        <item>	101	.			যেমন কর্ম তেমন ফল।	\n
+ 			\t	➠	As you sow so you reap.		</item>
+
+        <item>	102	.			লোভে পাপ, পাপে মৃত্যু।	\n
+ 			\t	➠	Avarice begets sin and sin begets death.		</item>
+
+        <item>	103	.			মাথা নেই তার মাথা ব্যথা।	\n
+ 			\t	➠	Bachelors\' wives and maids\' children are always well taught.		</item>
+
+        <item>	104	.			যত গর্জে তত বর্ষে না ।	\n
+ 			\t	➠	Barking dogs seldom bite .		</item>
+
+        <item>	105	.			সোনার চামচ মুখে নিয়ে জন্মান; সচ্ছল পরিবারে জন্মগ্রহন করা।	\n
+ 			\t	➠	Be born with a silver spoon in one\'s mouth .		</item>
+
+        <item>	106	.			জরু, গরু, ধান, তিন রাখে বিদ্যমান।	\n
+ 			\t	➠	Be mindful of your wife, kine and paddy.		</item>
+
+        <item>	107	.			বিয়ে করতে কড়ি, ঘর বাঁধতে দড়ি।	\n
+ 			\t	➠	Be sure before you marry of a house wherein to tarry.		</item>
+
+        <item>	108	.			যার নুন খাও তার গুণ গাও।	\n
+ 			\t	➠	Be true to your salt.		</item>
+
+        <item>	109	.			দ্রষ্টার চোখেই সৌন্দর্য থাকে ।	\n
+ 			\t	➠	Beauty lies in the eye of the beholder.		</item>
+
+        <item>	110	.			গ্রাম নাই তার সীমানা।	\n
+ 			\t	➠	Beggars must not be choosers.		</item>
+
+        <item>	111	.			কাঙালের ঘোড়া রোগ।	\n
+ 			\t	➠	Beggars on horseback will ride to the devil.		</item>
+
+        <item>	112	.			কুসঙ্গে থাকার চেয়ে একা থাকাও ভালো।	\n
+ 			\t	➠	Better alone than in bad company.		</item>
+
+        <item>	113	.			দুষ্ট গরুর চেয়ে শূন্য গোয়াল ভালো ।	\n
+ 			\t	➠	Better an empty house than an ill tenant .		</item>
+
+        <item>	114	.			নেতৃত্ব যেখানেই থাক তা সম্মানজনক ।	\n
+ 			\t	➠	Better be the head of a dog than the tail of a lion .		</item>
+
+        <item>	115	.			একেবারে না হওয়ার চেয়ে দেরিতে হওয়া ভালো ।	\n
+ 			\t	➠	Better late than never .		</item>
+
+        <item>	116	.			জলে কুমির ডাঙ্গায় বাঘ, সর্বত্র বিপদ ।	\n
+ 			\t	➠	Between the devil and the deep blue sea or, between a rock and a hard place.		</item>
+
+        <item>	117	.			জলে কুমীর, ডাঙায় বাঘ।	\n
+ 			\t	➠	Between two fires or Between the devil and the deep sea.		</item>
+
+        <item>	118	.			শত্রুর ছলাকলায় ভুলে যেও না ।	\n
+ 			\t	➠	Beware of Greeks bearing gifts .		</item>
+
+        <item>	119	.			চোরে চোরে মাসতুতো ভাই ।	\n
+ 			\t	➠	Birds of a feather flock together .		</item>
+
+        <item>	120	.			একই গোয়ালের গরু।	\n
+ 			\t	➠	Birds of the same feather.		</item>
+
+        <item>	121	.			চোরে চোরে মাসতুত ভাই।	\n
+ 			\t	➠	Birds of the same feather flock together.		</item>
+
+        <item>	122	.			কয়লা ধুলে ময়লা যায় না ।	\n
+ 			\t	➠	Black will take no other hue .		</item>
+
+        <item>	123	.			দাঁত থাকতে দাঁতের মর্যাদা জানে না।	\n
+ 			\t	➠	Blessings are not valued till they are gone.		</item>
+
+        <item>	124	.			রক্তের টান বড় টান।	\n
+ 			\t	➠	Blood is thicker than water.		</item>
+
+        <item>	125	.			গোবরে পদ্মফুল।	\n
+ 			\t	➠	Blossoms in the dust or Musk in a kennel.		</item>
+
+        <item>	126	.			দূরের জিনিস ভালো মনে হয় ।	\n
+ 			\t	➠	Blue are the hills that are far from us .		</item>
+
+        <item>	127	.			দুধ কলা দিয়ে সাপ পোষা।	\n
+ 			\t	➠	Breed up a crow, and it will pluck your eyes.		</item>
+
+        <item>	128	.			মানিকের খানিক ভালো ।	\n
+ 			\t	➠	Brevity is the soul of wit .		</item>
+
+        <item>	129	.			আঁধার ঘরের মানিক।	\n
+ 			\t	➠	Bright gem in a dark cave.		</item>
+
+        <item>	130	.			আকাশকুসুম কল্পণা করা।	\n
+ 			\t	➠	Build castles in the air.		</item>
+
+        <item>	131	.			নিজের নাক কেটে পরের যাত্রা ভঙ্গ করা।	\n
+ 			\t	➠	Burn not thy fingers to snuff another man\'s candle.		</item>
+
+        <item>	132	.			নিজের নাক কেটে অপরের যাত্রা ভঙ্গ করো না ।	\n
+ 			\t	➠	Burn not your house to fright the mouse away .		</item>
+
+        <item>	133	.			কাজও নাই, কামাইও নাই।	\n
+ 			\t	➠	Busy about nothing or No work, no leisure or It is all bustle.		</item>
+
+        <item>	134	.			বিপদই প্রকৃত কষ্টিপাথর ।	\n
+ 			\t	➠	Calamity is man\'s true touchstone .		</item>
+
+        <item>	135	.			স্পষ্টাস্পষ্টি কথা বলা ।	\n
+ 			\t	➠	Call a spade a spade .		</item>
+
+        <item>	136	.			অতি যত্নে মরণফাঁদ।	\n
+ 			\t	➠	Care killed the cat.		</item>
+
+        <item>	137	.			তেলা মাথায় তেল দেওয়া ।	\n
+ 			\t	➠	Carry coal to new castle .		</item>
+
+        <item>	138	.			অনিশ্চিতের আশায় নিশ্চিত ত্যাগ করা ।	\n
+ 			\t	➠	Cast at the shadow and lose the substance .		</item>
+
+        <item>	139	.			আগে ঘর তারপর পর,আগে ঘর, তবে ত পর; আত্মরেখে ধর্ম ।	\n
+ 			\t	➠	Charity begins at home.		</item>
+
+        <item>	140	.			সৌন্দর্য ধরা পড়ে চোখে আর জ্ঞান ধরা পড়ে অন্তরে।	\n
+ 			\t	➠	Charm strikes the sight, merit wins the soul .		</item>
+
+        <item>	141	.			সস্তার তিন অবস্থা।	\n
+ 			\t	➠	Cheap and nasty.		</item>
+
+        <item>	142	.			সস্তার তিন অবস্থা।	\n
+ 			\t	➠	Cheap goods are dear in the long run.		</item>
+
+        <item>	143	.			প্রতারক জীবনে উন্নতি করতে পারে না ।	\n
+ 			\t	➠	Cheats never prosper .		</item>
+
+        <item>	144	.			ছেলের হাতের মোয়া।	\n
+ 			\t	➠	Child\'s plaything.		</item>
+
+        <item>	145	.			বুড়ো শালিকের ঘাড়ে রোঁ।	\n
+ 			\t	➠	Childish behavior of an old man .		</item>
+
+        <item>	146	.			শিশু এবং বোকারাই সত্য বলে ।	\n
+ 			\t	➠	Children and fools tell the truth .		</item>
+
+        <item>	147	.			ভালো হতে পয়সা লাগে না ।	\n
+ 			\t	➠	Civility/courtesy costs nothing .		</item>
+
+        <item>	148	.			ফরসা কাপড়ে মান বাড়ে,পরিষ্কার পরিচ্ছন্নতা ঈশ্বরভক্তির একটি ধাপ ।	\n
+ 			\t	➠	Cleanliness is next to godliness.		</item>
+
+        <item>	149	.			বেশ ভূষা দ্বারা মানুষ চেনা যায়।	\n
+ 			\t	➠	Clothes make the man .		</item>
+
+        <item>	150	.			লেগে থাকলে কাজ হয় ।	\n
+ 			\t	➠	Constant dripping wears away a stone .		</item>
+
+        <item>	151	.			ঘোমটার ভিতর খেমটার নাচ।	\n
+ 			\t	➠	Coquetry under the guise of modesty.		</item>
+
+        <item>	152	.			গাছে কাঁঠাল গোঁফে তেল; কালনেমির লংকাভাগ; গাছে না উঠতেই এক কাঁদি।	\n
+ 			\t	➠	Count (to) chickens till they are hatched .		</item>
+
+        <item>	153	.			পরহস্তগত ধন হিসাবের বাইরে রাখ।	\n
+ 			\t	➠	Count not money that is still to come .		</item>
+
+        <item>	154	.			ভীরুরা মরার আগেই দু\'বেলা (দুবার) মরে।	\n
+ 			\t	➠	Cowards die many times before their death.		</item>
+
+        <item>	155	.			নিজের নাক কেটে অপরের যাত্রা ভঙ্গ করা ।	\n
+ 			\t	➠	Cut off one\'s nose to spite one\'s face .		</item>
+
+        <item>	156	.			আয় বুঝে ব্যয় করা।	\n
+ 			\t	➠	Cut your coat according to your cloth.		</item>
+
+        <item>	157	.			বিপদ একাকী আসে না ।	\n
+ 			\t	➠	Danger never comes alone .		</item>
+
+        <item>	158	.			যেখানে বাঘের ভয়, সেখানেই সন্ধ্যা হয়।	\n
+ 			\t	➠	Danger often comes where danger is feared.		</item>
+
+        <item>	159	.			অন্ধের কিবা রাত্রি কিবা দিন।	\n
+ 			\t	➠	Day and night are alike to a blind man.		</item>
+
+        <item>	160	.			মরণকালে ঔষুধ নাই।	\n
+ 			\t	➠	Death defies doctors.		</item>
+
+        <item>	161	.			মৃত্যু বলে কয়ে আসে না।	\n
+ 			\t	➠	Death keeps no calendar.		</item>
+
+        <item>	162	.			মরনের সময় অসময় নাই।	\n
+ 			\t	➠	Death keeps no time .		</item>
+
+        <item>	163	.			যেমনি বুনো ওল তেমনি বাঘা তেঁতুল ।	\n
+ 			\t	➠	Desperate diseases must have desperate remedies .		</item>
+
+        <item>	164	.			রতনে রতন চেনে ।	\n
+ 			\t	➠	Diamond cuts diamond .		</item>
+
+        <item>	165	.			পরিশ্রমই সৌভাগ্যের মূল।	\n
+ 			\t	➠	Diligence is the mother of good luck.		</item>
+
+        <item>	166	.			যে মাছটা পালায় সেটাই বড়।	\n
+ 			\t	➠	Distance lends enchantment to the view .		</item>
+
+        <item>	167	.			অনিশ্চিতের আশায় নিশ্চিত ত্যাগ করিও না।	\n
+ 			\t	➠	Do not exchange your substance for shadow .		</item>
+
+        <item>	168	.			মায়ের কাছে মামা বাড়ির গল্প করো না।	\n
+ 			\t	➠	Do not teach your grandmother to such egg.		</item>
+
+        <item>	169	.			মন্ত্রের সাধন কিংবা শরীর পতন/মার অথবা মর ।	\n
+ 			\t	➠	Do or die .		</item>
+
+        <item>	170	.			স্বজাতির ক্ষতি কেউ চায় না ।	\n
+ 			\t	➠	Dog does not eat a dog .		</item>
+
+        <item>	171	.			এক লাফেই তালগাছে ওঠা যায় না।	\n
+ 			\t	➠	Don\'t run before you can walk.		</item>
+
+        <item>	172	.			ছেড়ে দে মা কেঁদে বাঁচি।	\n
+ 			\t	➠	Don\'t nag me, and leave me in peace.		</item>
+
+        <item>	173	.			গাছে কাঁঠাল গোঁফে তেল দিওনা ।	\n
+ 			\t	➠	Don\'t count your chickens before they are hatched .		</item>
+
+        <item>	174	.			চক চক করলেই সোনা হয় না ।	\n
+ 			\t	➠	Don\'t judge a book by its cover .		</item>
+
+        <item>	175	.			বিন্দু বিন্দু জলে সিন্ধু হয়,রাই কুড়িয়ে বেল।	\n
+ 			\t	➠	Drops of water make ocean.		</item>
+
+        <item>	176	.			বলা সহজ, করা কঠিন ।	\n
+ 			\t	➠	Easier said than done .		</item>
+
+        <item>	177	.			অসারের তর্জন গর্জনই সার; অল্প জলে পুঁটিমাছ ফরফর করে; বর্ষন নেই গর্জন সার।	\n
+ 			\t	➠	Empty vessels sound much .		</item>
+
+        <item>	178	.			নিজের (আপনার) ভালো পাগলও বোঝে।	\n
+ 			\t	➠	Even a fool known his business.		</item>
+
+        <item>	179	.			দেওয়ালেরও কান আছে।	\n
+ 			\t	➠	Even walls have ears.		</item>
+
+        <item>	180	.			দুঃখের পরে আসে সুখ ।	\n
+ 				➠	Every cloud has silver shining .		</item>
 
 
 
@@ -448,6 +591,416 @@
 
 
 
+<!--this data used in phrase and idioms activity-->
+    <string-array name="phrase_data">
+
+    <item>	1	.	A black sheep\nকুলাঙ্গার</item>
+    <item>	2	.	A gala day\n</item>
+    <item>	3	.	A forgone conclusion\n জানা কথা</item>
+    <item>	4	.	A good paradise\n</item>
+    <item>	5	.	A jail bird\n</item>
+    <item>	6	.	A Jaundiced eye\n</item>
+    <item>	7	.	A fair weather friend\nসুসময়ের বন্ধু</item>
+    <item>	8	.	A few\nকিছু</item>
+    <item>	9	.	A fish out of water অস্বস্তিকর অবস্থা</item>
+    <item>	10	.	A good deal ofভাল</item>
+    <item>	11	.	A hard nut to crackকঠোর প্ররিশ্রমের সাথে</item>
+    <item>	12	.	A jack of all tradesসবজান্তা কিন্তু ওস্তাদ নয়</item>
+    <item>	13	.	A lame excuseঅজুহাত</item>
+    <item>	14	.	A lot of প্রচুর</item>
+    <item>	15	.	A man of lettersপন্ডিত ব্যক্তি</item>
+    <item>	16	.	A man of word এককথার মানুষ</item>
+    <item>	17	.	A rainy day দুর্দিন</item>
+    <item>	18	.	A snake in the grassলুকানো বিপদ</item>
+    <item>	19	.	A white elephantগরীবের হাতি পোষার মত ব্যয়সাধ্য</item>
+    <item>	20	.	Above allসর্বোপরি</item>
+    <item>	21	.	All in allহঠাৎ	</item>
+    <item>	22	.	All alongপ্রায়	</item>
+    <item>	23	.	All and sundryদুর্বোধ্য</item>
+    <item>	24	.	All at onceহঠাৎ</item>
+    <item>	25	.	All butপ্রায়</item>
+    <item>	26	.	All Greekদুর্বোধ্য</item>
+    <item>	27	.	All of a suddenহঠাৎ	</item>
+    <item>	28	.	All ones sweet willনিজের ইচ্ছামত</item>
+    <item>	29	.	All the sameএকই</item>
+    <item>	30	.	An essential part ofগুরত্বপূর্ণ অংশ</item>
+    <item>	31	.	Apart fromএছাড়াও</item>
+    <item>	32	.	As ifযেন</item>
+    <item>	33	.	As long asযতদুর সম্ভব</item>
+    <item>	34	.	As soon asযত তাড়াতাড়ি সম্ভব</item>
+    <item>	35	.	As thoughযেন/ মনে হয় যেন</item>
+    <item>	36	.	As well asএবং</item>
+    <item>	37	.	At a glanceএক নজরে</item>
+    <item>	38	.	At a great speedদ্রূত গতিতে</item>
+    <item>	39	.	At a stretchএকটানা</item>
+    <item>	40	.	At allসর্বশেষে</item>
+    <item>	41	.	At all costsযতই লোকসান হোক না কেন</item>
+    <item>	42	.	At any rateযে কোন মূল্যে</item>
+    <item>	43	.	At any meansযে কোন উপায়ে</item>
+    <item>	44	.	At both ends meetকায়ক্লেশে জীবন ধারন</item>
+    <item>	45	.	At daggers drawnসাপে নেউলে</item>
+    <item>	46	.	At finger’s end  নখদর্পনে 	</item>
+    <item>	47	.	At first sight  প্রথম দর্শনে 	</item>
+    <item>	48	.	At home  দক্ষ 	</item>
+    <item>	49	.	At large  স্বাধীনভাবে 	</item>
+    <item>	50	.	At last  অবশেষে 	</item>
+    <item>	51	.	At least  অন্তত 	</item>
+    <item>	52	.	At length  অবশেষে / বিস্তারিত/অনেক পরে 	</item>
+    <item>	53	.	At a loss  হতবুদ্ধি 	</item>
+    <item>	54	.	At present  বর্তমান 	</item>
+    <item>	55	.	At present  খুব বেশী হলে 	</item>
+    <item>	56	.	At sixes and sevens এলোমেলো 	</item>
+    <item>	57	.	At stake  বিপদাপন্ন 	</item>
+    <item>	58	.	At stretch  একটানা 	</item>
+    <item>	59	.	At the eleventh hour শেষ মুহুর্তে 	</item>
+    <item>	60	.	Bad blood  শত্রুতা 	</item>
+    <item>	61	.	Bag and baggage  তল্পিতল্পাসহ 	</item>
+    <item>	62	.	Bear in mind  মনে রাখা 	</item>
+    <item>	63	.	Bear testy to	</item>
+    <item>	64	.	Because of  কারনে 	</item>
+    <item>	65	.	Before along  অনতি বিলম্বে  	</item>
+    <item>	66	.	Before long  শ্রীঘ্রই 	</item>
+    <item>	67	.	Before my eyes  চোখের সামনে 	</item>
+    <item>	68	.	Beggar description  বর্ণনাতীত 	</item>
+    <item>	69	.	Below the mark  প্রত্যাশার নীচে 	</item>
+    <item>	70	.	Beneath the dignity  মর্যাদা হানিকর 	</item>
+    <item>	71	.	Better half  সহধর্মিনী 	</item>
+    <item>	72	.	Beyond all doubt  সন্দেহের উর্ধ্বে / সন্দেহাতীতভাবে 	</item>
+    <item>	73	.	Bid adieu বিদায় জানানো 	</item>
+    <item>	74	.	Bid fair  আশা জাগা /  সম্ভাবনা 	</item>
+    <item>	75	.	Birds of same feather  একই ঝাকের লোক 	</item>
+    <item>	76	.	Black and blue  বেদম প্রহার 	</item>
+    <item>	77	.	Black sheep  কুলাঙ্গার 	</item>
+    <item>	78	.	Blue blood  অভিজাত বংশীয় 	</item>
+    <item>	79	.	Bolt from the blue  অপ্রত্যাশিত বিপদ 	</item>
+    <item>	80	.	Bone of contention  বিবাদের সূত্র 	</item>
+    <item>	81	.	Bread and butter  জীবিকা 	</item>
+    <item>	82	.	Bring to book  শাস্তি দেওয়া 	</item>
+    <item>	83	.	Burn the candle  বেহিসেবে খরচ করা 	</item>
+    <item>	84	.	By all means  সর্বপ্রকারে 	</item>
+    <item>	85	.	By and by  ক্রমেক্রমে 	</item>
+    <item>	86	.	By chance  হঠাৎ/দৈবক্রমে 	</item>
+    <item>	87	.	By dint of  বলে/ফলে  	</item>
+    <item>	88	.	By fair means or foul  ন্যায় বা অন্যায় যে ভাবে হোক 	</item>
+    <item>	89	.	By fits and starts  অনিয়মিতভাবে /  অসঙ্গত রূপে 	</item>
+    <item>	90	.	By hook or by crook  যেভাবেই হোক না কোন 	</item>
+    <item>	91	.	By leaps and bounds দ্রতগতিতে 	</item>
+    <item>	92	.	By means of  বলে /  উপায়ে 	</item>
+    <item>	93	.	By the by  কথা প্রসঙ্গে 	</item>
+    <item>	94	.	By this time  ইতিমধ্যে 	</item>
+    <item>	95	.	By turns  পর্যায় ক্রমে 	</item>
+    <item>	96	.	By virtue of  বলে 	</item>
+    <item>	97	.	By way of  উদ্দেশ্য/ রূপ 	</item>
+    <item>	98	.	Call at  গিয়ে দেখা করা 	</item>
+    <item>	99	.	Call in  ডেকে আনা 	</item>
+    <item>	100	.	Call names  গালি দেওয়া 	</item>
+    <item>	101	.	At least  অন্তত 	</item>
+    <item>	102	.	At length  অবশেষে / বিস্তারিত/অনেক পরে 	</item>
+    <item>	103	.	At a loss  হতবুদ্ধি 	</item>
+    <item>	104	.	At present  বর্তমান 	</item>
+    <item>	105	.	At present  খুব বেশী হলে 	</item>
+    <item>	106	.	At sixes and sevens এলোমেলো 	</item>
+    <item>	107	.	At stake  বিপদাপন্ন 	</item>
+    <item>	108	.	At stretch  একটানা 	</item>
+    <item>	109	.	At the eleventh hour শেষ মুহুর্তে 	</item>
+    <item>	110	.	Bad blood  শত্রুতা 	</item>
+    <item>	111	.	Bag and baggage  তল্পিতল্পাসহ 	</item>
+    <item>	112	.	Bear in mind  মনে রাখা 	</item>
+    <item>	113	.	Bear testy to	</item>
+    <item>	114	.	Because of  কারনে 	</item>
+    <item>	115	.	Before along  অনতি বিলম্বে  	</item>
+    <item>	116	.	Before long  শ্রীঘ্রই 	</item>
+    <item>	117	.	Before my eyes  চোখের সামনে 	</item>
+    <item>	118	.	Beggar description  বর্ণনাতীত 	</item>
+    <item>	119	.	Below the mark  প্রত্যাশার নীচে 	</item>
+    <item>	120	.	Beneath the dignity  মর্যাদা হানিকর 	</item>
+    <item>	121	.	Better half  সহধর্মিনী 	</item>
+    <item>	122	.	Beyond all doubt  সন্দেহের উর্ধ্বে / সন্দেহাতীতভাবে 	</item>
+    <item>	123	.	Bid adieu বিদায় জানানো 	</item>
+    <item>	124	.	Bid fair  আশা জাগা /  সম্ভাবনা 	</item>
+    <item>	125	.	Birds of same feather  একই ঝাকের লোক 	</item>
+    <item>	126	.	Black and blue  বেদম প্রহার 	</item>
+    <item>	127	.	Black sheep  কুলাঙ্গার 	</item>
+    <item>	128	.	Blue blood  অভিজাত বংশীয় 	</item>
+    <item>	129	.	Bolt from the blue  অপ্রত্যাশিত বিপদ 	</item>
+    <item>	130	.	Bone of contention  বিবাদের সূত্র 	</item>
+    <item>	131	.	Bread and butter  জীবিকা 	</item>
+    <item>	132	.	Bring to book  শাস্তি দেওয়া 	</item>
+    <item>	133	.	Burn the candle  বেহিসেবে খরচ করা 	</item>
+    <item>	134	.	By all means  সর্বপ্রকারে 	</item>
+    <item>	135	.	By and by  ক্রমেক্রমে 	</item>
+    <item>	136	.	By chance  হঠাৎ/দৈবক্রমে 	</item>
+    <item>	137	.	By dint of  বলে/ফলে  	</item>
+    <item>	138	.	By fair means or foul  ন্যায় বা অন্যায় যে ভাবে হোক 	</item>
+    <item>	139	.	By fits and starts  অনিয়মিতভাবে /  অসঙ্গত রূপে 	</item>
+    <item>	140	.	By hook or by crook  যেভাবেই হোক না কোন 	</item>
+    <item>	141	.	By leaps and bounds দ্রতগতিতে 	</item>
+    <item>	142	.	By means of  বলে /  উপায়ে 	</item>
+    <item>	143	.	By the by  কথা প্রসঙ্গে 	</item>
+    <item>	144	.	By this time  ইতিমধ্যে 	</item>
+    <item>	145	.	By turns  পর্যায় ক্রমে 	</item>
+    <item>	146	.	By virtue of  বলে 	</item>
+    <item>	147	.	By way of  উদ্দেশ্য/ রূপ 	</item>
+    <item>	148	.	Call at  গিয়ে দেখা করা 	</item>
+    <item>	149	.	Call in  ডেকে আনা 	</item>
+    <item>	150	.	Call names  গালি দেওয়া 	</item>
+    <item>	151	.	At least  অন্তত 	</item>
+    <item>	152	.	At length  অবশেষে / বিস্তারিত/অনেক পরে 	</item>
+    <item>	153	.	At a loss  হতবুদ্ধি 	</item>
+    <item>	154	.	At present  বর্তমান 	</item>
+    <item>	155	.	At present  খুব বেশী হলে 	</item>
+    <item>	156	.	At sixes and sevens এলোমেলো 	</item>
+    <item>	157	.	At stake  বিপদাপন্ন 	</item>
+    <item>	158	.	At stretch  একটানা 	</item>
+    <item>	159	.	At the eleventh hour শেষ মুহুর্তে 	</item>
+    <item>	160	.	Bad blood  শত্রুতা 	</item>
+    <item>	161	.	Bag and baggage  তল্পিতল্পাসহ 	</item>
+    <item>	162	.	Bear in mind  মনে রাখা 	</item>
+    <item>	163	.	Bear testy to	</item>
+    <item>	164	.	Because of  কারনে 	</item>
+    <item>	165	.	Before along  অনতি বিলম্বে  	</item>
+    <item>	166	.	Before long  শ্রীঘ্রই 	</item>
+    <item>	167	.	Before my eyes  চোখের সামনে 	</item>
+    <item>	168	.	Beggar description  বর্ণনাতীত 	</item>
+    <item>	169	.	Below the mark  প্রত্যাশার নীচে 	</item>
+    <item>	170	.	Beneath the dignity  মর্যাদা হানিকর 	</item>
+    <item>	171	.	Better half  সহধর্মিনী 	</item>
+    <item>	172	.	Beyond all doubt  সন্দেহের উর্ধ্বে / সন্দেহাতীতভাবে 	</item>
+    <item>	173	.	Bid adieu বিদায় জানানো 	</item>
+    <item>	174	.	Bid fair  আশা জাগা /  সম্ভাবনা 	</item>
+    <item>	175	.	Birds of same feather  একই ঝাকের লোক 	</item>
+    <item>	176	.	Black and blue  বেদম প্রহার 	</item>
+    <item>	177	.	Black sheep  কুলাঙ্গার 	</item>
+    <item>	178	.	Blue blood  অভিজাত বংশীয় 	</item>
+    <item>	179	.	Bolt from the blue  অপ্রত্যাশিত বিপদ 	</item>
+    <item>	180	.	Bone of contention  বিবাদের সূত্র 	</item>
+    <item>	181	.	Bread and butter  জীবিকা 	</item>
+    <item>	182	.	Bring to book  শাস্তি দেওয়া 	</item>
+    <item>	183	.	Burn the candle  বেহিসেবে খরচ করা 	</item>
+    <item>	184	.	By all means  সর্বপ্রকারে 	</item>
+    <item>	185	.	By and by  ক্রমেক্রমে 	</item>
+    <item>	186	.	By chance  হঠাৎ/দৈবক্রমে 	</item>
+    <item>	187	.	By dint of  বলে/ফলে  	</item>
+    <item>	188	.	By fair means or foul  ন্যায় বা অন্যায় যে ভাবে হোক 	</item>
+    <item>	189	.	By fits and starts  অনিয়মিতভাবে /  অসঙ্গত রূপে 	</item>
+    <item>	190	.	By hook or by crook  যেভাবেই হোক না কোন 	</item>
+    <item>	191	.	By leaps and bounds দ্রতগতিতে 	</item>
+    <item>	192	.	By means of  বলে /  উপায়ে 	</item>
+    <item>	193	.	By the by  কথা প্রসঙ্গে 	</item>
+    <item>	194	.	By this time  ইতিমধ্যে 	</item>
+    <item>	195	.	By turns  পর্যায় ক্রমে 	</item>
+    <item>	196	.	By virtue of  বলে 	</item>
+    <item>	197	.	By way of  উদ্দেশ্য/ রূপ 	</item>
+    <item>	198	.	Call at  গিয়ে দেখা করা 	</item>
+    <item>	199	.	Call in  ডেকে আনা 	</item>
+    <item>	200	.	Call names  গালি দেওয়া 	</item>
+    <item>	201	.	At least  অন্তত 	</item>
+    <item>	202	.	At length  অবশেষে / বিস্তারিত/অনেক পরে 	</item>
+    <item>	203	.	At a loss  হতবুদ্ধি 	</item>
+    <item>	204	.	At present  বর্তমান 	</item>
+    <item>	205	.	At present  খুব বেশী হলে 	</item>
+    <item>	206	.	At sixes and sevens এলোমেলো 	</item>
+    <item>	207	.	At stake  বিপদাপন্ন 	</item>
+    <item>	208	.	At stretch  একটানা 	</item>
+    <item>	209	.	At the eleventh hour শেষ মুহুর্তে 	</item>
+    <item>	210	.	Bad blood  শত্রুতা 	</item>
+    <item>	211	.	Bag and baggage  তল্পিতল্পাসহ 	</item>
+    <item>	212	.	Bear in mind  মনে রাখা 	</item>
+    <item>	213	.	Bear testy to	</item>
+    <item>	214	.	Because of  কারনে 	</item>
+    <item>	215	.	Before along  অনতি বিলম্বে  	</item>
+    <item>	216	.	Before long  শ্রীঘ্রই 	</item>
+    <item>	217	.	Before my eyes  চোখের সামনে 	</item>
+    <item>	218	.	Beggar description  বর্ণনাতীত 	</item>
+    <item>	219	.	Below the mark  প্রত্যাশার নীচে 	</item>
+    <item>	220	.	Beneath the dignity  মর্যাদা হানিকর 	</item>
+    <item>	221	.	Better half  সহধর্মিনী 	</item>
+    <item>	222	.	Beyond all doubt  সন্দেহের উর্ধ্বে / সন্দেহাতীতভাবে 	</item>
+    <item>	223	.	Bid adieu বিদায় জানানো 	</item>
+    <item>	224	.	Bid fair  আশা জাগা /  সম্ভাবনা 	</item>
+    <item>	225	.	Birds of same feather  একই ঝাকের লোক 	</item>
+    <item>	226	.	Black and blue  বেদম প্রহার 	</item>
+    <item>	227	.	Black sheep  কুলাঙ্গার 	</item>
+    <item>	228	.	Blue blood  অভিজাত বংশীয় 	</item>
+    <item>	229	.	Bolt from the blue  অপ্রত্যাশিত বিপদ 	</item>
+    <item>	230	.	Bone of contention  বিবাদের সূত্র 	</item>
+    <item>	231	.	Bread and butter  জীবিকা 	</item>
+    <item>	232	.	Bring to book  শাস্তি দেওয়া 	</item>
+    <item>	233	.	Burn the candle  বেহিসেবে খরচ করা 	</item>
+    <item>	234	.	By all means  সর্বপ্রকারে 	</item>
+    <item>	235	.	By and by  ক্রমেক্রমে 	</item>
+    <item>	236	.	By chance  হঠাৎ/দৈবক্রমে 	</item>
+    <item>	237	.	By dint of  বলে/ফলে  	</item>
+    <item>	238	.	By fair means or foul  ন্যায় বা অন্যায় যে ভাবে হোক 	</item>
+    <item>	239	.	By fits and starts  অনিয়মিতভাবে /  অসঙ্গত রূপে 	</item>
+    <item>	240	.	By hook or by crook  যেভাবেই হোক না কোন 	</item>
+    <item>	241	.	By leaps and bounds দ্রতগতিতে 	</item>
+    <item>	242	.	By means of  বলে /  উপায়ে 	</item>
+    <item>	243	.	By the by  কথা প্রসঙ্গে 	</item>
+    <item>	244	.	By this time  ইতিমধ্যে 	</item>
+    <item>	245	.	By turns  পর্যায় ক্রমে 	</item>
+    <item>	246	.	By virtue of  বলে 	</item>
+    <item>	247	.	By way of  উদ্দেশ্য/ রূপ 	</item>
+    <item>	248	.	Call at  গিয়ে দেখা করা 	</item>
+    <item>	249	.	Call in  ডেকে আনা 	</item>
+    <item>	250	.	Call names  গালি দেওয়া 	</item>
+    <item>	251	.	At least  অন্তত 	</item>
+    <item>	252	.	At length  অবশেষে / বিস্তারিত/অনেক পরে 	</item>
+    <item>	253	.	At a loss  হতবুদ্ধি 	</item>
+    <item>	254	.	At present  বর্তমান 	</item>
+    <item>	255	.	At present  খুব বেশী হলে 	</item>
+    <item>	256	.	At sixes and sevens এলোমেলো 	</item>
+    <item>	257	.	At stake  বিপদাপন্ন 	</item>
+    <item>	258	.	At stretch  একটানা 	</item>
+    <item>	259	.	At the eleventh hour শেষ মুহুর্তে 	</item>
+    <item>	260	.	Bad blood  শত্রুতা 	</item>
+    <item>	261	.	Bag and baggage  তল্পিতল্পাসহ 	</item>
+    <item>	262	.	Bear in mind  মনে রাখা 	</item>
+    <item>	263	.	Bear testy to	</item>
+    <item>	264	.	Because of  কারনে 	</item>
+    <item>	265	.	Before along  অনতি বিলম্বে  	</item>
+    <item>	266	.	Before long  শ্রীঘ্রই 	</item>
+    <item>	267	.	Before my eyes  চোখের সামনে 	</item>
+    <item>	268	.	Beggar description  বর্ণনাতীত 	</item>
+    <item>	269	.	Below the mark  প্রত্যাশার নীচে 	</item>
+    <item>	270	.	Beneath the dignity  মর্যাদা হানিকর 	</item>
+    <item>	271	.	Better half  সহধর্মিনী 	</item>
+    <item>	272	.	Beyond all doubt  সন্দেহের উর্ধ্বে / সন্দেহাতীতভাবে 	</item>
+    <item>	273	.	Bid adieu বিদায় জানানো 	</item>
+    <item>	274	.	Bid fair  আশা জাগা /  সম্ভাবনা 	</item>
+    <item>	275	.	Birds of same feather  একই ঝাকের লোক 	</item>
+    <item>	276	.	Black and blue  বেদম প্রহার 	</item>
+    <item>	277	.	Black sheep  কুলাঙ্গার 	</item>
+    <item>	278	.	Blue blood  অভিজাত বংশীয় 	</item>
+    <item>	279	.	Bolt from the blue  অপ্রত্যাশিত বিপদ 	</item>
+    <item>	280	.	Bone of contention  বিবাদের সূত্র 	</item>
+    <item>	281	.	Bread and butter  জীবিকা 	</item>
+    <item>	282	.	Bring to book  শাস্তি দেওয়া 	</item>
+    <item>	283	.	Burn the candle  বেহিসেবে খরচ করা 	</item>
+    <item>	284	.	By all means  সর্বপ্রকারে 	</item>
+    <item>	285	.	By and by  ক্রমেক্রমে 	</item>
+    <item>	286	.	By chance  হঠাৎ/দৈবক্রমে 	</item>
+    <item>	287	.	By dint of  বলে/ফলে  	</item>
+    <item>	288	.	By fair means or foul  ন্যায় বা অন্যায় যে ভাবে হোক 	</item>
+    <item>	289	.	By fits and starts  অনিয়মিতভাবে /  অসঙ্গত রূপে 	</item>
+    <item>	290	.	By hook or by crook  যেভাবেই হোক না কোন 	</item>
+    <item>	291	.	By leaps and bounds দ্রতগতিতে 	</item>
+    <item>	292	.	By means of  বলে /  উপায়ে 	</item>
+    <item>	293	.	By the by  কথা প্রসঙ্গে 	</item>
+    <item>	294	.	By this time  ইতিমধ্যে 	</item>
+    <item>	295	.	By turns  পর্যায় ক্রমে 	</item>
+    <item>	296	.	By virtue of  বলে 	</item>
+    <item>	297	.	By way of  উদ্দেশ্য/ রূপ 	</item>
+    <item>	298	.	Call at  গিয়ে দেখা করা 	</item>
+    <item>	299	.	Call in  ডেকে আনা 	</item>
+    <item>	300	.	Call names  গালি দেওয়া 	</item>
+    <item>	301	.	At least  অন্তত 	</item>
+    <item>	302	.	At length  অবশেষে / বিস্তারিত/অনেক পরে 	</item>
+    <item>	303	.	At a loss  হতবুদ্ধি 	</item>
+    <item>	304	.	At present  বর্তমান 	</item>
+    <item>	305	.	At present  খুব বেশী হলে 	</item>
+    <item>	306	.	At sixes and sevens এলোমেলো 	</item>
+    <item>	307	.	At stake  বিপদাপন্ন 	</item>
+    <item>	308	.	At stretch  একটানা 	</item>
+    <item>	309	.	At the eleventh hour শেষ মুহুর্তে 	</item>
+    <item>	310	.	Bad blood  শত্রুতা 	</item>
+    <item>	311	.	Bag and baggage  তল্পিতল্পাসহ 	</item>
+    <item>	312	.	Bear in mind  মনে রাখা 	</item>
+    <item>	313	.	Bear testy to	</item>
+    <item>	314	.	Because of  কারনে 	</item>
+    <item>	315	.	Before along  অনতি বিলম্বে  	</item>
+    <item>	316	.	Before long  শ্রীঘ্রই 	</item>
+    <item>	317	.	Before my eyes  চোখের সামনে 	</item>
+    <item>	318	.	Beggar description  বর্ণনাতীত 	</item>
+    <item>	319	.	Below the mark  প্রত্যাশার নীচে 	</item>
+    <item>	320	.	Beneath the dignity  মর্যাদা হানিকর 	</item>
+    <item>	321	.	Better half  সহধর্মিনী 	</item>
+    <item>	322	.	Beyond all doubt  সন্দেহের উর্ধ্বে / সন্দেহাতীতভাবে 	</item>
+    <item>	323	.	Bid adieu বিদায় জানানো 	</item>
+    <item>	324	.	Bid fair  আশা জাগা /  সম্ভাবনা 	</item>
+    <item>	325	.	Birds of same feather  একই ঝাকের লোক 	</item>
+    <item>	326	.	Black and blue  বেদম প্রহার 	</item>
+    <item>	327	.	Black sheep  কুলাঙ্গার 	</item>
+    <item>	328	.	Blue blood  অভিজাত বংশীয় 	</item>
+    <item>	329	.	Bolt from the blue  অপ্রত্যাশিত বিপদ 	</item>
+    <item>	330	.	Bone of contention  বিবাদের সূত্র 	</item>
+    <item>	331	.	Bread and butter  জীবিকা 	</item>
+    <item>	332	.	Bring to book  শাস্তি দেওয়া 	</item>
+    <item>	333	.	Burn the candle  বেহিসেবে খরচ করা 	</item>
+    <item>	334	.	By all means  সর্বপ্রকারে 	</item>
+    <item>	335	.	By and by  ক্রমেক্রমে 	</item>
+    <item>	336	.	By chance  হঠাৎ/দৈবক্রমে 	</item>
+    <item>	337	.	By dint of  বলে/ফলে  	</item>
+    <item>	338	.	By fair means or foul  ন্যায় বা অন্যায় যে ভাবে হোক 	</item>
+    <item>	339	.	By fits and starts  অনিয়মিতভাবে /  অসঙ্গত রূপে 	</item>
+    <item>	340	.	By hook or by crook  যেভাবেই হোক না কোন 	</item>
+    <item>	341	.	By leaps and bounds দ্রতগতিতে 	</item>
+    <item>	342	.	By means of  বলে /  উপায়ে 	</item>
+    <item>	343	.	By the by  কথা প্রসঙ্গে 	</item>
+    <item>	344	.	By this time  ইতিমধ্যে 	</item>
+    <item>	345	.	By turns  পর্যায় ক্রমে 	</item>
+    <item>	346	.	By virtue of  বলে 	</item>
+    <item>	347	.	By way of  উদ্দেশ্য/ রূপ 	</item>
+    <item>	348	.	Call at  গিয়ে দেখা করা 	</item>
+    <item>	349	.	Call in  ডেকে আনা 	</item>
+    <item>	350	.	Call names  গালি দেওয়া 	</item>
+    <item>	351	.	At least  অন্তত 	</item>
+    <item>	352	.	At length  অবশেষে / বিস্তারিত/অনেক পরে 	</item>
+    <item>	353	.	At a loss  হতবুদ্ধি 	</item>
+    <item>	354	.	At present  বর্তমান 	</item>
+    <item>	355	.	At present  খুব বেশী হলে 	</item>
+    <item>	356	.	At sixes and sevens এলোমেলো 	</item>
+    <item>	357	.	At stake  বিপদাপন্ন 	</item>
+    <item>	358	.	At stretch  একটানা 	</item>
+    <item>	359	.	At the eleventh hour শেষ মুহুর্তে 	</item>
+    <item>	360	.	Bad blood  শত্রুতা 	</item>
+    <item>	361	.	Bag and baggage  তল্পিতল্পাসহ 	</item>
+    <item>	362	.	Bear in mind  মনে রাখা 	</item>
+    <item>	363	.	Bear testy to	</item>
+    <item>	364	.	Because of  কারনে 	</item>
+    <item>	365	.	Before along  অনতি বিলম্বে  	</item>
+    <item>	366	.	Before long  শ্রীঘ্রই 	</item>
+    <item>	367	.	Before my eyes  চোখের সামনে 	</item>
+    <item>	368	.	Beggar description  বর্ণনাতীত 	</item>
+    <item>	369	.	Below the mark  প্রত্যাশার নীচে 	</item>
+    <item>	370	.	Beneath the dignity  মর্যাদা হানিকর 	</item>
+    <item>	371	.	Better half  সহধর্মিনী 	</item>
+    <item>	372	.	Beyond all doubt  সন্দেহের উর্ধ্বে / সন্দেহাতীতভাবে 	</item>
+    <item>	373	.	Bid adieu বিদায় জানানো 	</item>
+    <item>	374	.	Bid fair  আশা জাগা /  সম্ভাবনা 	</item>
+    <item>	375	.	Birds of same feather  একই ঝাকের লোক 	</item>
+    <item>	376	.	Black and blue  বেদম প্রহার 	</item>
+    <item>	377	.	Black sheep  কুলাঙ্গার 	</item>
+    <item>	378	.	Blue blood  অভিজাত বংশীয় 	</item>
+    <item>	379	.	Bolt from the blue  অপ্রত্যাশিত বিপদ 	</item>
+    <item>	380	.	Bone of contention  বিবাদের সূত্র 	</item>
+    <item>	381	.	Bread and butter  জীবিকা 	</item>
+    <item>	382	.	Bring to book  শাস্তি দেওয়া 	</item>
+    <item>	383	.	Burn the candle  বেহিসেবে খরচ করা 	</item>
+    <item>	384	.	By all means  সর্বপ্রকারে 	</item>
+    <item>	385	.	By and by  ক্রমেক্রমে 	</item>
+    <item>	386	.	By chance  হঠাৎ/দৈবক্রমে 	</item>
+    <item>	387	.	By dint of  বলে/ফলে  	</item>
+    <item>	388	.	By fair means or foul  ন্যায় বা অন্যায় যে ভাবে হোক 	</item>
+    <item>	389	.	By fits and starts  অনিয়মিতভাবে /  অসঙ্গত রূপে 	</item>
+    <item>	390	.	By hook or by crook  যেভাবেই হোক না কোন 	</item>
+    <item>	391	.	By leaps and bounds দ্রতগতিতে 	</item>
+    <item>	392	.	By means of  বলে /  উপায়ে 	</item>
+    <item>	393	.	By the by  কথা প্রসঙ্গে 	</item>
+    <item>	394	.	By this time  ইতিমধ্যে 	</item>
+    <item>	395	.	By turns  পর্যায় ক্রমে 	</item>
+    <item>	396	.	By virtue of  বলে 	</item>
+    <item>	397	.	By way of  উদ্দেশ্য/ রূপ 	</item>
+    <item>	398	.	Call at  গিয়ে দেখা করা 	</item>
+    <item>	399	.	Call in  ডেকে আনা 	</item>
+    <item>	400	.	Call names  গালি দেওয়া 	</item>
+
+
+
+
+
+
+</string-array>
 
 
 
@@ -455,54 +1008,7 @@
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+<!--This data used in spoken english header group-->
     <string-array name="spoken_header">
 
 
@@ -915,6 +1421,13 @@
     </string-array>
 
 
+
+
+
+
+
+
+    <!--This data used in spoken english child group-->
     <string-array name="spoken_child">
 
 
