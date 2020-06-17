@@ -30,1017 +30,1017 @@
 
     <!--This data used for verb activity-->
 
-    <string-array name="verb_data">
+   <string-array name="verb_data">
+
+       S.No.		Base Form			Past Form			Past Participle Form
+       <item>	1	.	abash	--->		abashed	--->		abashed	</item>
+       <item>	2	.	abate	--->		abated	--->		abated	</item>
+       <item>	3	.	abide	--->		abode	--->		abode	</item>
+       <item>	4	.	absorb	--->		absorbed	--->		absorbed	</item>
+       <item>	5	.	accept	--->		accepted	--->		accepted	</item>
+       <item>	6	.	accompany	--->		accompanied	--->		accompanied	</item>
+       <item>	7	.	ache	--->		ached	--->		ached	</item>
+       <item>	8	.	achieve	--->		achieved	--->		achieved	</item>
+       <item>	9	.	acquire	--->		acquired	--->		acquired	</item>
+       <item>	10	.	act	--->		acted	--->		acted	</item>
+       <item>	11	.	add	--->		added	--->		added	</item>
+       <item>	12	.	address	--->		addressed	--->		addressed	</item>
+       <item>	13	.	adjust	--->		adjusted	--->		adjusted	</item>
+       <item>	14	.	admire	--->		admired	--->		admired	</item>
+       <item>	15	.	admit	--->		admitted	--->		admitted	</item>
+       <item>	16	.	advise	--->		advised	--->		advised	</item>
+       <item>	17	.	afford	--->		afforded	--->		afforded	</item>
+       <item>	18	.	agree	--->		agreed	--->		agreed	</item>
+       <item>	19	.	alight	--->		alit	--->		alit	</item>
+       <item>	20	.	allow	--->		allowed	--->		allowed	</item>
+       <item>	21	.	animate	--->		animated	--->		animated	</item>
+       <item>	22	.	announce	--->		announced	--->		announced	</item>
+       <item>	23	.	answer	--->		answered	--->		answered	</item>
+       <item>	24	.	apologize	--->		apologized	--->		apologized	</item>
+       <item>	25	.	appear	--->		appeared	--->		appeared	</item>
+       <item>	26	.	applaud	--->		applauded	--->		applauded	</item>
+       <item>	27	.	apply	--->		applied	--->		applied	</item>
+       <item>	28	.	approach	--->		approached	--->		approached	</item>
+       <item>	29	.	approve	--->		approved	--->		approved	</item>
+       <item>	30	.	argue	--->		argued	--->		argued	</item>
+       <item>	31	.	arise	--->		arose	--->		arisen	</item>
+       <item>	32	.	arrange	--->		arranged	--->		arranged	</item>
+       <item>	33	.	arrest	--->		arrested	--->		arrested	</item>
+       <item>	34	.	ask	--->		asked	--->		asked	</item>
+       <item>	35	.	assert	--->		asserted	--->		asserted	</item>
+       <item>	36	.	assort	--->		assorted	--->		assorted	</item>
+       <item>	37	.	astonish	--->		astonished	--->		astonished	</item>
+       <item>	38	.	attack	--->		attacked	--->		attacked	</item>
+       <item>	39	.	attend	--->		attended	--->		attended	</item>
+       <item>	40	.	attract	--->		attracted	--->		attracted	</item>
+       <item>	41	.	audit	--->		audited	--->		audited	</item>
+       <item>	42	.	avoid	--->		avoided	--->		avoided	</item>
+       <item>	43	.	awake	--->		awoke	--->		awoken	</item>
+       <item>	44	.	bang	--->		banged	--->		banged	</item>
+       <item>	45	.	banish	--->		banished	--->		banished	</item>
+       <item>	46	.	bash	--->		bashed	--->		bashed	</item>
+       <item>	47	.	bat	--->		batted	--->		batted	</item>
+       <item>	48	.	be (am,are)	--->		was / were	--->		been	</item>
+       <item>	49	.	bear	--->		bore	--->		born	</item>
+       <item>	50	.	bear	--->		bore	--->		borne	</item>
+       <item>	51	.	beat	--->		beat	--->		beaten	</item>
+       <item>	52	.	beautify	--->		beautified	--->		beautified	</item>
+       <item>	53	.	become	--->		became	--->		become	</item>
+       <item>	54	.	befall	--->		befell	--->		befallen	</item>
+       <item>	55	.	beg	--->		begged	--->		begged	</item>
+       <item>	56	.	begin	--->		began	--->		begun	</item>
+       <item>	57	.	behave	--->		behaved	--->		behaved	</item>
+       <item>	58	.	behold	--->		beheld	--->		beheld	</item>
+       <item>	59	.	believe	--->		believed	--->		believed	</item>
+       <item>	60	.	belong	--->		belonged	--->		belonged	</item>
+       <item>	61	.	bend	--->		bent	--->		bent	</item>
+       <item>	62	.	bereave	--->		bereft	--->		bereft	</item>
+       <item>	63	.	beseech	--->		besought	--->		besought	</item>
+       <item>	64	.	bet	--->		bet	--->		bet	</item>
+       <item>	65	.	betray	--->		betrayed	--->		betrayed	</item>
+       <item>	66	.	bid	--->		bade	--->		bidden	</item>
+       <item>	67	.	bid	--->		bid	--->		bid	</item>
+       <item>	68	.	bind	--->		bound	--->		bound	</item>
+       <item>	69	.	bite	--->		bit	--->		bitten	</item>
+       <item>	70	.	bleed	--->		bled	--->		bled	</item>
+       <item>	71	.	bless	--->		blessed	--->		blessed	</item>
+       <item>	72	.	blossom	--->		blossomed	--->		blossomed	</item>
+       <item>	73	.	blow	--->		blew	--->		blown	</item>
+       <item>	74	.	blur	--->		blurred	--->		blurred	</item>
+       <item>	75	.	blush	--->		blushed	--->		blushed	</item>
+       <item>	76	.	board	--->		boarded	--->		boarded	</item>
+       <item>	77	.	boast	--->		boasted	--->		boasted	</item>
+       <item>	78	.	boil	--->		boiled	--->		boiled	</item>
+       <item>	79	.	bow	--->		bowed	--->		bowed	</item>
+       <item>	80	.	box	--->		boxed	--->		boxed	</item>
+       <item>	81	.	bray	--->		brayed	--->		brayed	</item>
+       <item>	82	.	break	--->		broke	--->		broken	</item>
+       <item>	83	.	breathe	--->		breathed	--->		breathed	</item>
+       <item>	84	.	breed	--->		bred	--->		bred	</item>
+       <item>	85	.	bring	--->		brought	--->		brought	</item>
+       <item>	86	.	broadcast	--->		broadcast	--->		broadcast	</item>
+       <item>	87	.	brush	--->		brushed	--->		brushed	</item>
+       <item>	88	.	build	--->		built	--->		built	</item>
+       <item>	89	.	burn	--->		burnt	--->		burnt	</item>
+       <item>	90	.	burst	--->		burst	--->		burst	</item>
+       <item>	91	.	bury	--->		buried	--->		buried	</item>
+       <item>	92	.	bust	--->		bust	--->		bust	</item>
+       <item>	93	.	buy	--->		bought	--->		bought	</item>
+       <item>	94	.	buzz	--->		buzzed	--->		buzzed	</item>
+       <item>	95	.	calculate	--->		calculated	--->		calculated	</item>
+       <item>	96	.	call	--->		called	--->		called	</item>
+       <item>	97	.	canvass	--->		canvassed	--->		canvassed	</item>
+       <item>	98	.	capture	--->		captured	--->		captured	</item>
+       <item>	99	.	caress	--->		caressed	--->		caressed	</item>
+       <item>	100	.	carry	--->		carried	--->		carried	</item>
+       <item>	101	.	carve	--->		carved	--->		carved	</item>
+       <item>	102	.	cash	--->		cashed	--->		cashed	</item>
+       <item>	103	.	cast	--->		cast	--->		cast	</item>
+       <item>	104	.	catch	--->		caught	--->		caught	</item>
+       <item>	105	.	cause	--->		caused	--->		caused	</item>
+       <item>	106	.	cease	--->		ceased	--->		ceased	</item>
+       <item>	107	.	celebrate	--->		celebrated	--->		celebrated	</item>
+       <item>	108	.	challenge	--->		challenged	--->		challenged	</item>
+       <item>	109	.	change	--->		changed	--->		changed	</item>
+       <item>	110	.	charge	--->		charged	--->		charged	</item>
+       <item>	111	.	chase	--->		chased	--->		chased	</item>
+       <item>	112	.	chat	--->		chatted	--->		chatted	</item>
+       <item>	113	.	check	--->		checked	--->		checked	</item>
+       <item>	114	.	cheer	--->		cheered	--->		cheered	</item>
+       <item>	115	.	chew	--->		chewed	--->		chewed	</item>
+       <item>	116	.	chide	--->		chid	--->		chid/chidden	</item>
+       <item>	117	.	chip	--->		chipped	--->		chipped	</item>
+       <item>	118	.	choke	--->		choked	--->		choked	</item>
+       <item>	119	.	choose	--->		chose	--->		chosen	</item>
+       <item>	120	.	classify	--->		classified	--->		classified	</item>
+       <item>	121	.	clean	--->		cleaned	--->		cleaned	</item>
+       <item>	122	.	cleave	--->		clove/cleft	--->		cloven/cleft	</item>
+       <item>	123	.	click	--->		clicked	--->		clicked	</item>
+       <item>	124	.	climb	--->		climbed	--->		climbed	</item>
+       <item>	125	.	cling	--->		clung	--->		clung	</item>
+       <item>	126	.	close	--->		closed	--->		closed	</item>
+       <item>	127	.	clothe	--->		clad	--->		clad	</item>
+       <item>	128	.	clutch	--->		clutched	--->		clutched	</item>
+       <item>	129	.	collapse	--->		collapsed	--->		collapsed	</item>
+       <item>	130	.	collect	--->		collected	--->		collected	</item>
+       <item>	131	.	colour	--->		coloured	--->		coloured	</item>
+       <item>	132	.	come	--->		came	--->		come	</item>
+       <item>	133	.	comment	--->		commented	--->		commented	</item>
+       <item>	134	.	compare	--->		compared	--->		compared	</item>
+       <item>	135	.	compel	--->		compelled	--->		compelled	</item>
+       <item>	136	.	compete	--->		competed	--->		competed	</item>
+       <item>	137	.	complain	--->		complained	--->		complained	</item>
+       <item>	138	.	complete	--->		completed	--->		completed	</item>
+       <item>	139	.	conclude	--->		concluded	--->		concluded	</item>
+       <item>	140	.	conduct	--->		conducted	--->		conducted	</item>
+       <item>	141	.	confess	--->		confessed	--->		confessed	</item>
+       <item>	142	.	confine	--->		confined	--->		confined	</item>
+       <item>	143	.	confiscate	--->		confiscated	--->		confiscated	</item>
+       <item>	144	.	confuse	--->		confused	--->		confused	</item>
+       <item>	145	.	congratulate	--->		congratulated	--->		congratulated	</item>
+       <item>	146	.	connect	--->		connected	--->		connected	</item>
+       <item>	147	.	connote	--->		connoted	--->		connoted	</item>
+       <item>	148	.	conquer	--->		conquered	--->		conquered	</item>
+       <item>	149	.	consecrate	--->		consecrated	--->		consecrated	</item>
+       <item>	150	.	consent	--->		consented	--->		consented	</item>
+       <item>	151	.	conserve	--->		conserved	--->		conserved	</item>
+       <item>	152	.	consider	--->		considered	--->		considered	</item>
+       <item>	153	.	consign	--->		consigned	--->		consigned	</item>
+       <item>	154	.	consist	--->		consisted	--->		consisted	</item>
+       <item>	155	.	console	--->		consoled	--->		consoled	</item>
+       <item>	156	.	consort	--->		consorted	--->		consorted	</item>
+       <item>	157	.	conspire	--->		conspired	--->		conspired	</item>
+       <item>	158	.	constitute	--->		constituted	--->		constituted	</item>
+       <item>	159	.	constrain	--->		constrained	--->		constrained	</item>
+       <item>	160	.	construct	--->		constructed	--->		constructed	</item>
+       <item>	161	.	construe	--->		construed	--->		construed	</item>
+       <item>	162	.	consult	--->		consulted	--->		consulted	</item>
+       <item>	163	.	contain	--->		contained	--->		contained	</item>
+       <item>	164	.	contemn	--->		contemned	--->		contemned	</item>
+       <item>	165	.	contend	--->		contended	--->		contended	</item>
+       <item>	166	.	contest	--->		contested	--->		contested	</item>
+       <item>	167	.	continue	--->		continued	--->		continued	</item>
+       <item>	168	.	contract	--->		contracted	--->		contracted	</item>
+       <item>	169	.	contradict	--->		contradicted	--->		contradicted	</item>
+       <item>	170	.	contrast	--->		contrasted	--->		contrasted	</item>
+       <item>	171	.	contribute	--->		contributed	--->		contributed	</item>
+       <item>	172	.	contrive	--->		contrived	--->		contrived	</item>
+       <item>	173	.	control	--->		controlled	--->		controlled	</item>
+       <item>	174	.	convene	--->		convened	--->		convened	</item>
+       <item>	175	.	converge	--->		converged	--->		converged	</item>
+       <item>	176	.	converse	--->		conversed	--->		conversed	</item>
+       <item>	177	.	convert	--->		converted	--->		converted	</item>
+       <item>	178	.	convey	--->		conveyed	--->		conveyed	</item>
+       <item>	179	.	convict	--->		convicted	--->		convicted	</item>
+       <item>	180	.	convince	--->		convinced	--->		convinced	</item>
+       <item>	181	.	coo	--->		cooed	--->		cooed	</item>
+       <item>	182	.	cook	--->		cooked	--->		cooked	</item>
+       <item>	183	.	cool	--->		cooled	--->		cooled	</item>
+       <item>	184	.	co-operate	--->		co-operated	--->		co-operated	</item>
+       <item>	185	.	cope	--->		coped	--->		cope	</item>
+       <item>	186	.	copy	--->		copied	--->		copied	</item>
+       <item>	187	.	correct	--->		corrected	--->		corrected	</item>
+       <item>	188	.	correspond	--->		corresponded	--->		corresponded	</item>
+       <item>	189	.	corrode	--->		corroded	--->		corroded	</item>
+       <item>	190	.	corrupt	--->		corrupted	--->		corrupted	</item>
+       <item>	191	.	cost	--->		cost	--->		cost	</item>
+       <item>	192	.	cough	--->		coughed	--->		coughed	</item>
+       <item>	193	.	counsel	--->		counselled	--->		counselled	</item>
+       <item>	194	.	count	--->		counted	--->		counted	</item>
+       <item>	195	.	course	--->		coursed	--->		coursed	</item>
+       <item>	196	.	cover	--->		covered	--->		covered	</item>
+       <item>	197	.	cower	--->		cowered	--->		cowered	</item>
+       <item>	198	.	crack	--->		cracked	--->		cracked	</item>
+       <item>	199	.	crackle	--->		crackled	--->		crackled	</item>
+       <item>	200	.	crash	--->		crashed	--->		crashed	</item>
+       <item>	201	.	crave	--->		craved	--->		craved	</item>
+       <item>	202	.	create	--->		created	--->		created	</item>
+       <item>	203	.	creep	--->		crept	--->		crept	</item>
+       <item>	204	.	crib	--->		cribbed	--->		cribbed	</item>
+       <item>	205	.	cross	--->		crossed	--->		crossed	</item>
+       <item>	206	.	crowd	--->		crowded	--->		crowded	</item>
+       <item>	207	.	crush	--->		crushed	--->		crushed	</item>
+       <item>	208	.	cry	--->		cried	--->		cried	</item>
+       <item>	209	.	curb	--->		curbed	--->		curbed	</item>
+       <item>	210	.	cure	--->		cured	--->		cured	</item>
+       <item>	211	.	curve	--->		curved	--->		curved	</item>
+       <item>	212	.	cut	--->		cut	--->		cut	</item>
+       <item>	213	.	cycle	--->		cycled	--->		cycled	</item>
+       <item>	214	.	damage	--->		damaged	--->		damaged	</item>
+       <item>	215	.	damp	--->		damped	--->		damped	</item>
+       <item>	216	.	dance	--->		danced	--->		danced	</item>
+       <item>	217	.	dare	--->		dared	--->		dared	</item>
+       <item>	218	.	dash	--->		dashed	--->		dashed	</item>
+       <item>	219	.	dazzle	--->		dazzled	--->		dazzled	</item>
+       <item>	220	.	deal	--->		dealt	--->		dealt	</item>
+       <item>	221	.	decay	--->		decayed	--->		decayed	</item>
+       <item>	222	.	decide	--->		decided	--->		decided	</item>
+       <item>	223	.	declare	--->		declared	--->		declared	</item>
+       <item>	224	.	decorate	--->		decorated	--->		decorated	</item>
+       <item>	225	.	decrease	--->		decreased	--->		decreased	</item>
+       <item>	226	.	dedicate	--->		dedicated	--->		dedicated	</item>
+       <item>	227	.	delay	--->		delayed	--->		delayed	</item>
+       <item>	228	.	delete	--->		deleted	--->		deleted	</item>
+       <item>	229	.	deny	--->		denied	--->		denied	</item>
+       <item>	230	.	depend	--->		depended	--->		depended	</item>
+       <item>	231	.	deprive	--->		deprived	--->		deprived	</item>
+       <item>	232	.	derive	--->		derived	--->		derived	</item>
+       <item>	233	.	describe	--->		described	--->		described	</item>
+       <item>	234	.	desire	--->		desired	--->		desired	</item>
+       <item>	235	.	destroy	--->		destroyed	--->		destroyed	</item>
+       <item>	236	.	detach	--->		detached	--->		detached	</item>
+       <item>	237	.	detect	--->		detected	--->		detected	</item>
+       <item>	238	.	determine	--->		determined	--->		determined	</item>
+       <item>	239	.	develop	--->		developed	--->		developed	</item>
+       <item>	240	.	die	--->		died	--->		died	</item>
+       <item>	241	.	differ	--->		differed	--->		differed	</item>
+       <item>	242	.	dig	--->		dug	--->		dug	</item>
+       <item>	243	.	digest	--->		digested	--->		digested	</item>
+       <item>	244	.	dim	--->		dimmed	--->		dimmed	</item>
+       <item>	245	.	diminish	--->		diminished	--->		diminished	</item>
+       <item>	246	.	dine	--->		dined	--->		dined	</item>
+       <item>	247	.	dip	--->		dipped	--->		dipped	</item>
+       <item>	248	.	direct	--->		directed	--->		directed	</item>
+       <item>	249	.	disappear	--->		disappeared	--->		disappeared	</item>
+       <item>	250	.	discover	--->		discovered	--->		discovered	</item>
+       <item>	251	.	discuss	--->		discussed	--->		discussed	</item>
+       <item>	252	.	disobey	--->		disobeyed	--->		disobeyed	</item>
+       <item>	253	.	display	--->		displayed	--->		displayed	</item>
+       <item>	254	.	dispose	--->		disposed	--->		disposed	</item>
+       <item>	255	.	distribute	--->		distributed	--->		distributed	</item>
+       <item>	256	.	disturb	--->		disturbed	--->		disturbed	</item>
+       <item>	257	.	disuse	--->		disused	--->		disused	</item>
+       <item>	258	.	dive	--->		dived	--->		dived	</item>
+       <item>	259	.	divide	--->		divided	--->		divided	</item>
+       <item>	260	.	do	--->		did	--->		done	</item>
+       <item>	261	.	donate	--->		donated	--->		donated	</item>
+       <item>	262	.	download	--->		downloaded	--->		downloaded	</item>
+       <item>	263	.	drag	--->		dragged	--->		dragged	</item>
+       <item>	264	.	draw	--->		drew	--->		drawn	</item>
+       <item>	265	.	dream	--->		dreamt	--->		dreamt	</item>
+       <item>	266	.	dress	--->		dressed	--->		dressed	</item>
+       <item>	267	.	drill	--->		drilled	--->		drilled	</item>
+       <item>	268	.	drink	--->		drank	--->		drunk	</item>
+       <item>	269	.	drive	--->		drove	--->		driven	</item>
+       <item>	270	.	drop	--->		dropped	--->		dropped	</item>
+       <item>	271	.	dry	--->		dried	--->		dried	</item>
+       <item>	272	.	dump	--->		dumped	--->		dumped	</item>
+       <item>	273	.	dwell	--->		dwelt	--->		dwelt	</item>
+       <item>	274	.	dye	--->		dyed	--->		dyed	</item>
+       <item>	275	.	earn	--->		earned	--->		earned	</item>
+       <item>	276	.	eat	--->		ate	--->		eaten	</item>
+       <item>	277	.	educate	--->		educated	--->		educated	</item>
+       <item>	278	.	empower	--->		empowered	--->		empowered	</item>
+       <item>	279	.	empty	--->		emptied	--->		emptied	</item>
+       <item>	280	.	encircle	--->		encircled	--->		encircled	</item>
+       <item>	281	.	encourage	--->		encouraged	--->		encouraged	</item>
+       <item>	282	.	encroach	--->		encroached	--->		encroached	</item>
+       <item>	283	.	endanger	--->		endangered	--->		endangered	</item>
+       <item>	284	.	endorse	--->		endorsed	--->		endorsed	</item>
+       <item>	285	.	endure	--->		endured	--->		endured	</item>
+       <item>	286	.	engrave	--->		engraved	--->		engraved	</item>
+       <item>	287	.	enjoy	--->		enjoyed	--->		enjoyed	</item>
+       <item>	288	.	enlarge	--->		enlarged	--->		enlarged	</item>
+       <item>	289	.	enlighten	--->		enlightened	--->		enlightened	</item>
+       <item>	290	.	enter	--->		entered	--->		entered	</item>
+       <item>	291	.	envy	--->		envied	--->		envied	</item>
+       <item>	292	.	erase	--->		erased	--->		erased	</item>
+       <item>	293	.	escape	--->		escaped	--->		escaped	</item>
+       <item>	294	.	evaporate	--->		evaporated	--->		evaporated	</item>
+       <item>	295	.	exchange	--->		exchanged	--->		exchanged	</item>
+       <item>	296	.	exclaim	--->		exclaimed	--->		exclaimed	</item>
+       <item>	297	.	exclude	--->		excluded	--->		excluded	</item>
+       <item>	298	.	exist	--->		existed	--->		existed	</item>
+       <item>	299	.	expand	--->		expanded	--->		expanded	</item>
+       <item>	300	.	expect	--->		expected	--->		expected	</item>
+       <item>	301	.	explain	--->		explained	--->		explained	</item>
+       <item>	302	.	explore	--->		explored	--->		explored	</item>
+       <item>	303	.	express	--->		expressed	--->		expressed	</item>
+       <item>	304	.	extend	--->		extended	--->		extended	</item>
+       <item>	305	.	eye	--->		eyed	--->		eyed	</item>
+       <item>	306	.	face	--->		faced	--->		faced	</item>
+       <item>	307	.	fail	--->		failed	--->		failed	</item>
+       <item>	308	.	faint	--->		fainted	--->		fainted	</item>
+       <item>	309	.	fall	--->		fell	--->		fallen	</item>
+       <item>	310	.	fan	--->		fanned	--->		fanned	</item>
+       <item>	311	.	fancy	--->		fancied	--->		fancied	</item>
+       <item>	312	.	favour	--->		favoured	--->		favoured	</item>
+       <item>	313	.	fax	--->		faxed	--->		faxed	</item>
+       <item>	314	.	feed	--->		fed	--->		fed	</item>
+       <item>	315	.	feel	--->		felt	--->		felt	</item>
+       <item>	316	.	ferry	--->		ferried	--->		ferried	</item>
+       <item>	317	.	fetch	--->		fetched	--->		fetched	</item>
+       <item>	318	.	fight	--->		fought	--->		fought	</item>
+       <item>	319	.	fill	--->		filled	--->		filled	</item>
+       <item>	320	.	find	--->		found	--->		found	</item>
+       <item>	321	.	finish	--->		finished	--->		finished	</item>
+       <item>	322	.	fish	--->		fished	--->		fished	</item>
+       <item>	323	.	fit	--->		fit/fitted	--->		fit/fitted	</item>
+       <item>	324	.	fix	--->		fixed	--->		fixed	</item>
+       <item>	325	.	fizz	--->		fizzed	--->		fizzed	</item>
+       <item>	326	.	flap	--->		flapped	--->		flapped	</item>
+       <item>	327	.	flash	--->		flashed	--->		flashed	</item>
+       <item>	328	.	flee	--->		fled	--->		fled	</item>
+       <item>	329	.	fling	--->		flung	--->		flung	</item>
+       <item>	330	.	float	--->		floated	--->		floated	</item>
+       <item>	331	.	flop	--->		flopped	--->		flopped	</item>
+       <item>	332	.	fly	--->		flew	--->		flown	</item>
+       <item>	333	.	fold	--->		folded	--->		folded	</item>
+       <item>	334	.	follow	--->		followed	--->		followed	</item>
+       <item>	335	.	forbid	--->		forbade	--->		forbidden	</item>
+       <item>	336	.	force	--->		forced	--->		forced	</item>
+       <item>	337	.	forecast	--->		forecast	--->		forecast	</item>
+       <item>	338	.	foretell	--->		foretold	--->		foretold	</item>
+       <item>	339	.	forget	--->		forgot	--->		forgotten	</item>
+       <item>	340	.	forgive	--->		forgave	--->		forgiven	</item>
+       <item>	341	.	forlese	--->		forlore	--->		forlorn	</item>
+       <item>	342	.	form	--->		formed	--->		formed	</item>
+       <item>	343	.	forsake	--->		forsook	--->		forsaken	</item>
+       <item>	344	.	found	--->		founded	--->		founded	</item>
+       <item>	345	.	frame	--->		framed	--->		framed	</item>
+       <item>	346	.	free	--->		freed	--->		freed	</item>
+       <item>	347	.	freeze	--->		froze	--->		frozen	</item>
+       <item>	348	.	frighten	--->		frightened	--->		frightened	</item>
+       <item>	349	.	fry	--->		fried	--->		fried	</item>
+       <item>	350	.	fulfil	--->		fulfilled	--->		fulfilled	</item>
+       <item>	351	.	gag	--->		gagged	--->		gagged	</item>
+       <item>	352	.	gain	--->		gained	--->		gained	</item>
+       <item>	353	.	gainsay	--->		gainsaid	--->		gainsaid	</item>
+       <item>	354	.	gash	--->		gashed	--->		gashed	</item>
+       <item>	355	.	gaze	--->		gazed	--->		gazed	</item>
+       <item>	356	.	get	--->		got	--->		got	</item>
+       <item>	357	.	give	--->		gave	--->		given	</item>
+       <item>	358	.	glance	--->		glanced	--->		glanced	</item>
+       <item>	359	.	glitter	--->		glittered	--->		glittered	</item>
+       <item>	360	.	glow	--->		glowed	--->		glowed	</item>
+       <item>	361	.	go	--->		went	--->		gone	</item>
+       <item>	362	.	google	--->		googled	--->		googled	</item>
+       <item>	363	.	govern	--->		governed	--->		governed	</item>
+       <item>	364	.	grab	--->		grabbed	--->		grabbed	</item>
+       <item>	365	.	grade	--->		graded	--->		graded	</item>
+       <item>	366	.	grant	--->		granted	--->		granted	</item>
+       <item>	367	.	greet	--->		greeted	--->		greeted	</item>
+       <item>	368	.	grind	--->		ground	--->		ground	</item>
+       <item>	369	.	grip	--->		gripped	--->		gripped	</item>
+       <item>	370	.	grow	--->		grew	--->		grown	</item>
+       <item>	371	.	guard	--->		guarded	--->		guarded	</item>
+       <item>	372	.	guess	--->		guessed	--->		guessed	</item>
+       <item>	373	.	guide	--->		guided	--->		guided	</item>
+       <item>	374	.	handle	--->		handled	--->		handled	</item>
+       <item>	375	.	hang	--->		hung	--->		hung	</item>
+       <item>	376	.	happen	--->		happened	--->		happened	</item>
+       <item>	377	.	harm	--->		harmed	--->		harmed	</item>
+       <item>	378	.	hatch	--->		hatched	--->		hatched	</item>
+       <item>	379	.	hate	--->		hated	--->		hated	</item>
+       <item>	380	.	have	--->		had	--->		had	</item>
+       <item>	381	.	heal	--->		healed	--->		healed	</item>
+       <item>	382	.	hear	--->		heard	--->		heard	</item>
+       <item>	383	.	heave	--->		hove	--->		hove	</item>
+       <item>	384	.	help	--->		helped	--->		helped	</item>
+       <item>	385	.	hew	--->		hewed	--->		hewn	</item>
+       <item>	386	.	hide	--->		hid	--->		hidden	</item>
+       <item>	387	.	hinder	--->		hindered	--->		hindered	</item>
+       <item>	388	.	hiss	--->		hissed	--->		hissed	</item>
+       <item>	389	.	hit	--->		hit	--->		hit	</item>
+       <item>	390	.	hoax	--->		hoaxed	--->		hoaxed	</item>
+       <item>	391	.	hold	--->		held	--->		held	</item>
+       <item>	392	.	hop	--->		hopped	--->		hopped	</item>
+       <item>	393	.	hope	--->		hoped	--->		hoped	</item>
+       <item>	394	.	horrify	--->		horrified	--->		horrified	</item>
+       <item>	395	.	hug	--->		hugged	--->		hugged	</item>
+       <item>	396	.	hum	--->		hummed	--->		hummed	</item>
+       <item>	397	.	humiliate	--->		humiliated	--->		humiliated	</item>
+       <item>	398	.	hunt	--->		hunted	--->		hunted	</item>
+       <item>	399	.	hurl	--->		hurled	--->		hurled	</item>
+       <item>	400	.	hurry	--->		hurried	--->		hurried	</item>
+       <item>	401	.	hurt	--->		hurt	--->		hurt	</item>
+       <item>	402	.	hush	--->		hushed	--->		hushed	</item>
+       <item>	403	.	hustle	--->		hustled	--->		hustled	</item>
+       <item>	404	.	hypnotize	--->		hypnotized	--->		hypnotized	</item>
+       <item>	405	.	idealize	--->		idealized	--->		idealized	</item>
+       <item>	406	.	identify	--->		identified	--->		identified	</item>
+       <item>	407	.	idolize	--->		idolized	--->		idolized	</item>
+       <item>	408	.	ignite	--->		ignited	--->		ignited	</item>
+       <item>	409	.	ignore	--->		ignored	--->		ignored	</item>
+       <item>	410	.	ill-treat	--->		ill-treated	--->		ill-treated	</item>
+       <item>	411	.	illuminate	--->		illuminated	--->		illuminated	</item>
+       <item>	412	.	illumine	--->		illumined	--->		illumined	</item>
+       <item>	413	.	illustrate	--->		illustrated	--->		illustrated	</item>
+       <item>	414	.	imagine	--->		imagined	--->		imagined	</item>
+       <item>	415	.	imbibe	--->		imbibed	--->		imbibed	</item>
+       <item>	416	.	imitate	--->		imitated	--->		imitated	</item>
+       <item>	417	.	immerse	--->		immersed	--->		immersed	</item>
+       <item>	418	.	immolate	--->		immolated	--->		immolated	</item>
+       <item>	419	.	immure	--->		immured	--->		immured	</item>
+       <item>	420	.	impair	--->		impaired	--->		impaired	</item>
+       <item>	421	.	impart	--->		imparted	--->		imparted	</item>
+       <item>	422	.	impeach	--->		impeached	--->		impeached	</item>
+       <item>	423	.	impede	--->		impeded	--->		impeded	</item>
+       <item>	424	.	impel	--->		impelled	--->		impelled	</item>
+       <item>	425	.	impend	--->		impended	--->		impended	</item>
+       <item>	426	.	imperil	--->		imperilled	--->		imperilled	</item>
+       <item>	427	.	impinge	--->		impinged	--->		impinged	</item>
+       <item>	428	.	implant	--->		implanted	--->		implanted	</item>
+       <item>	429	.	implicate	--->		implicated	--->		implicated	</item>
+       <item>	430	.	implode	--->		imploded	--->		imploded	</item>
+       <item>	431	.	implore	--->		implored	--->		implored	</item>
+       <item>	432	.	imply	--->		implied	--->		implied	</item>
+       <item>	433	.	import	--->		imported	--->		imported	</item>
+       <item>	434	.	impose	--->		imposed	--->		imposed	</item>
+       <item>	435	.	impress	--->		impressed	--->		impressed	</item>
+       <item>	436	.	imprint	--->		imprinted	--->		imprinted	</item>
+       <item>	437	.	imprison	--->		imprisoned	--->		imprisoned	</item>
+       <item>	438	.	improve	--->		improved	--->		improved	</item>
+       <item>	439	.	inaugurate	--->		inaugurated	--->		inaugurated	</item>
+       <item>	440	.	incise	--->		incised	--->		incised	</item>
+       <item>	441	.	include	--->		included	--->		included	</item>
+       <item>	442	.	increase	--->		increased	--->		increased	</item>
+       <item>	443	.	inculcate	--->		inculcated	--->		inculcated	</item>
+       <item>	444	.	indent	--->		indented	--->		indented	</item>
+       <item>	445	.	indicate	--->		indicated	--->		indicated	</item>
+       <item>	446	.	induce	--->		induced	--->		induced	</item>
+       <item>	447	.	indulge	--->		indulged	--->		indulged	</item>
+       <item>	448	.	infect	--->		infected	--->		infected	</item>
+       <item>	449	.	infest	--->		infested	--->		infested	</item>
+       <item>	450	.	inflame	--->		inflamed	--->		inflamed	</item>
+       <item>	451	.	inflate	--->		inflated	--->		inflated	</item>
+       <item>	452	.	inflect	--->		inflected	--->		inflected	</item>
+       <item>	453	.	inform	--->		informed	--->		informed	</item>
+       <item>	454	.	infringe	--->		infringed	--->		infringed	</item>
+       <item>	455	.	infuse	--->		infused	--->		infused	</item>
+       <item>	456	.	ingest	--->		ingested	--->		ingested	</item>
+       <item>	457	.	inhabit	--->		inhabited	--->		inhabited	</item>
+       <item>	458	.	inhale	--->		inhaled	--->		inhaled	</item>
+       <item>	459	.	inherit	--->		inherited	--->		inherited	</item>
+       <item>	460	.	initiate	--->		initiated	--->		initiated	</item>
+       <item>	461	.	inject	--->		injected	--->		injected	</item>
+       <item>	462	.	injure	--->		injured	--->		injured	</item>
+       <item>	463	.	inlay	--->		inlaid	--->		inlaid	</item>
+       <item>	464	.	innovate	--->		innovated	--->		innovated	</item>
+       <item>	465	.	input	--->		input	--->		input	</item>
+       <item>	466	.	inquire	--->		inquired	--->		inquired	</item>
+       <item>	467	.	inscribe	--->		inscribed	--->		inscribed	</item>
+       <item>	468	.	insert	--->		inserted	--->		inserted	</item>
+       <item>	469	.	inspect	--->		inspected	--->		inspected	</item>
+       <item>	470	.	inspire	--->		inspired	--->		inspired	</item>
+       <item>	471	.	install	--->		installed	--->		installed	</item>
+       <item>	472	.	insult	--->		insulted	--->		insulted	</item>
+       <item>	473	.	insure	--->		insured	--->		insured	</item>
+       <item>	474	.	integrate	--->		integrated	--->		integrated	</item>
+       <item>	475	.	introduce	--->		introduced	--->		introduced	</item>
+       <item>	476	.	invent	--->		invented	--->		invented	</item>
+       <item>	477	.	invite	--->		invited	--->		invited	</item>
+       <item>	478	.	join	--->		joined	--->		joined	</item>
+       <item>	479	.	jump	--->		jumped	--->		jumped	</item>
+       <item>	480	.	justify	--->		justified	--->		justified	</item>
+       <item>	481	.	keep	--->		kept	--->		kept	</item>
+       <item>	482	.	kick	--->		kicked	--->		kicked	</item>
+       <item>	483	.	kid	--->		kidded	--->		kidded	</item>
+       <item>	484	.	kill	--->		killed	--->		killed	</item>
+       <item>	485	.	kiss	--->		kissed	--->		kissed	</item>
+       <item>	486	.	kneel	--->		knelt	--->		knelt	</item>
+       <item>	487	.	knit	--->		knit	--->		knit	</item>
+       <item>	488	.	knock	--->		knocked	--->		knocked	</item>
+       <item>	489	.	know	--->		knew	--->		known	</item>
+       <item>	490	.	lade	--->		laded	--->		laden	</item>
+       <item>	491	.	land	--->		landed	--->		landed	</item>
+       <item>	492	.	last	--->		lasted	--->		lasted	</item>
+       <item>	493	.	latch	--->		latched	--->		latched	</item>
+       <item>	494	.	laugh	--->		laughed	--->		laughed	</item>
+       <item>	495	.	lay	--->		laid	--->		laid	</item>
+       <item>	496	.	lead	--->		led	--->		led	</item>
+       <item>	497	.	leak	--->		leaked	--->		leaked	</item>
+       <item>	498	.	lean	--->		leant	--->		leant	</item>
+       <item>	499	.	leap	--->		leapt	--->		leapt	</item>
+       <item>	500	.	learn	--->		learnt	--->		learnt	</item>
+       <item>	501	.	leave	--->		left	--->		left	</item>
+       <item>	502	.	leer	--->		leered	--->		leered	</item>
+       <item>	503	.	lend	--->		lent	--->		lent	</item>
+       <item>	504	.	let	--->		let	--->		let	</item>
+       <item>	505	.	lick	--->		licked	--->		licked	</item>
+       <item>	506	.	lie	--->		lay	--->		lain	</item>
+       <item>	507	.	lie	--->		lied	--->		lied	</item>
+       <item>	508	.	lift	--->		lifted	--->		lifted	</item>
+       <item>	509	.	light	--->		lit	--->		lit	</item>
+       <item>	510	.	like	--->		liked	--->		liked	</item>
+       <item>	511	.	limp	--->		limped	--->		limped	</item>
+       <item>	512	.	listen	--->		listened	--->		listened	</item>
+       <item>	513	.	live	--->		lived	--->		lived	</item>
+       <item>	514	.	look	--->		looked	--->		looked	</item>
+       <item>	515	.	lose	--->		lost	--->		lost	</item>
+       <item>	516	.	love	--->		loved	--->		loved	</item>
+       <item>	517	.	magnify	--->		magnified	--->		magnified	</item>
+       <item>	518	.	maintain	--->		maintained	--->		maintained	</item>
+       <item>	519	.	make	--->		made	--->		made	</item>
+       <item>	520	.	manage	--->		managed	--->		managed	</item>
+       <item>	521	.	march	--->		marched	--->		marched	</item>
+       <item>	522	.	mark	--->		marked	--->		marked	</item>
+       <item>	523	.	marry	--->		married	--->		married	</item>
+       <item>	524	.	mash	--->		mashed	--->		mashed	</item>
+       <item>	525	.	match	--->		matched	--->		matched	</item>
+       <item>	526	.	matter	--->		mattered	--->		mattered	</item>
+       <item>	527	.	mean	--->		meant	--->		meant	</item>
+       <item>	528	.	measure	--->		measured	--->		measured	</item>
+       <item>	529	.	meet	--->		met	--->		met	</item>
+       <item>	530	.	melt	--->		melted	--->		melted	</item>
+       <item>	531	.	merge	--->		merged	--->		merged	</item>
+       <item>	532	.	mew	--->		mewed	--->		mewed	</item>
+       <item>	533	.	migrate	--->		migrated	--->		migrated	</item>
+       <item>	534	.	milk	--->		milked	--->		milked	</item>
+       <item>	535	.	mind	--->		minded	--->		minded	</item>
+       <item>	536	.	mislead	--->		misled	--->		misled	</item>
+       <item>	537	.	miss	--->		missed	--->		missed	</item>
+       <item>	538	.	mistake	--->		mistook	--->		mistaken	</item>
+       <item>	539	.	misuse	--->		misused	--->		misused	</item>
+       <item>	540	.	mix	--->		mixed	--->		mixed	</item>
+       <item>	541	.	moan	--->		moaned	--->		moaned	</item>
+       <item>	542	.	modify	--->		modified	--->		modified	</item>
+       <item>	543	.	moo	--->		mooed	--->		mooed	</item>
+       <item>	544	.	motivate	--->		motivated	--->		motivated	</item>
+       <item>	545	.	mould	--->		moulded	--->		moulded	</item>
+       <item>	546	.	moult	--->		moulted	--->		moulted	</item>
+       <item>	547	.	move	--->		moved	--->		moved	</item>
+       <item>	548	.	mow	--->		mowed	--->		mown	</item>
+       <item>	549	.	multiply	--->		multiplied	--->		multiplied	</item>
+       <item>	550	.	murmur	--->		murmured	--->		murmured	</item>
+       <item>	551	.	nail	--->		nailed	--->		nailed	</item>
+       <item>	552	.	nap	--->		napped	--->		napped	</item>
+       <item>	553	.	need	--->		needed	--->		needed	</item>
+       <item>	554	.	neglect	--->		neglected	--->		neglected	</item>
+       <item>	555	.	nip	--->		nipped	--->		nipped	</item>
+       <item>	556	.	nod	--->		nodded	--->		nodded	</item>
+       <item>	557	.	note	--->		noted	--->		noted	</item>
+       <item>	558	.	notice	--->		noticed	--->		noticed	</item>
+       <item>	559	.	notify	--->		notified	--->		notified	</item>
+       <item>	560	.	nourish	--->		nourished	--->		nourished	</item>
+       <item>	561	.	nurse	--->		nursed	--->		nursed	</item>
+       <item>	562	.	obey	--->		obeyed	--->		obeyed	</item>
+       <item>	563	.	oblige	--->		obliged	--->		obliged	</item>
+       <item>	564	.	observe	--->		observed	--->		observed	</item>
+       <item>	565	.	obstruct	--->		obstructed	--->		obstructed	</item>
+       <item>	566	.	obtain	--->		obtained	--->		obtained	</item>
+       <item>	567	.	occupy	--->		occupied	--->		occupied	</item>
+       <item>	568	.	occur	--->		occurred	--->		occurred	</item>
+       <item>	569	.	offer	--->		offered	--->		offered	</item>
+       <item>	570	.	offset	--->		offset	--->		offset	</item>
+       <item>	571	.	omit	--->		omitted	--->		omitted	</item>
+       <item>	572	.	ooze	--->		oozed	--->		oozed	</item>
+       <item>	573	.	open	--->		opened	--->		opened	</item>
+       <item>	574	.	operate	--->		operated	--->		operated	</item>
+       <item>	575	.	opine	--->		opined	--->		opined	</item>
+       <item>	576	.	oppress	--->		oppressed	--->		oppressed	</item>
+       <item>	577	.	opt	--->		opted	--->		opted	</item>
+       <item>	578	.	optimize	--->		optimized	--->		optimized	</item>
+       <item>	579	.	order	--->		ordered	--->		ordered	</item>
+       <item>	580	.	organize	--->		organized	--->		organized	</item>
+       <item>	581	.	originate	--->		originated	--->		originated	</item>
+       <item>	582	.	output	--->		output	--->		output	</item>
+       <item>	583	.	overflow	--->		overflowed	--->		overflowed	</item>
+       <item>	584	.	overtake	--->		overtook	--->		overtaken	</item>
+       <item>	585	.	owe	--->		owed	--->		owed	</item>
+       <item>	586	.	own	--->		owned	--->		owned	</item>
+       <item>	587	.	pacify	--->		pacified	--->		pacified	</item>
+       <item>	588	.	paint	--->		painted	--->		painted	</item>
+       <item>	589	.	pardon	--->		pardoned	--->		pardoned	</item>
+       <item>	590	.	part	--->		parted	--->		parted	</item>
+       <item>	591	.	partake	--->		partook	--->		partaken	</item>
+       <item>	592	.	participate	--->		participated	--->		participated	</item>
+       <item>	593	.	pass	--->		passed	--->		passed	</item>
+       <item>	594	.	paste	--->		pasted	--->		pasted	</item>
+       <item>	595	.	pat	--->		patted	--->		patted	</item>
+       <item>	596	.	patch	--->		patched	--->		patched	</item>
+       <item>	597	.	pause	--->		paused	--->		paused	</item>
+       <item>	598	.	pay	--->		paid	--->		paid	</item>
+       <item>	599	.	peep	--->		peeped	--->		peeped	</item>
+       <item>	600	.	perish	--->		perished	--->		perished	</item>
+       <item>	601	.	permit	--->		permitted	--->		permitted	</item>
+       <item>	602	.	persuade	--->		persuaded	--->		persuaded	</item>
+       <item>	603	.	phone	--->		phoned	--->		phoned	</item>
+       <item>	604	.	place	--->		placed	--->		placed	</item>
+       <item>	605	.	plan	--->		planned	--->		planned	</item>
+       <item>	606	.	play	--->		played	--->		played	</item>
+       <item>	607	.	plead	--->		pled	--->		pled	</item>
+       <item>	608	.	please	--->		pleased	--->		pleased	</item>
+       <item>	609	.	plod	--->		plodded	--->		plodded	</item>
+       <item>	610	.	plot	--->		plotted	--->		plotted	</item>
+       <item>	611	.	pluck	--->		plucked	--->		plucked	</item>
+       <item>	612	.	ply	--->		plied	--->		plied	</item>
+       <item>	613	.	point	--->		pointed	--->		pointed	</item>
+       <item>	614	.	polish	--->		polished	--->		polished	</item>
+       <item>	615	.	pollute	--->		polluted	--->		polluted	</item>
+       <item>	616	.	ponder	--->		pondered	--->		pondered	</item>
+       <item>	617	.	pour	--->		poured	--->		poured	</item>
+       <item>	618	.	pout	--->		pouted	--->		pouted	</item>
+       <item>	619	.	practise	--->		practised	--->		practised	</item>
+       <item>	620	.	praise	--->		praised	--->		praised	</item>
+       <item>	621	.	pray	--->		prayed	--->		prayed	</item>
+       <item>	622	.	preach	--->		preached	--->		preached	</item>
+       <item>	623	.	prefer	--->		preferred	--->		preferred	</item>
+       <item>	624	.	prepare	--->		prepared	--->		prepared	</item>
+       <item>	625	.	prescribe	--->		prescribed	--->		prescribed	</item>
+       <item>	626	.	present	--->		presented	--->		presented	</item>
+       <item>	627	.	preserve	--->		preserved	--->		preserved	</item>
+       <item>	628	.	preset	--->		preset	--->		preset	</item>
+       <item>	629	.	preside	--->		presided	--->		presided	</item>
+       <item>	630	.	press	--->		pressed	--->		pressed	</item>
+       <item>	631	.	pretend	--->		pretended	--->		pretended	</item>
+       <item>	632	.	prevent	--->		prevented	--->		prevented	</item>
+       <item>	633	.	print	--->		printed	--->		printed	</item>
+       <item>	634	.	proceed	--->		proceeded	--->		proceeded	</item>
+       <item>	635	.	produce	--->		produced	--->		produced	</item>
+       <item>	636	.	progress	--->		progressed	--->		progressed	</item>
+       <item>	637	.	prohibit	--->		prohibited	--->		prohibited	</item>
+       <item>	638	.	promise	--->		promised	--->		promised	</item>
+       <item>	639	.	propose	--->		proposed	--->		proposed	</item>
+       <item>	640	.	prosecute	--->		prosecuted	--->		prosecuted	</item>
+       <item>	641	.	protect	--->		protected	--->		protected	</item>
+       <item>	642	.	prove	--->		proved	--->		proved	</item>
+       <item>	643	.	provide	--->		provided	--->		provided	</item>
+       <item>	644	.	pull	--->		pulled	--->		pulled	</item>
+       <item>	645	.	punish	--->		punished	--->		punished	</item>
+       <item>	646	.	purify	--->		purified	--->		purified	</item>
+       <item>	647	.	push	--->		pushed	--->		pushed	</item>
+       <item>	648	.	put	--->		put	--->		put	</item>
+       <item>	649	.	qualify	--->		qualified	--->		qualified	</item>
+       <item>	650	.	quarrel	--->		quarrelled	--->		quarrelled	</item>
+       <item>	651	.	question	--->		questioned	--->		questioned	</item>
+       <item>	652	.	quit	--->		quit	--->		quit	</item>
+       <item>	653	.	race	--->		raced	--->		raced	</item>
+       <item>	654	.	rain	--->		rained	--->		rained	</item>
+       <item>	655	.	rattle	--->		rattled	--->		rattled	</item>
+       <item>	656	.	reach	--->		reached	--->		reached	</item>
+       <item>	657	.	read	--->		read	--->		read	</item>
+       <item>	658	.	realize	--->		realized	--->		realized	</item>
+       <item>	659	.	rebuild	--->		rebuilt	--->		rebuilt	</item>
+       <item>	660	.	recall	--->		recalled	--->		recalled	</item>
+       <item>	661	.	recast	--->		recast	--->		recast	</item>
+       <item>	662	.	receive	--->		received	--->		received	</item>
+       <item>	663	.	recite	--->		recited	--->		recited	</item>
+       <item>	664	.	recognize	--->		recognized	--->		recognized	</item>
+       <item>	665	.	recollect	--->		recollected	--->		recollected	</item>
+       <item>	666	.	recur	--->		recurred	--->		recurred	</item>
+       <item>	667	.	redo	--->		redid	--->		redone	</item>
+       <item>	668	.	reduce	--->		reduced	--->		reduced	</item>
+       <item>	669	.	refer	--->		referred	--->		referred	</item>
+       <item>	670	.	reflect	--->		reflected	--->		reflected	</item>
+       <item>	671	.	refuse	--->		refused	--->		refused	</item>
+       <item>	672	.	regard	--->		regarded	--->		regarded	</item>
+       <item>	673	.	regret	--->		regretted	--->		regretted	</item>
+       <item>	674	.	relate	--->		related	--->		related	</item>
+       <item>	675	.	relax	--->		relaxed	--->		relaxed	</item>
+       <item>	676	.	rely	--->		relied	--->		relied	</item>
+       <item>	677	.	remain	--->		remained	--->		remained	</item>
+       <item>	678	.	remake	--->		remade	--->		remade	</item>
+       <item>	679	.	remove	--->		removed	--->		removed	</item>
+       <item>	680	.	rend	--->		rent	--->		rent	</item>
+       <item>	681	.	renew	--->		renewed	--->		renewed	</item>
+       <item>	682	.	renounce	--->		renounced	--->		renounced	</item>
+       <item>	683	.	repair	--->		repaired	--->		repaired	</item>
+       <item>	684	.	repeat	--->		repeated	--->		repeated	</item>
+       <item>	685	.	replace	--->		replaced	--->		replaced	</item>
+       <item>	686	.	reply	--->		replied	--->		replied	</item>
+       <item>	687	.	report	--->		reported	--->		reported	</item>
+       <item>	688	.	request	--->		requested	--->		requested	</item>
+       <item>	689	.	resell	--->		resold	--->		resold	</item>
+       <item>	690	.	resemble	--->		resembled	--->		resembled	</item>
+       <item>	691	.	reset	--->		reset	--->		reset	</item>
+       <item>	692	.	resist	--->		resisted	--->		resisted	</item>
+       <item>	693	.	resolve	--->		resolved	--->		resolved	</item>
+       <item>	694	.	respect	--->		respected	--->		respected	</item>
+       <item>	695	.	rest	--->		rested	--->		rested	</item>
+       <item>	696	.	restrain	--->		restrained	--->		restrained	</item>
+       <item>	697	.	retain	--->		retained	--->		retained	</item>
+       <item>	698	.	retch	--->		retched	--->		retched	</item>
+       <item>	699	.	retire	--->		retired	--->		retired	</item>
+       <item>	700	.	return	--->		returned	--->		returned	</item>
+       <item>	701	.	reuse	--->		reused	--->		reused	</item>
+       <item>	702	.	review	--->		reviewed	--->		reviewed	</item>
+       <item>	703	.	rewind	--->		rewound	--->		rewound	</item>
+       <item>	704	.	rid	--->		rid	--->		rid	</item>
+       <item>	705	.	ride	--->		rode	--->		ridden	</item>
+       <item>	706	.	ring	--->		rang	--->		rung	</item>
+       <item>	707	.	rise	--->		rose	--->		risen	</item>
+       <item>	708	.	roar	--->		roared	--->		roared	</item>
+       <item>	709	.	rob	--->		robbed	--->		robbed	</item>
+       <item>	710	.	roll	--->		rolled	--->		rolled	</item>
+       <item>	711	.	rot	--->		rotted	--->		rotted	</item>
+       <item>	712	.	rub	--->		rubbed	--->		rubbed	</item>
+       <item>	713	.	rule	--->		ruled	--->		ruled	</item>
+       <item>	714	.	run	--->		ran	--->		run	</item>
+       <item>	715	.	rush	--->		rushed	--->		rushed	</item>
+       <item>	716	.	sabotage	--->		sabotaged	--->		sabotaged	</item>
+       <item>	717	.	sack	--->		sacked	--->		sacked	</item>
+       <item>	718	.	sacrifice	--->		sacrificed	--->		sacrificed	</item>
+       <item>	719	.	sadden	--->		saddened	--->		saddened	</item>
+       <item>	720	.	saddle	--->		saddled	--->		saddled	</item>
+       <item>	721	.	sag	--->		sagged	--->		sagged	</item>
+       <item>	722	.	sail	--->		sailed	--->		sailed	</item>
+       <item>	723	.	sally	--->		sallied	--->		sallied	</item>
+       <item>	724	.	salute	--->		saluted	--->		saluted	</item>
+       <item>	725	.	salvage	--->		salvaged	--->		salvaged	</item>
+       <item>	726	.	salve	--->		salved	--->		salved	</item>
+       <item>	727	.	sample	--->		sampled	--->		sampled	</item>
+       <item>	728	.	sanctify	--->		sanctified	--->		sanctified	</item>
+       <item>	729	.	sanction	--->		sanctioned	--->		sanctioned	</item>
+       <item>	730	.	sap	--->		sapped	--->		sapped	</item>
+       <item>	731	.	saponify	--->		saponified	--->		saponified	</item>
+       <item>	732	.	sash	--->		sashed	--->		sashed	</item>
+       <item>	733	.	sashay	--->		sashayed	--->		sashayed	</item>
+       <item>	734	.	sass	--->		sassed	--->		sassed	</item>
+       <item>	735	.	sate	--->		sated	--->		sated	</item>
+       <item>	736	.	satiate	--->		satiated	--->		satiated	</item>
+       <item>	737	.	satirise	--->		satirised	--->		satirised	</item>
+       <item>	738	.	satisfy	--->		satisfied	--->		satisfied	</item>
+       <item>	739	.	saturate	--->		saturated	--->		saturated	</item>
+       <item>	740	.	saunter	--->		sauntered	--->		sauntered	</item>
+       <item>	741	.	save	--->		saved	--->		saved	</item>
+       <item>	742	.	savor	--->		savored	--->		savored	</item>
+       <item>	743	.	savvy	--->		savvied	--->		savvied	</item>
+       <item>	744	.	saw	--->		sawed	--->		sawn	</item>
+       <item>	745	.	say	--->		said	--->		said	</item>
+       <item>	746	.	scab	--->		scabbed	--->		scabbed	</item>
+       <item>	747	.	scabble	--->		scabbled	--->		scabbled	</item>
+       <item>	748	.	scald	--->		scalded	--->		scalded	</item>
+       <item>	749	.	scale	--->		scaled	--->		scaled	</item>
+       <item>	750	.	scam	--->		scammed	--->		scammed	</item>
+       <item>	751	.	scan	--->		scanned	--->		scanned	</item>
+       <item>	752	.	scant	--->		scanted	--->		scanted	</item>
+       <item>	753	.	scar	--->		scarred	--->		scarred	</item>
+       <item>	754	.	scare	--->		scared	--->		scared	</item>
+       <item>	755	.	scarify	--->		scarified	--->		scarified	</item>
+       <item>	756	.	scarp	--->		scarped	--->		scarped	</item>
+       <item>	757	.	scat	--->		scatted	--->		scatted	</item>
+       <item>	758	.	scatter	--->		scattered	--->		scattered	</item>
+       <item>	759	.	scold	--->		scolded	--->		scolded	</item>
+       <item>	760	.	scorch	--->		scorched	--->		scorched	</item>
+       <item>	761	.	scowl	--->		scowled	--->		scowled	</item>
+       <item>	762	.	scrawl	--->		scrawled	--->		scrawled	</item>
+       <item>	763	.	scream	--->		screamed	--->		screamed	</item>
+       <item>	764	.	screw	--->		screwed	--->		screwed	</item>
+       <item>	765	.	scrub	--->		scrubbed	--->		scrubbed	</item>
+       <item>	766	.	search	--->		searched	--->		searched	</item>
+       <item>	767	.	seat	--->		seated	--->		seated	</item>
+       <item>	768	.	secure	--->		secured	--->		secured	</item>
+       <item>	769	.	see	--->		saw	--->		seen	</item>
+       <item>	770	.	seek	--->		sought	--->		sought	</item>
+       <item>	771	.	seem	--->		seemed	--->		seemed	</item>
+       <item>	772	.	seize	--->		seized	--->		seized	</item>
+       <item>	773	.	select	--->		selected	--->		selected	</item>
+       <item>	774	.	sell	--->		sold	--->		sold	</item>
+       <item>	775	.	send	--->		sent	--->		sent	</item>
+       <item>	776	.	sentence	--->		sentenced	--->		sentenced	</item>
+       <item>	777	.	separate	--->		separated	--->		separated	</item>
+       <item>	778	.	set	--->		set	--->		set	</item>
+       <item>	779	.	sever	--->		severed	--->		severed	</item>
+       <item>	780	.	sew	--->		sewed	--->		sewn	</item>
+       <item>	781	.	shake	--->		shook	--->		shaken	</item>
+       <item>	782	.	shape	--->		shaped	--->		shaped	</item>
+       <item>	783	.	share	--->		shared	--->		shared	</item>
+       <item>	784	.	shatter	--->		shattered	--->		shattered	</item>
+       <item>	785	.	shave	--->		shove	--->		shaven	</item>
+       <item>	786	.	shear	--->		shore	--->		shorn	</item>
+       <item>	787	.	shed	--->		shed	--->		shed	</item>
+       <item>	788	.	shine	--->		shone	--->		shone	</item>
+       <item>	789	.	shirk	--->		shirked	--->		shirked	</item>
+       <item>	790	.	shit	--->		shit	--->		shit	</item>
+       <item>	791	.	shiver	--->		shivered	--->		shivered	</item>
+       <item>	792	.	shock	--->		shocked	--->		shocked	</item>
+       <item>	793	.	shoe	--->		shod	--->		shod	</item>
+       <item>	794	.	shoot	--->		shot	--->		shot	</item>
+       <item>	795	.	shorten	--->		shortened	--->		shortened	</item>
+       <item>	796	.	shout	--->		shouted	--->		shouted	</item>
+       <item>	797	.	show	--->		showed	--->		shown	</item>
+       <item>	798	.	shrink	--->		shrank	--->		shrunk	</item>
+       <item>	799	.	shun	--->		shunned	--->		shunned	</item>
+       <item>	800	.	shut	--->		shut	--->		shut	</item>
+       <item>	801	.	sight	--->		sighted	--->		sighted	</item>
+       <item>	802	.	signal	--->		signalled	--->		signalled	</item>
+       <item>	803	.	signify	--->		signified	--->		signified	</item>
+       <item>	804	.	sing	--->		sang	--->		sung	</item>
+       <item>	805	.	sink	--->		sank	--->		sunk	</item>
+       <item>	806	.	sip	--->		sipped	--->		sipped	</item>
+       <item>	807	.	sit	--->		sat	--->		sat	</item>
+       <item>	808	.	ski	--->		skied	--->		skied	</item>
+       <item>	809	.	skid	--->		skidded	--->		skidded	</item>
+       <item>	810	.	slam	--->		slammed	--->		slammed	</item>
+       <item>	811	.	slay	--->		slew	--->		slain	</item>
+       <item>	812	.	sleep	--->		slept	--->		slept	</item>
+       <item>	813	.	slide	--->		slid	--->		slid/slide	</item>
+       <item>	814	.	slim	--->		slimmed	--->		slimmed	</item>
+       <item>	815	.	sling	--->		slung	--->		slung	</item>
+       <item>	816	.	slink	--->		slunk	--->		slunk	</item>
+       <item>	817	.	slip	--->		slipped	--->		slipped	</item>
+       <item>	818	.	slit	--->		slit	--->		slit	</item>
+       <item>	819	.	smash	--->		smashed	--->		smashed	</item>
+       <item>	820	.	smell	--->		smelt	--->		smelt	</item>
+       <item>	821	.	smile	--->		smiled	--->		smiled	</item>
+       <item>	822	.	smite	--->		smote	--->		smitten	</item>
+       <item>	823	.	smooth	--->		smoothed	--->		smoothed	</item>
+       <item>	824	.	smother	--->		smothered	--->		smothered	</item>
+       <item>	825	.	snap	--->		snapped	--->		snapped	</item>
+       <item>	826	.	snatch	--->		snatched	--->		snatched	</item>
+       <item>	827	.	sneak	--->		sneaked	--->		sneaked	</item>
+       <item>	828	.	sneeze	--->		sneezed	--->		sneezed	</item>
+       <item>	829	.	sniff	--->		sniffed	--->		sniffed	</item>
+       <item>	830	.	soar	--->		soared	--->		soared	</item>
+       <item>	831	.	sob	--->		sobbed	--->		sobbed	</item>
+       <item>	832	.	solicit	--->		solicited	--->		solicited	</item>
+       <item>	833	.	solve	--->		solved	--->		solved	</item>
+       <item>	834	.	soothe	--->		soothed	--->		soothed	</item>
+       <item>	835	.	sort	--->		sorted	--->		sorted	</item>
+       <item>	836	.	sow	--->		sowed	--->		sowed	</item>
+       <item>	837	.	sparkle	--->		sparkled	--->		sparkled	</item>
+       <item>	838	.	speak	--->		spoke	--->		spoken	</item>
+       <item>	839	.	speed	--->		sped	--->		sped	</item>
+       <item>	840	.	spell	--->		spelt	--->		spelt	</item>
+       <item>	841	.	spend	--->		spent	--->		spent	</item>
+       <item>	842	.	spill	--->		spilt	--->		spilt	</item>
+       <item>	843	.	spin	--->		span/spun	--->		spun	</item>
+       <item>	844	.	spit	--->		spat/spit	--->		spat/spit	</item>
+       <item>	845	.	split	--->		split	--->		split	</item>
+       <item>	846	.	spoil	--->		spoilt	--->		spoilt	</item>
+       <item>	847	.	spray	--->		sprayed	--->		sprayed	</item>
+       <item>	848	.	spread	--->		spread	--->		spread	</item>
+       <item>	849	.	spring	--->		sprang	--->		sprung	</item>
+       <item>	850	.	sprout	--->		sprouted	--->		sprouted	</item>
+       <item>	851	.	squeeze	--->		squeezed	--->		squeezed	</item>
+       <item>	852	.	stand	--->		stood	--->		stood	</item>
+       <item>	853	.	stare	--->		stared	--->		stared	</item>
+       <item>	854	.	start	--->		started	--->		started	</item>
+       <item>	855	.	state	--->		stated	--->		stated	</item>
+       <item>	856	.		--->			--->			</item>
+       <item>	857	.	stay	--->		stayed	--->		stayed	</item>
+       <item>	858	.	steal	--->		stole	--->		stolen	</item>
+       <item>	859	.	steep	--->		steeped	--->		steeped	</item>
+       <item>	860	.	stem	--->		stemmed	--->		stemmed	</item>
+       <item>	861	.	step	--->		stepped	--->		stepped	</item>
+       <item>	862	.	sterilize	--->		sterilized	--->		sterilized	</item>
+       <item>	863	.	stick	--->		stuck	--->		stuck	</item>
+       <item>	864	.	stimulate	--->		stimulated	--->		stimulated	</item>
+       <item>	865	.	sting	--->		stung	--->		stung	</item>
+       <item>	866	.	stink	--->		stank	--->		stunk	</item>
+       <item>	867	.	stir	--->		stirred	--->		stirred	</item>
+       <item>	868	.	stitch	--->		stitched	--->		stitched	</item>
+       <item>	869	.	stoop	--->		stooped	--->		stooped	</item>
+       <item>	870	.	stop	--->		stopped	--->		stopped	</item>
+       <item>	871	.	store	--->		stored	--->		stored	</item>
+       <item>	872	.	strain	--->		strained	--->		strained	</item>
+       <item>	873	.	stray	--->		strayed	--->		strayed	</item>
+       <item>	874	.	stress	--->		stressed	--->		stressed	</item>
+       <item>	875	.	stretch	--->		stretched	--->		stretched	</item>
+       <item>	876	.	strew	--->		strewed	--->		strewn	</item>
+       <item>	877	.	stride	--->		strode	--->		stridden	</item>
+       <item>	878	.	strike	--->		struck	--->		struck/stricken	</item>
+       <item>	879	.	string	--->		strung	--->		strung	</item>
+       <item>	880	.	strive	--->		strove	--->		striven	</item>
+       <item>	881	.	study	--->		studied	--->		studied	</item>
+       <item>	882	.	submit	--->		submitted	--->		submitted	</item>
+       <item>	883	.	subscribe	--->		subscribed	--->		subscribed	</item>
+       <item>	884	.	subtract	--->		subtracted	--->		subtracted	</item>
+       <item>	885	.	succeed	--->		succeeded	--->		succeeded	</item>
+       <item>	886	.	suck	--->		sucked	--->		sucked	</item>
+       <item>	887	.	suffer	--->		suffered	--->		suffered	</item>
+       <item>	888	.	suggest	--->		suggested	--->		suggested	</item>
+       <item>	889	.	summon	--->		summoned	--->		summoned	</item>
+       <item>	890	.	supply	--->		supplied	--->		supplied	</item>
+       <item>	891	.	support	--->		supported	--->		supported	</item>
+       <item>	892	.	suppose	--->		supposed	--->		supposed	</item>
+       <item>	893	.	surge	--->		surged	--->		surged	</item>
+       <item>	894	.	surmise	--->		surmised	--->		surmised	</item>
+       <item>	895	.	surpass	--->		surpassed	--->		surpassed	</item>
+       <item>	896	.	surround	--->		surrounded	--->		surrounded	</item>
+       <item>	897	.	survey	--->		surveyed	--->		surveyed	</item>
+       <item>	898	.	survive	--->		survived	--->		survived	</item>
+       <item>	899	.	swallow	--->		swallowed	--->		swallowed	</item>
+       <item>	900	.	sway	--->		swayed	--->		swayed	</item>
+       <item>	901	.	swear	--->		swore	--->		sworn	</item>
+       <item>	902	.	sweat	--->		sweat	--->		sweat	</item>
+       <item>	903	.	sweep	--->		swept	--->		swept	</item>
+       <item>	904	.	swell	--->		swelled	--->		swollen	</item>
+       <item>	905	.	swim	--->		swam	--->		swum	</item>
+       <item>	906	.	swing	--->		swung	--->		swung	</item>
+       <item>	907	.	swot	--->		swotted	--->		swotted	</item>
+       <item>	908	.	take	--->		took	--->		taken	</item>
+       <item>	909	.	talk	--->		talked	--->		talked	</item>
+       <item>	910	.	tap	--->		tapped	--->		tapped	</item>
+       <item>	911	.	taste	--->		tasted	--->		tasted	</item>
+       <item>	912	.	tax	--->		taxed	--->		taxed	</item>
+       <item>	913	.	teach	--->		taught	--->		taught	</item>
+       <item>	914	.	tear	--->		tore	--->		torn	</item>
+       <item>	915	.	tee	--->		teed	--->		teed	</item>
+       <item>	916	.	tell	--->		told	--->		told	</item>
+       <item>	917	.	tempt	--->		tempted	--->		tempted	</item>
+       <item>	918	.	tend	--->		tended	--->		tended	</item>
+       <item>	919	.	terminate	--->		terminated	--->		terminated	</item>
+       <item>	920	.	terrify	--->		terrified	--->		terrified	</item>
+       <item>	921	.	test	--->		tested	--->		tested	</item>
+       <item>	922	.	thank	--->		thanked	--->		thanked	</item>
+       <item>	923	.	think	--->		thought	--->		thought	</item>
+       <item>	924	.	thrive	--->		throve	--->		thriven	</item>
+       <item>	925	.	throw	--->		threw	--->		thrown	</item>
+       <item>	926	.	thrust	--->		thrust	--->		thrust	</item>
+       <item>	927	.	thump	--->		thumped	--->		thumped	</item>
+       <item>	928	.	tie	--->		tied	--->		tied	</item>
+       <item>	929	.	tire	--->		tired	--->		tired	</item>
+       <item>	930	.	toss	--->		tossed	--->		tossed	</item>
+       <item>	931	.	touch	--->		touched	--->		touched	</item>
+       <item>	932	.	train	--->		trained	--->		trained	</item>
+       <item>	933	.	trample	--->		trampled	--->		trampled	</item>
+       <item>	934	.	transfer	--->		transferred	--->		transferred	</item>
+       <item>	935	.	transform	--->		transformed	--->		transformed	</item>
+       <item>	936	.	translate	--->		translated	--->		translated	</item>
+       <item>	937	.	trap	--->		trapped	--->		trapped	</item>
+       <item>	938	.	travel	--->		travelled	--->		travelled	</item>
+       <item>	939	.	tread	--->		trod	--->		trodden	</item>
+       <item>	940	.	treasure	--->		treasured	--->		treasured	</item>
+       <item>	941	.	treat	--->		treated	--->		treated	</item>
+       <item>	942	.	tree	--->		treed	--->		treed	</item>
+       <item>	943	.	tremble	--->		trembled	--->		trembled	</item>
+       <item>	944	.	triumph	--->		triumphed	--->		triumphed	</item>
+       <item>	945	.	trust	--->		trusted	--->		trusted	</item>
+       <item>	946	.	try	--->		tried	--->		tried	</item>
+       <item>	947	.	turn	--->		turned	--->		turned	</item>
+       <item>	948	.	type	--->		typed	--->		typed	</item>
+       <item>	949	.	typeset	--->		typeset	--->		typeset	</item>
+       <item>	950	.	understand	--->		understood	--->		understood	</item>
+       <item>	951	.	undo	--->		undid	--->		undone	</item>
+       <item>	952	.	uproot	--->		uprooted	--->		uprooted	</item>
+       <item>	953	.	upset	--->		upset	--->		upset	</item>
+       <item>	954	.	urge	--->		urged	--->		urged	</item>
+       <item>	955	.	use	--->		used	--->		used	</item>
+       <item>	956	.	utter	--->		uttered	--->		uttered	</item>
+       <item>	957	.	value	--->		valued	--->		valued	</item>
+       <item>	958	.	vanish	--->		vanished	--->		vanished	</item>
+       <item>	959	.	vary	--->		varied	--->		varied	</item>
+       <item>	960	.	verify	--->		verified	--->		verified	</item>
+       <item>	961	.	vex	--->		vexed	--->		vexed	</item>
+       <item>	962	.	vie	--->		vied	--->		vied	</item>
+       <item>	963	.	view	--->		viewed	--->		viewed	</item>
+       <item>	964	.	violate	--->		violated	--->		violated	</item>
+       <item>	965	.	vomit	--->		vomited	--->		vomited	</item>
+       <item>	966	.	wake	--->		woke	--->		woken	</item>
+       <item>	967	.	walk	--->		walked	--->		walked	</item>
+       <item>	968	.	wander	--->		wandered	--->		wandered	</item>
+       <item>	969	.	want	--->		wanted	--->		wanted	</item>
+       <item>	970	.	warn	--->		warned	--->		warned	</item>
+       <item>	971	.	waste	--->		wasted	--->		wasted	</item>
+       <item>	972	.	watch	--->		watched	--->		watched	</item>
+       <item>	973	.	water	--->		watered	--->		watered	</item>
+       <item>	974	.	wave	--->		waved	--->		waved	</item>
+       <item>	975	.	wax	--->		waxed	--->		waxed	</item>
+       <item>	976	.	waylay	--->		waylaid	--->		waylaid	</item>
+       <item>	977	.	wear	--->		wore	--->		worn	</item>
+       <item>	978	.	weave	--->		wove	--->		woven	</item>
+       <item>	979	.	wed	--->		wed	--->		wed	</item>
+       <item>	980	.	weep	--->		wept	--->		wept	</item>
+       <item>	981	.	weigh	--->		weighed	--->		weighed	</item>
+       <item>	982	.	welcome	--->		welcomed	--->		welcomed	</item>
+       <item>	983	.	wend	--->		went	--->		went	</item>
+       <item>	984	.	wet	--->		wet	--->		wet	</item>
+       <item>	985	.	whip	--->		whipped	--->		whipped	</item>
+       <item>	986	.	whisper	--->		whispered	--->		whispered	</item>
+       <item>	987	.	win	--->		won	--->		won	</item>
+       <item>	988	.	wind	--->		wound	--->		wound	</item>
+       <item>	989	.	wish	--->		wished	--->		wished	</item>
+       <item>	990	.	withdraw	--->		withdrew	--->		withdrawn	</item>
+       <item>	991	.	work	--->		worked	--->		worked	</item>
+       <item>	992	.	worry	--->		worried	--->		worried	</item>
+       <item>	993	.	worship	--->		worshipped	--->		worshipped	</item>
+       <item>	994	.	wring	--->		wrung	--->		wrung	</item>
+       <item>	995	.	write	--->		wrote	--->		written	</item>
+       <item>	996	.	yawn	--->		yawned	--->		yawned	</item>
+       <item>	997	.	yell	--->		yelled	--->		yelled	</item>
+       <item>	998	.	yield	--->		yielded	--->		yielded	</item>
+       <item>	999	.	zinc	--->		zincked	--->		zincked	</item>
+       <item>	1000	.	zoom	--->		zoomed	--->		zoomed	</item>
 
 
 
-        <item>	1	abash	\t	abashed	\t	abashed	\t	abashes	\t	abashing	</item>
-        <item>	2	abate	\t	abated	\t	abated	\t	abates	\t	abating	</item>
-        <item>	3	abide	\t	abode	\t	abode	\t	abides	\t	abiding	</item>
-        <item>	4	absorb	\t	absorbed	\t	absorbed	\t	absorbs	\t	absorbing	</item>
-        <item>	5	accept	\t	accepted	\t	accepted	\t	accepts	\t	accepting	</item>
-        <item>	6	accompany	\t	accompanied	\t	accompanied	\t	accompanies	\t	accompanying	</item>
-        <item>	7	ache	\t	ached	\t	ached	\t	aches	\t	aching	</item>
-        <item>	8	achieve	\t	achieved	\t	achieved	\t	achieves	\t	achieving	</item>
-        <item>	9	acquire	\t	acquired	\t	acquired	\t	acquires	\t	acquiring	</item>
-        <item>	10	act	\t	acted	\t	acted	\t	acts	\t	acting	</item>
-        <item>	11	add	\t	added	\t	added	\t	adds	\t	adding	</item>
-        <item>	12	address	\t	addressed	\t	addressed	\t	addresses	\t	addressing	</item>
-        <item>	13	adjust	\t	adjusted	\t	adjusted	\t	adjusts	\t	adjusting	</item>
-        <item>	14	admire	\t	admired	\t	admired	\t	admires	\t	admiring	</item>
-        <item>	15	admit	\t	admitted	\t	admitted	\t	admits	\t	admitting	</item>
-        <item>	16	advise	\t	advised	\t	advised	\t	advises	\t	advising	</item>
-        <item>	17	afford	\t	afforded	\t	afforded	\t	affords	\t	affording	</item>
-        <item>	18	agree	\t	agreed	\t	agreed	\t	agrees	\t	agreeing	</item>
-        <item>	19	alight	\t	alit	\t	alit	\t	alights	\t	alighting	</item>
-        <item>	20	allow	\t	allowed	\t	allowed	\t	allows	\t	allowing	</item>
-        <item>	21	animate	\t	animated	\t	animated	\t	animates	\t	animating	</item>
-        <item>	22	announce	\t	announced	\t	announced	\t	announces	\t	announcing	</item>
-        <item>	23	answer	\t	answered	\t	answered	\t	answers	\t	answering	</item>
-        <item>	24	apologize	\t	apologized	\t	apologized	\t	apologizes	\t	apologizing	</item>
-        <item>	25	appear	\t	appeared	\t	appeared	\t	appears	\t	appearing	</item>
-        <item>	26	applaud	\t	applauded	\t	applauded	\t	applauds	\t	applauding	</item>
-        <item>	27	apply	\t	applied	\t	applied	\t	applies	\t	applying	</item>
-        <item>	28	approach	\t	approached	\t	approached	\t	approaches	\t	approaching	</item>
-        <item>	29	approve	\t	approved	\t	approved	\t	approves	\t	approving	</item>
-        <item>	30	argue	\t	argued	\t	argued	\t	argues	\t	arguing	</item>
-        <item>	31	arise	\t	arose	\t	arisen	\t	arises	\t	arising	</item>
-        <item>	32	arrange	\t	arranged	\t	arranged	\t	arranges	\t	arranging	</item>
-        <item>	33	arrest	\t	arrested	\t	arrested	\t	arrests	\t	arresting	</item>
-        <item>	34	ask	\t	asked	\t	asked	\t	asks	\t	asking	</item>
-        <item>	35	assert	\t	asserted	\t	asserted	\t	asserts	\t	asserting	</item>
-        <item>	36	assort	\t	assorted	\t	assorted	\t	assorts	\t	assorting	</item>
-        <item>	37	astonish	\t	astonished	\t	astonished	\t	astonishes	\t	astonishing	</item>
-        <item>	38	attack	\t	attacked	\t	attacked	\t	attacks	\t	attacking	</item>
-        <item>	39	attend	\t	attended	\t	attended	\t	attends	\t	attending	</item>
-        <item>	40	attract	\t	attracted	\t	attracted	\t	attracts	\t	attracting	</item>
-        <item>	41	audit	\t	audited	\t	audited	\t	audits	\t	auditing	</item>
-        <item>	42	avoid	\t	avoided	\t	avoided	\t	avoids	\t	avoiding	</item>
-        <item>	43	awake	\t	awoke	\t	awoken	\t	awakes	\t	awaking	</item>
-        <item>	44	bang	\t	banged	\t	banged	\t	bangs	\t	banging	</item>
-        <item>	45	banish	\t	banished	\t	banished	\t	banishes	\t	banishing	</item>
-        <item>	46	bash	\t	bashed	\t	bashed	\t	bashes	\t	bashing	</item>
-        <item>	47	bat	\t	batted	\t	batted	\t	bats	\t	batting	</item>
-        <item>	48	be (am,are)	\t	was / were	\t	been	\t	is	\t	being	</item>
-        <item>	49	bear	\t	bore	\t	born	\t	bears	\t	bearing	</item>
-        <item>	50	bear	\t	bore	\t	borne	\t	bears	\t	bearing	</item>
-        <item>	51	beat	\t	beat	\t	beaten	\t	beats	\t	beating	</item>
-        <item>	52	beautify	\t	beautified	\t	beautified	\t	beautifies	\t	beautifying	</item>
-        <item>	53	become	\t	became	\t	become	\t	becomes	\t	becoming	</item>
-        <item>	54	befall	\t	befell	\t	befallen	\t	befalls	\t	befalling	</item>
-        <item>	55	beg	\t	begged	\t	begged	\t	begs	\t	begging	</item>
-        <item>	56	begin	\t	began	\t	begun	\t	begins	\t	beginning	</item>
-        <item>	57	behave	\t	behaved	\t	behaved	\t	behaves	\t	behaving	</item>
-        <item>	58	behold	\t	beheld	\t	beheld	\t	beholds	\t	beholding	</item>
-        <item>	59	believe	\t	believed	\t	believed	\t	believes	\t	believing	</item>
-        <item>	60	belong	\t	belonged	\t	belonged	\t	belongs	\t	belonging	</item>
-        <item>	61	bend	\t	bent	\t	bent	\t	bends	\t	bending	</item>
-        <item>	62	bereave	\t	bereft	\t	bereft	\t	bereaves	\t	bereaving	</item>
-        <item>	63	beseech	\t	besought	\t	besought	\t	beseeches	\t	beseeching	</item>
-        <item>	64	bet	\t	bet	\t	bet	\t	bets	\t	betting	</item>
-        <item>	65	betray	\t	betrayed	\t	betrayed	\t	betrays	\t	betraying	</item>
-        <item>	66	bid	\t	bade	\t	bidden	\t	bids	\t	bidding	</item>
-        <item>	67	bid	\t	bid	\t	bid	\t	bids	\t	bidding	</item>
-        <item>	68	bind	\t	bound	\t	bound	\t	binds	\t	binding	</item>
-        <item>	69	bite	\t	bit	\t	bitten	\t	bites	\t	biting	</item>
-        <item>	70	bleed	\t	bled	\t	bled	\t	bleeds	\t	bleeding	</item>
-        <item>	71	bless	\t	blessed	\t	blessed	\t	blesses	\t	blessing	</item>
-        <item>	72	blossom	\t	blossomed	\t	blossomed	\t	blossoms	\t	blossoming	</item>
-        <item>	73	blow	\t	blew	\t	blown	\t	blows	\t	blowing	</item>
-        <item>	74	blur	\t	blurred	\t	blurred	\t	blurs	\t	blurring	</item>
-        <item>	75	blush	\t	blushed	\t	blushed	\t	blushes	\t	blushing	</item>
-        <item>	76	board	\t	boarded	\t	boarded	\t	boards	\t	boarding	</item>
-        <item>	77	boast	\t	boasted	\t	boasted	\t	boasts	\t	boasting	</item>
-        <item>	78	boil	\t	boiled	\t	boiled	\t	boils	\t	boiling	</item>
-        <item>	79	bow	\t	bowed	\t	bowed	\t	bows	\t	bowing	</item>
-        <item>	80	box	\t	boxed	\t	boxed	\t	boxes	\t	boxing	</item>
-        <item>	81	bray	\t	brayed	\t	brayed	\t	brays	\t	braying	</item>
-        <item>	82	break	\t	broke	\t	broken	\t	breaks	\t	breaking	</item>
-        <item>	83	breathe	\t	breathed	\t	breathed	\t	breathes	\t	breathing	</item>
-        <item>	84	breed	\t	bred	\t	bred	\t	breeds	\t	breeding	</item>
-        <item>	85	bring	\t	brought	\t	brought	\t	brings	\t	bringing	</item>
-        <item>	86	broadcast	\t	broadcast	\t	broadcast	\t	broadcasts	\t	broadcasting	</item>
-        <item>	87	brush	\t	brushed	\t	brushed	\t	brushes	\t	brushing	</item>
-        <item>	88	build	\t	built	\t	built	\t	builds	\t	building	</item>
-        <item>	89	burn	\t	burnt	\t	burnt	\t	burns	\t	burning	</item>
-        <item>	90	burst	\t	burst	\t	burst	\t	bursts	\t	bursting	</item>
-        <item>	91	bury	\t	buried	\t	buried	\t	buries	\t	burying	</item>
-        <item>	92	bust	\t	bust	\t	bust	\t	busts	\t	busting	</item>
-        <item>	93	buy	\t	bought	\t	bought	\t	buys	\t	buying	</item>
-        <item>	94	buzz	\t	buzzed	\t	buzzed	\t	buzzes	\t	buzzing	</item>
-        <item>	95	calculate	\t	calculated	\t	calculated	\t	calculates	\t	calculating	</item>
-        <item>	96	call	\t	called	\t	called	\t	calls	\t	calling	</item>
-        <item>	97	canvass	\t	canvassed	\t	canvassed	\t	canvasses	\t	canvassing	</item>
-        <item>	98	capture	\t	captured	\t	captured	\t	captures	\t	capturing	</item>
-        <item>	99	caress	\t	caressed	\t	caressed	\t	caresses	\t	caressing	</item>
-        <item>	100	carry	\t	carried	\t	carried	\t	carries	\t	carrying	</item>
-        <item>	101	carve	\t	carved	\t	carved	\t	carves	\t	carving	</item>
-        <item>	102	cash	\t	cashed	\t	cashed	\t	cashes	\t	cashing	</item>
-        <item>	103	cast	\t	cast	\t	cast	\t	casts	\t	casting	</item>
-        <item>	104	catch	\t	caught	\t	caught	\t	catches	\t	catching	</item>
-        <item>	105	cause	\t	caused	\t	caused	\t	causes	\t	causing	</item>
-        <item>	106	cease	\t	ceased	\t	ceased	\t	ceases	\t	ceasing	</item>
-        <item>	107	celebrate	\t	celebrated	\t	celebrated	\t	celebrates	\t	celebrating	</item>
-        <item>	108	challenge	\t	challenged	\t	challenged	\t	challenges	\t	challenging	</item>
-        <item>	109	change	\t	changed	\t	changed	\t	changes	\t	changing	</item>
-        <item>	110	charge	\t	charged	\t	charged	\t	charges	\t	charging	</item>
-        <item>	111	chase	\t	chased	\t	chased	\t	chases	\t	chasing	</item>
-        <item>	112	chat	\t	chatted	\t	chatted	\t	chats	\t	chatting	</item>
-        <item>	113	check	\t	checked	\t	checked	\t	checks	\t	checking	</item>
-        <item>	114	cheer	\t	cheered	\t	cheered	\t	cheers	\t	cheering	</item>
-        <item>	115	chew	\t	chewed	\t	chewed	\t	chews	\t	chewing	</item>
-        <item>	116	chide	\t	chid	\t	chid/chidden	\t	chides	\t	chiding	</item>
-        <item>	117	chip	\t	chipped	\t	chipped	\t	chips	\t	chipping	</item>
-        <item>	118	choke	\t	choked	\t	choked	\t	chokes	\t	choking	</item>
-        <item>	119	choose	\t	chose	\t	chosen	\t	chooses	\t	choosing	</item>
-        <item>	120	classify	\t	classified	\t	classified	\t	classifies	\t	classifying	</item>
-        <item>	121	clean	\t	cleaned	\t	cleaned	\t	cleans	\t	cleaning	</item>
-        <item>	122	cleave	\t	clove/cleft	\t	cloven/cleft	\t	cleaves	\t	cleaving	</item>
-        <item>	123	click	\t	clicked	\t	clicked	\t	clicks	\t	clicking	</item>
-        <item>	124	climb	\t	climbed	\t	climbed	\t	climbs	\t	climbing	</item>
-        <item>	125	cling	\t	clung	\t	clung	\t	clings	\t	clinging	</item>
-        <item>	126	close	\t	closed	\t	closed	\t	closes	\t	closing	</item>
-        <item>	127	clothe	\t	clad	\t	clad	\t	clothes	\t	clothing	</item>
-        <item>	128	clutch	\t	clutched	\t	clutched	\t	clutches	\t	clutching	</item>
-        <item>	129	collapse	\t	collapsed	\t	collapsed	\t	collapses	\t	collapsing	</item>
-        <item>	130	collect	\t	collected	\t	collected	\t	collects	\t	collecting	</item>
-        <item>	131	colour	\t	coloured	\t	coloured	\t	colours	\t	colouring	</item>
-        <item>	132	come	\t	came	\t	come	\t	comes	\t	coming	</item>
-        <item>	133	comment	\t	commented	\t	commented	\t	comments	\t	commenting	</item>
-        <item>	134	compare	\t	compared	\t	compared	\t	compares	\t	comparing	</item>
-        <item>	135	compel	\t	compelled	\t	compelled	\t	compels	\t	compelling	</item>
-        <item>	136	compete	\t	competed	\t	competed	\t	competes	\t	competing	</item>
-        <item>	137	complain	\t	complained	\t	complained	\t	complains	\t	complaining	</item>
-        <item>	138	complete	\t	completed	\t	completed	\t	completes	\t	completing	</item>
-        <item>	139	conclude	\t	concluded	\t	concluded	\t	concludes	\t	concluding	</item>
-        <item>	140	conduct	\t	conducted	\t	conducted	\t	conducts	\t	conducting	</item>
-        <item>	141	confess	\t	confessed	\t	confessed	\t	confesses	\t	confessing	</item>
-        <item>	142	confine	\t	confined	\t	confined	\t	confines	\t	confining	</item>
-        <item>	143	confiscate	\t	confiscated	\t	confiscated	\t	confiscates	\t	confiscating	</item>
-        <item>	144	confuse	\t	confused	\t	confused	\t	confuses	\t	confusing	</item>
-        <item>	145	congratulate	\t	congratulated	\t	congratulated	\t	congratulates	\t	congratulating	</item>
-        <item>	146	connect	\t	connected	\t	connected	\t	connects	\t	connecting	</item>
-        <item>	147	connote	\t	connoted	\t	connoted	\t	connotes	\t	connoting	</item>
-        <item>	148	conquer	\t	conquered	\t	conquered	\t	conquers	\t	conquering	</item>
-        <item>	149	consecrate	\t	consecrated	\t	consecrated	\t	consecrates	\t	consecrating	</item>
-        <item>	150	consent	\t	consented	\t	consented	\t	consents	\t	consenting	</item>
-        <item>	151	conserve	\t	conserved	\t	conserved	\t	conserves	\t	conserving	</item>
-        <item>	152	consider	\t	considered	\t	considered	\t	considers	\t	considering	</item>
-        <item>	153	consign	\t	consigned	\t	consigned	\t	consigns	\t	consigning	</item>
-        <item>	154	consist	\t	consisted	\t	consisted	\t	consists	\t	consisting	</item>
-        <item>	155	console	\t	consoled	\t	consoled	\t	consoles	\t	consoling	</item>
-        <item>	156	consort	\t	consorted	\t	consorted	\t	consorts	\t	consorting	</item>
-        <item>	157	conspire	\t	conspired	\t	conspired	\t	conspires	\t	conspiring	</item>
-        <item>	158	constitute	\t	constituted	\t	constituted	\t	constitutes	\t	constituting	</item>
-        <item>	159	constrain	\t	constrained	\t	constrained	\t	constrains	\t	constraining	</item>
-        <item>	160	construct	\t	constructed	\t	constructed	\t	constructs	\t	constructing	</item>
-        <item>	161	construe	\t	construed	\t	construed	\t	construes	\t	construing	</item>
-        <item>	162	consult	\t	consulted	\t	consulted	\t	consults	\t	consulting	</item>
-        <item>	163	contain	\t	contained	\t	contained	\t	contains	\t	containing	</item>
-        <item>	164	contemn	\t	contemned	\t	contemned	\t	contemns	\t	contemning	</item>
-        <item>	165	contend	\t	contended	\t	contended	\t	contends	\t	contending	</item>
-        <item>	166	contest	\t	contested	\t	contested	\t	contests	\t	contesting	</item>
-        <item>	167	continue	\t	continued	\t	continued	\t	continues	\t	continuing	</item>
-        <item>	168	contract	\t	contracted	\t	contracted	\t	contracts	\t	contracting	</item>
-        <item>	169	contradict	\t	contradicted	\t	contradicted	\t	contradicts	\t	contradicting	</item>
-        <item>	170	contrast	\t	contrasted	\t	contrasted	\t	contrasts	\t	contrasting	</item>
-        <item>	171	contribute	\t	contributed	\t	contributed	\t	contributes	\t	contributing	</item>
-        <item>	172	contrive	\t	contrived	\t	contrived	\t	contrives	\t	contriving	</item>
-        <item>	173	control	\t	controlled	\t	controlled	\t	controls	\t	controlling	</item>
-        <item>	174	convene	\t	convened	\t	convened	\t	convenes	\t	convening	</item>
-        <item>	175	converge	\t	converged	\t	converged	\t	converges	\t	converging	</item>
-        <item>	176	converse	\t	conversed	\t	conversed	\t	converses	\t	conversing	</item>
-        <item>	177	convert	\t	converted	\t	converted	\t	converts	\t	converting	</item>
-        <item>	178	convey	\t	conveyed	\t	conveyed	\t	conveys	\t	conveying	</item>
-        <item>	179	convict	\t	convicted	\t	convicted	\t	convicts	\t	convicting	</item>
-        <item>	180	convince	\t	convinced	\t	convinced	\t	convinces	\t	convincing	</item>
-        <item>	181	coo	\t	cooed	\t	cooed	\t	coos	\t	cooing	</item>
-        <item>	182	cook	\t	cooked	\t	cooked	\t	cooks	\t	cooking	</item>
-        <item>	183	cool	\t	cooled	\t	cooled	\t	cools	\t	cooling	</item>
-        <item>	184	co-operate	\t	co-operated	\t	co-operated	\t	co-operates	\t	co-operating	</item>
-        <item>	185	cope	\t	coped	\t	cope	\t	copes	\t	coping	</item>
-        <item>	186	copy	\t	copied	\t	copied	\t	copies	\t	copying	</item>
-        <item>	187	correct	\t	corrected	\t	corrected	\t	corrects	\t	correcting	</item>
-        <item>	188	correspond	\t	corresponded	\t	corresponded	\t	corresponds	\t	corresponding	</item>
-        <item>	189	corrode	\t	corroded	\t	corroded	\t	corrodes	\t	corroding	</item>
-        <item>	190	corrupt	\t	corrupted	\t	corrupted	\t	corrupts	\t	corrupting	</item>
-        <item>	191	cost	\t	cost	\t	cost	\t	costs	\t	costing	</item>
-        <item>	192	cough	\t	coughed	\t	coughed	\t	coughs	\t	coughing	</item>
-        <item>	193	counsel	\t	counselled	\t	counselled	\t	counsels	\t	counselling	</item>
-        <item>	194	count	\t	counted	\t	counted	\t	counts	\t	counting	</item>
-        <item>	195	course	\t	coursed	\t	coursed	\t	courses	\t	coursing	</item>
-        <item>	196	cover	\t	covered	\t	covered	\t	covers	\t	covering	</item>
-        <item>	197	cower	\t	cowered	\t	cowered	\t	cowers	\t	cowering	</item>
-        <item>	198	crack	\t	cracked	\t	cracked	\t	cracks	\t	cracking	</item>
-        <item>	199	crackle	\t	crackled	\t	crackled	\t	crackles	\t	crackling	</item>
-        <item>	200	crash	\t	crashed	\t	crashed	\t	crashes	\t	crashing	</item>
-        <item>	201	crave	\t	craved	\t	craved	\t	craves	\t	craving	</item>
-        <item>	202	create	\t	created	\t	created	\t	creates	\t	creating	</item>
-        <item>	203	creep	\t	crept	\t	crept	\t	creeps	\t	creeping	</item>
-        <item>	204	crib	\t	cribbed	\t	cribbed	\t	cribs	\t	cribbing	</item>
-        <item>	205	cross	\t	crossed	\t	crossed	\t	crosses	\t	crossing	</item>
-        <item>	206	crowd	\t	crowded	\t	crowded	\t	crowds	\t	crowding	</item>
-        <item>	207	crush	\t	crushed	\t	crushed	\t	crushes	\t	crushing	</item>
-        <item>	208	cry	\t	cried	\t	cried	\t	cries	\t	crying	</item>
-        <item>	209	curb	\t	curbed	\t	curbed	\t	curbs	\t	curbing	</item>
-        <item>	210	cure	\t	cured	\t	cured	\t	cures	\t	curing	</item>
-        <item>	211	curve	\t	curved	\t	curved	\t	curves	\t	curving	</item>
-        <item>	212	cut	\t	cut	\t	cut	\t	cuts	\t	cutting	</item>
-        <item>	213	cycle	\t	cycled	\t	cycled	\t	cycles	\t	cycling	</item>
-        <item>	214	damage	\t	damaged	\t	damaged	\t	damages	\t	damaging	</item>
-        <item>	215	damp	\t	damped	\t	damped	\t	damps	\t	damping	</item>
-        <item>	216	dance	\t	danced	\t	danced	\t	dances	\t	dancing	</item>
-        <item>	217	dare	\t	dared	\t	dared	\t	dares	\t	daring	</item>
-        <item>	218	dash	\t	dashed	\t	dashed	\t	dashes	\t	dashing	</item>
-        <item>	219	dazzle	\t	dazzled	\t	dazzled	\t	dazzles	\t	dazzling	</item>
-        <item>	220	deal	\t	dealt	\t	dealt	\t	deals	\t	dealing	</item>
-        <item>	221	decay	\t	decayed	\t	decayed	\t	decays	\t	decaying	</item>
-        <item>	222	decide	\t	decided	\t	decided	\t	decides	\t	deciding	</item>
-        <item>	223	declare	\t	declared	\t	declared	\t	declares	\t	declaring	</item>
-        <item>	224	decorate	\t	decorated	\t	decorated	\t	decorates	\t	decorating	</item>
-        <item>	225	decrease	\t	decreased	\t	decreased	\t	decreases	\t	decreasing	</item>
-        <item>	226	dedicate	\t	dedicated	\t	dedicated	\t	dedicates	\t	dedicating	</item>
-        <item>	227	delay	\t	delayed	\t	delayed	\t	delays	\t	delaying	</item>
-        <item>	228	delete	\t	deleted	\t	deleted	\t	deletes	\t	deleting	</item>
-        <item>	229	deny	\t	denied	\t	denied	\t	denies	\t	denying	</item>
-        <item>	230	depend	\t	depended	\t	depended	\t	depends	\t	depending	</item>
-        <item>	231	deprive	\t	deprived	\t	deprived	\t	deprives	\t	depriving	</item>
-        <item>	232	derive	\t	derived	\t	derived	\t	derives	\t	deriving	</item>
-        <item>	233	describe	\t	described	\t	described	\t	describes	\t	describing	</item>
-        <item>	234	desire	\t	desired	\t	desired	\t	desires	\t	desiring	</item>
-        <item>	235	destroy	\t	destroyed	\t	destroyed	\t	destroys	\t	destroying	</item>
-        <item>	236	detach	\t	detached	\t	detached	\t	detaches	\t	detaching	</item>
-        <item>	237	detect	\t	detected	\t	detected	\t	detects	\t	detecting	</item>
-        <item>	238	determine	\t	determined	\t	determined	\t	determines	\t	determining	</item>
-        <item>	239	develop	\t	developed	\t	developed	\t	develops	\t	developing	</item>
-        <item>	240	die	\t	died	\t	died	\t	dies	\t	dying	</item>
-        <item>	241	differ	\t	differed	\t	differed	\t	differs	\t	differing	</item>
-        <item>	242	dig	\t	dug	\t	dug	\t	digs	\t	digging	</item>
-        <item>	243	digest	\t	digested	\t	digested	\t	digests	\t	digesting	</item>
-        <item>	244	dim	\t	dimmed	\t	dimmed	\t	dims	\t	dimming	</item>
-        <item>	245	diminish	\t	diminished	\t	diminished	\t	diminishes	\t	diminishing	</item>
-        <item>	246	dine	\t	dined	\t	dined	\t	dines	\t	dining	</item>
-        <item>	247	dip	\t	dipped	\t	dipped	\t	dips	\t	dipping	</item>
-        <item>	248	direct	\t	directed	\t	directed	\t	directs	\t	directing	</item>
-        <item>	249	disappear	\t	disappeared	\t	disappeared	\t	disappears	\t	disappearing	</item>
-        <item>	250	discover	\t	discovered	\t	discovered	\t	discovers	\t	discovering	</item>
-        <item>	251	discuss	\t	discussed	\t	discussed	\t	discusses	\t	discussing	</item>
-        <item>	252	disobey	\t	disobeyed	\t	disobeyed	\t	disobeys	\t	disobeying	</item>
-        <item>	253	display	\t	displayed	\t	displayed	\t	displays	\t	displaying	</item>
-        <item>	254	dispose	\t	disposed	\t	disposed	\t	disposes	\t	disposing	</item>
-        <item>	255	distribute	\t	distributed	\t	distributed	\t	distributes	\t	distributing	</item>
-        <item>	256	disturb	\t	disturbed	\t	disturbed	\t	disturbs	\t	disturbing	</item>
-        <item>	257	disuse	\t	disused	\t	disused	\t	disuses	\t	disusing	</item>
-        <item>	258	dive	\t	dived	\t	dived	\t	dives	\t	diving	</item>
-        <item>	259	divide	\t	divided	\t	divided	\t	divides	\t	dividing	</item>
-        <item>	260	do	\t	did	\t	done	\t	does	\t	doing	</item>
-        <item>	261	donate	\t	donated	\t	donated	\t	donates	\t	donating	</item>
-        <item>	262	download	\t	downloaded	\t	downloaded	\t	downloads	\t	downloading	</item>
-        <item>	263	drag	\t	dragged	\t	dragged	\t	drags	\t	dragging	</item>
-        <item>	264	draw	\t	drew	\t	drawn	\t	draws	\t	drawing	</item>
-        <item>	265	dream	\t	dreamt	\t	dreamt	\t	dreams	\t	dreaming	</item>
-        <item>	266	dress	\t	dressed	\t	dressed	\t	dresses	\t	dressing	</item>
-        <item>	267	drill	\t	drilled	\t	drilled	\t	drills	\t	drilling	</item>
-        <item>	268	drink	\t	drank	\t	drunk	\t	drinks	\t	drinking	</item>
-        <item>	269	drive	\t	drove	\t	driven	\t	drives	\t	driving	</item>
-        <item>	270	drop	\t	dropped	\t	dropped	\t	drops	\t	dropping	</item>
-        <item>	271	dry	\t	dried	\t	dried	\t	dries	\t	drying	</item>
-        <item>	272	dump	\t	dumped	\t	dumped	\t	dumps	\t	dumping	</item>
-        <item>	273	dwell	\t	dwelt	\t	dwelt	\t	dwells	\t	dwelling	</item>
-        <item>	274	dye	\t	dyed	\t	dyed	\t	dyes	\t	dyeing	</item>
-        <item>	275	earn	\t	earned	\t	earned	\t	earns	\t	earning	</item>
-        <item>	276	eat	\t	ate	\t	eaten	\t	eats	\t	eating	</item>
-        <item>	277	educate	\t	educated	\t	educated	\t	educates	\t	educating	</item>
-        <item>	278	empower	\t	empowered	\t	empowered	\t	empowers	\t	empowering	</item>
-        <item>	279	empty	\t	emptied	\t	emptied	\t	empties	\t	emptying	</item>
-        <item>	280	encircle	\t	encircled	\t	encircled	\t	encircles	\t	encircling	</item>
-        <item>	281	encourage	\t	encouraged	\t	encouraged	\t	encourages	\t	encouraging	</item>
-        <item>	282	encroach	\t	encroached	\t	encroached	\t	encroaches	\t	encroaching	</item>
-        <item>	283	endanger	\t	endangered	\t	endangered	\t	endangers	\t	entangling	</item>
-        <item>	284	endorse	\t	endorsed	\t	endorsed	\t	endorses	\t	endorsing	</item>
-        <item>	285	endure	\t	endured	\t	endured	\t	endures	\t	enduring	</item>
-        <item>	286	engrave	\t	engraved	\t	engraved	\t	engraves	\t	engraving	</item>
-        <item>	287	enjoy	\t	enjoyed	\t	enjoyed	\t	enjoys	\t	enjoying	</item>
-        <item>	288	enlarge	\t	enlarged	\t	enlarged	\t	enlarges	\t	enlarging	</item>
-        <item>	289	enlighten	\t	enlightened	\t	enlightened	\t	enlightens	\t	enlightening	</item>
-        <item>	290	enter	\t	entered	\t	entered	\t	enters	\t	entering	</item>
-        <item>	291	envy	\t	envied	\t	envied	\t	envies	\t	envying	</item>
-        <item>	292	erase	\t	erased	\t	erased	\t	erases	\t	erasing	</item>
-        <item>	293	escape	\t	escaped	\t	escaped	\t	escapes	\t	escaping	</item>
-        <item>	294	evaporate	\t	evaporated	\t	evaporated	\t	evaporates	\t	evaporating	</item>
-        <item>	295	exchange	\t	exchanged	\t	exchanged	\t	exchanges	\t	exchanging	</item>
-        <item>	296	exclaim	\t	exclaimed	\t	exclaimed	\t	exclaims	\t	exclaiming	</item>
-        <item>	297	exclude	\t	excluded	\t	excluded	\t	excludes	\t	excluding	</item>
-        <item>	298	exist	\t	existed	\t	existed	\t	exists	\t	existing	</item>
-        <item>	299	expand	\t	expanded	\t	expanded	\t	expands	\t	expanding	</item>
-        <item>	300	expect	\t	expected	\t	expected	\t	expects	\t	expecting	</item>
-        <item>	301	explain	\t	explained	\t	explained	\t	explains	\t	explaining	</item>
-        <item>	302	explore	\t	explored	\t	explored	\t	explores	\t	exploring	</item>
-        <item>	303	express	\t	expressed	\t	expressed	\t	expresses	\t	expressing	</item>
-        <item>	304	extend	\t	extended	\t	extended	\t	extends	\t	extending	</item>
-        <item>	305	eye	\t	eyed	\t	eyed	\t	eyes	\t	eyeing	</item>
-        <item>	306	face	\t	faced	\t	faced	\t	faces	\t	facing	</item>
-        <item>	307	fail	\t	failed	\t	failed	\t	fails	\t	failing	</item>
-        <item>	308	faint	\t	fainted	\t	fainted	\t	faints	\t	fainting	</item>
-        <item>	309	fall	\t	fell	\t	fallen	\t	falls	\t	falling	</item>
-        <item>	310	fan	\t	fanned	\t	fanned	\t	fans	\t	fanning	</item>
-        <item>	311	fancy	\t	fancied	\t	fancied	\t	fancies	\t	fancying	</item>
-        <item>	312	favour	\t	favoured	\t	favoured	\t	favours	\t	favouring	</item>
-        <item>	313	fax	\t	faxed	\t	faxed	\t	faxes	\t	faxing	</item>
-        <item>	314	feed	\t	fed	\t	fed	\t	feeds	\t	feeding	</item>
-        <item>	315	feel	\t	felt	\t	felt	\t	feels	\t	feeling	</item>
-        <item>	316	ferry	\t	ferried	\t	ferried	\t	ferries	\t	ferrying	</item>
-        <item>	317	fetch	\t	fetched	\t	fetched	\t	fetches	\t	fetching	</item>
-        <item>	318	fight	\t	fought	\t	fought	\t	fights	\t	fighting	</item>
-        <item>	319	fill	\t	filled	\t	filled	\t	fills	\t	filling	</item>
-        <item>	320	find	\t	found	\t	found	\t	finds	\t	finding	</item>
-        <item>	321	finish	\t	finished	\t	finished	\t	finishes	\t	finishing	</item>
-        <item>	322	fish	\t	fished	\t	fished	\t	fishes	\t	fishing	</item>
-        <item>	323	fit	\t	fit/fitted	\t	fit/fitted	\t	fits	\t	fitting	</item>
-        <item>	324	fix	\t	fixed	\t	fixed	\t	fixes	\t	fixing	</item>
-        <item>	325	fizz	\t	fizzed	\t	fizzed	\t	fizzes	\t	fizzing	</item>
-        <item>	326	flap	\t	flapped	\t	flapped	\t	flaps	\t	flapping	</item>
-        <item>	327	flash	\t	flashed	\t	flashed	\t	flashes	\t	flashing	</item>
-        <item>	328	flee	\t	fled	\t	fled	\t	flees	\t	fleeing	</item>
-        <item>	329	fling	\t	flung	\t	flung	\t	flings	\t	flinging	</item>
-        <item>	330	float	\t	floated	\t	floated	\t	floats	\t	floating	</item>
-        <item>	331	flop	\t	flopped	\t	flopped	\t	flops	\t	flopping	</item>
-        <item>	332	fly	\t	flew	\t	flown	\t	flies	\t	flying	</item>
-        <item>	333	fold	\t	folded	\t	folded	\t	folds	\t	folding	</item>
-        <item>	334	follow	\t	followed	\t	followed	\t	follows	\t	following	</item>
-        <item>	335	forbid	\t	forbade	\t	forbidden	\t	forbids	\t	forbidding	</item>
-        <item>	336	force	\t	forced	\t	forced	\t	forces	\t	forcing	</item>
-        <item>	337	forecast	\t	forecast	\t	forecast	\t	forecasts	\t	forecasting	</item>
-        <item>	338	foretell	\t	foretold	\t	foretold	\t	foretells	\t	foretelling	</item>
-        <item>	339	forget	\t	forgot	\t	forgotten	\t	forgets	\t	forgetting	</item>
-        <item>	340	forgive	\t	forgave	\t	forgiven	\t	forgives	\t	forgiving	</item>
-        <item>	341	forlese	\t	forlore	\t	forlorn	\t	forlese	\t	forlesing	</item>
-        <item>	342	form	\t	formed	\t	formed	\t	forms	\t	forming	</item>
-        <item>	343	forsake	\t	forsook	\t	forsaken	\t	forsakes	\t	forsaking	</item>
-        <item>	344	found	\t	founded	\t	founded	\t	founds	\t	founding	</item>
-        <item>	345	frame	\t	framed	\t	framed	\t	frames	\t	framing	</item>
-        <item>	346	free	\t	freed	\t	freed	\t	frees	\t	freeing	</item>
-        <item>	347	freeze	\t	froze	\t	frozen	\t	freezes	\t	freezing	</item>
-        <item>	348	frighten	\t	frightened	\t	frightened	\t	frightens	\t	frightening	</item>
-        <item>	349	fry	\t	fried	\t	fried	\t	fries	\t	frying	</item>
-        <item>	350	fulfil	\t	fulfilled	\t	fulfilled	\t	fulfils	\t	fulfilling	</item>
-        <item>	351	gag	\t	gagged	\t	gagged	\t	gags	\t	gagging	</item>
-        <item>	352	gain	\t	gained	\t	gained	\t	gains	\t	gaining	</item>
-        <item>	353	gainsay	\t	gainsaid	\t	gainsaid	\t	gainsays	\t	gainsaying	</item>
-        <item>	354	gash	\t	gashed	\t	gashed	\t	gashes	\t	gashing	</item>
-        <item>	355	gaze	\t	gazed	\t	gazed	\t	gazes	\t	gazing	</item>
-        <item>	356	get	\t	got	\t	got	\t	gets	\t	getting	</item>
-        <item>	357	give	\t	gave	\t	given	\t	gives	\t	giving	</item>
-        <item>	358	glance	\t	glanced	\t	glanced	\t	glances	\t	glancing	</item>
-        <item>	359	glitter	\t	glittered	\t	glittered	\t	glitters	\t	glittering	</item>
-        <item>	360	glow	\t	glowed	\t	glowed	\t	glows	\t	glowing	</item>
-        <item>	361	go	\t	went	\t	gone	\t	goes	\t	going	</item>
-        <item>	362	google	\t	googled	\t	googled	\t	googles	\t	googling	</item>
-        <item>	363	govern	\t	governed	\t	governed	\t	governs	\t	governing	</item>
-        <item>	364	grab	\t	grabbed	\t	grabbed	\t	grabs	\t	grabbing	</item>
-        <item>	365	grade	\t	graded	\t	graded	\t	grades	\t	grading	</item>
-        <item>	366	grant	\t	granted	\t	granted	\t	grants	\t	granting	</item>
-        <item>	367	greet	\t	greeted	\t	greeted	\t	greets	\t	greeting	</item>
-        <item>	368	grind	\t	ground	\t	ground	\t	grinds	\t	grinding	</item>
-        <item>	369	grip	\t	gripped	\t	gripped	\t	grips	\t	gripping	</item>
-        <item>	370	grow	\t	grew	\t	grown	\t	grows	\t	growing	</item>
-        <item>	371	guard	\t	guarded	\t	guarded	\t	guards	\t	guarding	</item>
-        <item>	372	guess	\t	guessed	\t	guessed	\t	guesses	\t	guessing	</item>
-        <item>	373	guide	\t	guided	\t	guided	\t	guides	\t	guiding	</item>
-        <item>	374	handle	\t	handled	\t	handled	\t	handles	\t	handling	</item>
-        <item>	375	hang	\t	hung	\t	hung	\t	hangs	\t	hanging	</item>
-        <item>	376	happen	\t	happened	\t	happened	\t	happens	\t	happening	</item>
-        <item>	377	harm	\t	harmed	\t	harmed	\t	harms	\t	harming	</item>
-        <item>	378	hatch	\t	hatched	\t	hatched	\t	hatches	\t	hatching	</item>
-        <item>	379	hate	\t	hated	\t	hated	\t	hates	\t	hating	</item>
-        <item>	380	have	\t	had	\t	had	\t	has	\t	having	</item>
-        <item>	381	heal	\t	healed	\t	healed	\t	heals	\t	healing	</item>
-        <item>	382	hear	\t	heard	\t	heard	\t	hears	\t	hearing	</item>
-        <item>	383	heave	\t	hove	\t	hove	\t	heaves	\t	heaving	</item>
-        <item>	384	help	\t	helped	\t	helped	\t	helps	\t	helping	</item>
-        <item>	385	hew	\t	hewed	\t	hewn	\t	hews	\t	hewing	</item>
-        <item>	386	hide	\t	hid	\t	hidden	\t	hides	\t	hiding	</item>
-        <item>	387	hinder	\t	hindered	\t	hindered	\t	hinders	\t	hindering	</item>
-        <item>	388	hiss	\t	hissed	\t	hissed	\t	hisses	\t	hissing	</item>
-        <item>	389	hit	\t	hit	\t	hit	\t	hits	\t	hitting	</item>
-        <item>	390	hoax	\t	hoaxed	\t	hoaxed	\t	hoaxes	\t	hoaxing	</item>
-        <item>	391	hold	\t	held	\t	held	\t	holds	\t	holding	</item>
-        <item>	392	hop	\t	hopped	\t	hopped	\t	hops	\t	hopping	</item>
-        <item>	393	hope	\t	hoped	\t	hoped	\t	hopes	\t	hoping	</item>
-        <item>	394	horrify	\t	horrified	\t	horrified	\t	horrifies	\t	horrifying	</item>
-        <item>	395	hug	\t	hugged	\t	hugged	\t	hugs	\t	hugging	</item>
-        <item>	396	hum	\t	hummed	\t	hummed	\t	hums	\t	humming	</item>
-        <item>	397	humiliate	\t	humiliated	\t	humiliated	\t	humiliates	\t	humiliating	</item>
-        <item>	398	hunt	\t	hunted	\t	hunted	\t	hunts	\t	hunting	</item>
-        <item>	399	hurl	\t	hurled	\t	hurled	\t	hurls	\t	hurling	</item>
-        <item>	400	hurry	\t	hurried	\t	hurried	\t	hurries	\t	hurrying	</item>
-        <item>	401	hurt	\t	hurt	\t	hurt	\t	hurts	\t	hurting	</item>
-        <item>	402	hush	\t	hushed	\t	hushed	\t	hushes	\t	hushing	</item>
-        <item>	403	hustle	\t	hustled	\t	hustled	\t	hustles	\t	hustling	</item>
-        <item>	404	hypnotize	\t	hypnotized	\t	hypnotized	\t	hypnotizes	\t	hypnotizing	</item>
-        <item>	405	idealize	\t	idealized	\t	idealized	\t	idealizes	\t	idealizing	</item>
-        <item>	406	identify	\t	identified	\t	identified	\t	identifies	\t	identifying	</item>
-        <item>	407	idolize	\t	idolized	\t	idolized	\t	idolizes	\t	idolizing	</item>
-        <item>	408	ignite	\t	ignited	\t	ignited	\t	ignites	\t	igniting	</item>
-        <item>	409	ignore	\t	ignored	\t	ignored	\t	ignores	\t	ignoring	</item>
-        <item>	410	ill-treat	\t	ill-treated	\t	ill-treated	\t	ill-treats	\t	ill-treating	</item>
-        <item>	411	illuminate	\t	illuminated	\t	illuminated	\t	illuminates	\t	illuminating	</item>
-        <item>	412	illumine	\t	illumined	\t	illumined	\t	illumines	\t	illumining	</item>
-        <item>	413	illustrate	\t	illustrated	\t	illustrated	\t	illustrates	\t	illustrating	</item>
-        <item>	414	imagine	\t	imagined	\t	imagined	\t	imagines	\t	imagining	</item>
-        <item>	415	imbibe	\t	imbibed	\t	imbibed	\t	imbibes	\t	imbibing	</item>
-        <item>	416	imitate	\t	imitated	\t	imitated	\t	imitates	\t	imitating	</item>
-        <item>	417	immerse	\t	immersed	\t	immersed	\t	immerses	\t	immersing	</item>
-        <item>	418	immolate	\t	immolated	\t	immolated	\t	immolates	\t	immolating	</item>
-        <item>	419	immure	\t	immured	\t	immured	\t	immures	\t	immuring	</item>
-        <item>	420	impair	\t	impaired	\t	impaired	\t	impairs	\t	impairing	</item>
-        <item>	421	impart	\t	imparted	\t	imparted	\t	imparts	\t	imparting	</item>
-        <item>	422	impeach	\t	impeached	\t	impeached	\t	impeaches	\t	impeaching	</item>
-        <item>	423	impede	\t	impeded	\t	impeded	\t	impedes	\t	impeding	</item>
-        <item>	424	impel	\t	impelled	\t	impelled	\t	impels	\t	impelling	</item>
-        <item>	425	impend	\t	impended	\t	impended	\t	impends	\t	impending	</item>
-        <item>	426	imperil	\t	imperilled	\t	imperilled	\t	imperils	\t	imperilling	</item>
-        <item>	427	impinge	\t	impinged	\t	impinged	\t	impinges	\t	impinging	</item>
-        <item>	428	implant	\t	implanted	\t	implanted	\t	implants	\t	implanting	</item>
-        <item>	429	implicate	\t	implicated	\t	implicated	\t	implicates	\t	implicating	</item>
-        <item>	430	implode	\t	imploded	\t	imploded	\t	implodes	\t	imploding	</item>
-        <item>	431	implore	\t	implored	\t	implored	\t	implores	\t	imploring	</item>
-        <item>	432	imply	\t	implied	\t	implied	\t	implies	\t	implying	</item>
-        <item>	433	import	\t	imported	\t	imported	\t	imports	\t	importing	</item>
-        <item>	434	impose	\t	imposed	\t	imposed	\t	imposes	\t	imposing	</item>
-        <item>	435	impress	\t	impressed	\t	impressed	\t	impresses	\t	impressing	</item>
-        <item>	436	imprint	\t	imprinted	\t	imprinted	\t	imprints	\t	imprinting	</item>
-        <item>	437	imprison	\t	imprisoned	\t	imprisoned	\t	imprisons	\t	imprisoning	</item>
-        <item>	438	improve	\t	improved	\t	improved	\t	improves	\t	improving	</item>
-        <item>	439	inaugurate	\t	inaugurated	\t	inaugurated	\t	inaugurates	\t	inaugurating	</item>
-        <item>	440	incise	\t	incised	\t	incised	\t	incises	\t	incising	</item>
-        <item>	441	include	\t	included	\t	included	\t	includes	\t	including	</item>
-        <item>	442	increase	\t	increased	\t	increased	\t	increases	\t	increasing	</item>
-        <item>	443	inculcate	\t	inculcated	\t	inculcated	\t	inculcates	\t	inculcating	</item>
-        <item>	444	indent	\t	indented	\t	indented	\t	indents	\t	indenting	</item>
-        <item>	445	indicate	\t	indicated	\t	indicated	\t	indicates	\t	indicating	</item>
-        <item>	446	induce	\t	induced	\t	induced	\t	induces	\t	inducing	</item>
-        <item>	447	indulge	\t	indulged	\t	indulged	\t	indulges	\t	indulging	</item>
-        <item>	448	infect	\t	infected	\t	infected	\t	infects	\t	infecting	</item>
-        <item>	449	infest	\t	infested	\t	infested	\t	infests	\t	infesting	</item>
-        <item>	450	inflame	\t	inflamed	\t	inflamed	\t	inflames	\t	inflaming	</item>
-        <item>	451	inflate	\t	inflated	\t	inflated	\t	inflates	\t	inflating	</item>
-        <item>	452	inflect	\t	inflected	\t	inflected	\t	inflects	\t	inflecting	</item>
-        <item>	453	inform	\t	informed	\t	informed	\t	informs	\t	informing	</item>
-        <item>	454	infringe	\t	infringed	\t	infringed	\t	infringes	\t	infringing	</item>
-        <item>	455	infuse	\t	infused	\t	infused	\t	infuses	\t	infusing	</item>
-        <item>	456	ingest	\t	ingested	\t	ingested	\t	ingests	\t	ingesting	</item>
-        <item>	457	inhabit	\t	inhabited	\t	inhabited	\t	inhabits	\t	inhabiting	</item>
-        <item>	458	inhale	\t	inhaled	\t	inhaled	\t	inhales	\t	inhaling	</item>
-        <item>	459	inherit	\t	inherited	\t	inherited	\t	inherits	\t	inheriting	</item>
-        <item>	460	initiate	\t	initiated	\t	initiated	\t	initiates	\t	initiating	</item>
-        <item>	461	inject	\t	injected	\t	injected	\t	injects	\t	injecting	</item>
-        <item>	462	injure	\t	injured	\t	injured	\t	injures	\t	injuring	</item>
-        <item>	463	inlay	\t	inlaid	\t	inlaid	\t	inlays	\t	inlaying	</item>
-        <item>	464	innovate	\t	innovated	\t	innovated	\t	innovates	\t	innovating	</item>
-        <item>	465	input	\t	input	\t	input	\t	inputs	\t	inputting	</item>
-        <item>	466	inquire	\t	inquired	\t	inquired	\t	inquires	\t	inquiring	</item>
-        <item>	467	inscribe	\t	inscribed	\t	inscribed	\t	inscribes	\t	inscribing	</item>
-        <item>	468	insert	\t	inserted	\t	inserted	\t	inserts	\t	inserting	</item>
-        <item>	469	inspect	\t	inspected	\t	inspected	\t	inspects	\t	inspecting	</item>
-        <item>	470	inspire	\t	inspired	\t	inspired	\t	inspires	\t	inspiring	</item>
-        <item>	471	install	\t	installed	\t	installed	\t	installs	\t	installing	</item>
-        <item>	472	insult	\t	insulted	\t	insulted	\t	insults	\t	insulting	</item>
-        <item>	473	insure	\t	insured	\t	insured	\t	insures	\t	insuring	</item>
-        <item>	474	integrate	\t	integrated	\t	integrated	\t	integrates	\t	integrating	</item>
-        <item>	475	introduce	\t	introduced	\t	introduced	\t	introduces	\t	introducing	</item>
-        <item>	476	invent	\t	invented	\t	invented	\t	invents	\t	inventing	</item>
-        <item>	477	invite	\t	invited	\t	invited	\t	invites	\t	inviting	</item>
-        <item>	478	join	\t	joined	\t	joined	\t	joins	\t	joining	</item>
-        <item>	479	jump	\t	jumped	\t	jumped	\t	jumps	\t	jumping	</item>
-        <item>	480	justify	\t	justified	\t	justified	\t	justifies	\t	justifying	</item>
-        <item>	481	keep	\t	kept	\t	kept	\t	keeps	\t	keeping	</item>
-        <item>	482	kick	\t	kicked	\t	kicked	\t	kicks	\t	kicking	</item>
-        <item>	483	kid	\t	kidded	\t	kidded	\t	kids	\t	kidding	</item>
-        <item>	484	kill	\t	killed	\t	killed	\t	kills	\t	killing	</item>
-        <item>	485	kiss	\t	kissed	\t	kissed	\t	kisses	\t	kissing	</item>
-        <item>	486	kneel	\t	knelt	\t	knelt	\t	kneels	\t	kneeling	</item>
-        <item>	487	knit	\t	knit	\t	knit	\t	knits	\t	knitting	</item>
-        <item>	488	knock	\t	knocked	\t	knocked	\t	knocks	\t	knocking	</item>
-        <item>	489	know	\t	knew	\t	known	\t	knows	\t	knowing	</item>
-        <item>	490	lade	\t	laded	\t	laden	\t	lades	\t	lading	</item>
-        <item>	491	land	\t	landed	\t	landed	\t	lands	\t	landing	</item>
-        <item>	492	last	\t	lasted	\t	lasted	\t	lasts	\t	lasting	</item>
-        <item>	493	latch	\t	latched	\t	latched	\t	latches	\t	latching	</item>
-        <item>	494	laugh	\t	laughed	\t	laughed	\t	laughs	\t	laughing	</item>
-        <item>	495	lay	\t	laid	\t	laid	\t	lays	\t	laying	</item>
-        <item>	496	lead	\t	led	\t	led	\t	leads	\t	leading	</item>
-        <item>	497	leak	\t	leaked	\t	leaked	\t	leaks	\t	leaking	</item>
-        <item>	498	lean	\t	leant	\t	leant	\t	leans	\t	leaning	</item>
-        <item>	499	leap	\t	leapt	\t	leapt	\t	leaps	\t	leaping	</item>
-        <item>	500	learn	\t	learnt	\t	learnt	\t	learns	\t	learning	</item>
-        <item>	501	leave	\t	left	\t	left	\t	leaves	\t	leaving	</item>
-        <item>	502	leer	\t	leered	\t	leered	\t	leers	\t	leering	</item>
-        <item>	503	lend	\t	lent	\t	lent	\t	lends	\t	lending	</item>
-        <item>	504	let	\t	let	\t	let	\t	lets	\t	letting	</item>
-        <item>	505	lick	\t	licked	\t	licked	\t	licks	\t	licking	</item>
-        <item>	506	lie	\t	lay	\t	lain	\t	lies	\t	lying	</item>
-        <item>	507	lie	\t	lied	\t	lied	\t	lies	\t	lying	</item>
-        <item>	508	lift	\t	lifted	\t	lifted	\t	lifts	\t	lifting	</item>
-        <item>	509	light	\t	lit	\t	lit	\t	lights	\t	lighting	</item>
-        <item>	510	like	\t	liked	\t	liked	\t	likes	\t	liking	</item>
-        <item>	511	limp	\t	limped	\t	limped	\t	limps	\t	limping	</item>
-        <item>	512	listen	\t	listened	\t	listened	\t	listens	\t	listening	</item>
-        <item>	513	live	\t	lived	\t	lived	\t	lives	\t	living	</item>
-        <item>	514	look	\t	looked	\t	looked	\t	looks	\t	looking	</item>
-        <item>	515	lose	\t	lost	\t	lost	\t	loses	\t	losing	</item>
-        <item>	516	love	\t	loved	\t	loved	\t	loves	\t	loving	</item>
-        <item>	517	magnify	\t	magnified	\t	magnified	\t	magnifies	\t	magnifying	</item>
-        <item>	518	maintain	\t	maintained	\t	maintained	\t	maintains	\t	maintaining	</item>
-        <item>	519	make	\t	made	\t	made	\t	makes	\t	making	</item>
-        <item>	520	manage	\t	managed	\t	managed	\t	manages	\t	managing	</item>
-        <item>	521	march	\t	marched	\t	marched	\t	marches	\t	marching	</item>
-        <item>	522	mark	\t	marked	\t	marked	\t	marks	\t	marking	</item>
-        <item>	523	marry	\t	married	\t	married	\t	marries	\t	marrying	</item>
-        <item>	524	mash	\t	mashed	\t	mashed	\t	mashes	\t	mashing	</item>
-        <item>	525	match	\t	matched	\t	matched	\t	matches	\t	matching	</item>
-        <item>	526	matter	\t	mattered	\t	mattered	\t	matters	\t	mattering	</item>
-        <item>	527	mean	\t	meant	\t	meant	\t	means	\t	meaning	</item>
-        <item>	528	measure	\t	measured	\t	measured	\t	measures	\t	measuring	</item>
-        <item>	529	meet	\t	met	\t	met	\t	meets	\t	meeting	</item>
-        <item>	530	melt	\t	melted	\t	melted	\t	melts	\t	melting	</item>
-        <item>	531	merge	\t	merged	\t	merged	\t	merges	\t	merging	</item>
-        <item>	532	mew	\t	mewed	\t	mewed	\t	mews	\t	mewing	</item>
-        <item>	533	migrate	\t	migrated	\t	migrated	\t	migrates	\t	migrating	</item>
-        <item>	534	milk	\t	milked	\t	milked	\t	milks	\t	milking	</item>
-        <item>	535	mind	\t	minded	\t	minded	\t	minds	\t	minding	</item>
-        <item>	536	mislead	\t	misled	\t	misled	\t	misleads	\t	misleading	</item>
-        <item>	537	miss	\t	missed	\t	missed	\t	misses	\t	missing	</item>
-        <item>	538	mistake	\t	mistook	\t	mistaken	\t	mistakes	\t	mistaking	</item>
-        <item>	539	misuse	\t	misused	\t	misused	\t	misuses	\t	misusing	</item>
-        <item>	540	mix	\t	mixed	\t	mixed	\t	mixes	\t	mixing	</item>
-        <item>	541	moan	\t	moaned	\t	moaned	\t	moans	\t	moaning	</item>
-        <item>	542	modify	\t	modified	\t	modified	\t	modifies	\t	modifying	</item>
-        <item>	543	moo	\t	mooed	\t	mooed	\t	moos	\t	mooing	</item>
-        <item>	544	motivate	\t	motivated	\t	motivated	\t	motivates	\t	motivating	</item>
-        <item>	545	mould	\t	moulded	\t	moulded	\t	moulds	\t	moulding	</item>
-        <item>	546	moult	\t	moulted	\t	moulted	\t	moults	\t	moulting	</item>
-        <item>	547	move	\t	moved	\t	moved	\t	moves	\t	moving	</item>
-        <item>	548	mow	\t	mowed	\t	mown	\t	mows	\t	mowing	</item>
-        <item>	549	multiply	\t	multiplied	\t	multiplied	\t	multiplies	\t	multiplying	</item>
-        <item>	550	murmur	\t	murmured	\t	murmured	\t	murmurs	\t	murmuring	</item>
-        <item>	551	nail	\t	nailed	\t	nailed	\t	nails	\t	nailing	</item>
-        <item>	552	nap	\t	napped	\t	napped	\t	naps	\t	napping	</item>
-        <item>	553	need	\t	needed	\t	needed	\t	needs	\t	needing	</item>
-        <item>	554	neglect	\t	neglected	\t	neglected	\t	neglects	\t	neglecting	</item>
-        <item>	555	nip	\t	nipped	\t	nipped	\t	nips	\t	nipping	</item>
-        <item>	556	nod	\t	nodded	\t	nodded	\t	nods	\t	nodding	</item>
-        <item>	557	note	\t	noted	\t	noted	\t	notes	\t	noting	</item>
-        <item>	558	notice	\t	noticed	\t	noticed	\t	notices	\t	noticing	</item>
-        <item>	559	notify	\t	notified	\t	notified	\t	notifies	\t	notifying	</item>
-        <item>	560	nourish	\t	nourished	\t	nourished	\t	nourishes	\t	nourishing	</item>
-        <item>	561	nurse	\t	nursed	\t	nursed	\t	nurses	\t	nursing	</item>
-        <item>	562	obey	\t	obeyed	\t	obeyed	\t	obeys	\t	obeying	</item>
-        <item>	563	oblige	\t	obliged	\t	obliged	\t	obliges	\t	obliging	</item>
-        <item>	564	observe	\t	observed	\t	observed	\t	observes	\t	observing	</item>
-        <item>	565	obstruct	\t	obstructed	\t	obstructed	\t	obstructs	\t	obstructing	</item>
-        <item>	566	obtain	\t	obtained	\t	obtained	\t	obtains	\t	obtaining	</item>
-        <item>	567	occupy	\t	occupied	\t	occupied	\t	occupies	\t	occupying	</item>
-        <item>	568	occur	\t	occurred	\t	occurred	\t	occurs	\t	occurring	</item>
-        <item>	569	offer	\t	offered	\t	offered	\t	offers	\t	offering	</item>
-        <item>	570	offset	\t	offset	\t	offset	\t	offsets	\t	offsetting	</item>
-        <item>	571	omit	\t	omitted	\t	omitted	\t	omits	\t	omitting	</item>
-        <item>	572	ooze	\t	oozed	\t	oozed	\t	oozes	\t	oozing	</item>
-        <item>	573	open	\t	opened	\t	opened	\t	opens	\t	opening	</item>
-        <item>	574	operate	\t	operated	\t	operated	\t	operates	\t	operating	</item>
-        <item>	575	opine	\t	opined	\t	opined	\t	opines	\t	opining	</item>
-        <item>	576	oppress	\t	oppressed	\t	oppressed	\t	oppresses	\t	oppressing	</item>
-        <item>	577	opt	\t	opted	\t	opted	\t	opts	\t	opting	</item>
-        <item>	578	optimize	\t	optimized	\t	optimized	\t	optimizes	\t	optimizing	</item>
-        <item>	579	order	\t	ordered	\t	ordered	\t	orders	\t	ordering	</item>
-        <item>	580	organize	\t	organized	\t	organized	\t	organizes	\t	organizing	</item>
-        <item>	581	originate	\t	originated	\t	originated	\t	originates	\t	originating	</item>
-        <item>	582	output	\t	output	\t	output	\t	outputs	\t	outputting	</item>
-        <item>	583	overflow	\t	overflowed	\t	overflowed	\t	overflows	\t	overflowing	</item>
-        <item>	584	overtake	\t	overtook	\t	overtaken	\t	overtakes	\t	overtaking	</item>
-        <item>	585	owe	\t	owed	\t	owed	\t	owes	\t	owing	</item>
-        <item>	586	own	\t	owned	\t	owned	\t	owns	\t	owning	</item>
-        <item>	587	pacify	\t	pacified	\t	pacified	\t	pacifies	\t	pacifying	</item>
-        <item>	588	paint	\t	painted	\t	painted	\t	paints	\t	painting	</item>
-        <item>	589	pardon	\t	pardoned	\t	pardoned	\t	pardons	\t	pardoning	</item>
-        <item>	590	part	\t	parted	\t	parted	\t	parts	\t	parting	</item>
-        <item>	591	partake	\t	partook	\t	partaken	\t	partakes	\t	partaking	</item>
-        <item>	592	participate	\t	participated	\t	participated	\t	participates	\t	participating	</item>
-        <item>	593	pass	\t	passed	\t	passed	\t	passes	\t	passing	</item>
-        <item>	594	paste	\t	pasted	\t	pasted	\t	pastes	\t	pasting	</item>
-        <item>	595	pat	\t	patted	\t	patted	\t	pats	\t	patting	</item>
-        <item>	596	patch	\t	patched	\t	patched	\t	patches	\t	patching	</item>
-        <item>	597	pause	\t	paused	\t	paused	\t	pauses	\t	pausing	</item>
-        <item>	598	pay	\t	paid	\t	paid	\t	pays	\t	paying	</item>
-        <item>	599	peep	\t	peeped	\t	peeped	\t	peeps	\t	peeping	</item>
-        <item>	600	perish	\t	perished	\t	perished	\t	perishes	\t	perishing	</item>
-        <item>	601	permit	\t	permitted	\t	permitted	\t	permits	\t	permitting	</item>
-        <item>	602	persuade	\t	persuaded	\t	persuaded	\t	persuades	\t	persuading	</item>
-        <item>	603	phone	\t	phoned	\t	phoned	\t	phones	\t	phoning	</item>
-        <item>	604	place	\t	placed	\t	placed	\t	places	\t	placing	</item>
-        <item>	605	plan	\t	planned	\t	planned	\t	plans	\t	planning	</item>
-        <item>	606	play	\t	played	\t	played	\t	plays	\t	playing	</item>
-        <item>	607	plead	\t	pled	\t	pled	\t	pleads	\t	pleading	</item>
-        <item>	608	please	\t	pleased	\t	pleased	\t	pleases	\t	pleasing	</item>
-        <item>	609	plod	\t	plodded	\t	plodded	\t	plods	\t	plodding	</item>
-        <item>	610	plot	\t	plotted	\t	plotted	\t	plots	\t	plotting	</item>
-        <item>	611	pluck	\t	plucked	\t	plucked	\t	plucks	\t	plucking	</item>
-        <item>	612	ply	\t	plied	\t	plied	\t	plies	\t	plying	</item>
-        <item>	613	point	\t	pointed	\t	pointed	\t	points	\t	pointing	</item>
-        <item>	614	polish	\t	polished	\t	polished	\t	polishes	\t	polishing	</item>
-        <item>	615	pollute	\t	polluted	\t	polluted	\t	pollutes	\t	polluting	</item>
-        <item>	616	ponder	\t	pondered	\t	pondered	\t	ponders	\t	pondering	</item>
-        <item>	617	pour	\t	poured	\t	poured	\t	pours	\t	pouring	</item>
-        <item>	618	pout	\t	pouted	\t	pouted	\t	pouts	\t	pouting	</item>
-        <item>	619	practise	\t	practised	\t	practised	\t	practises	\t	practising	</item>
-        <item>	620	praise	\t	praised	\t	praised	\t	praises	\t	praising	</item>
-        <item>	621	pray	\t	prayed	\t	prayed	\t	prays	\t	praying	</item>
-        <item>	622	preach	\t	preached	\t	preached	\t	preaches	\t	preaching	</item>
-        <item>	623	prefer	\t	preferred	\t	preferred	\t	prefers	\t	preferring	</item>
-        <item>	624	prepare	\t	prepared	\t	prepared	\t	prepares	\t	preparing	</item>
-        <item>	625	prescribe	\t	prescribed	\t	prescribed	\t	prescribes	\t	prescribing	</item>
-        <item>	626	present	\t	presented	\t	presented	\t	presents	\t	presenting	</item>
-        <item>	627	preserve	\t	preserved	\t	preserved	\t	preserves	\t	preserving	</item>
-        <item>	628	preset	\t	preset	\t	preset	\t	presets	\t	presetting	</item>
-        <item>	629	preside	\t	presided	\t	presided	\t	presides	\t	presiding	</item>
-        <item>	630	press	\t	pressed	\t	pressed	\t	presses	\t	pressing	</item>
-        <item>	631	pretend	\t	pretended	\t	pretended	\t	pretends	\t	pretending	</item>
-        <item>	632	prevent	\t	prevented	\t	prevented	\t	prevents	\t	preventing	</item>
-        <item>	633	print	\t	printed	\t	printed	\t	prints	\t	printing	</item>
-        <item>	634	proceed	\t	proceeded	\t	proceeded	\t	proceeds	\t	proceeding	</item>
-        <item>	635	produce	\t	produced	\t	produced	\t	produces	\t	producing	</item>
-        <item>	636	progress	\t	progressed	\t	progressed	\t	progresses	\t	progressing	</item>
-        <item>	637	prohibit	\t	prohibited	\t	prohibited	\t	prohibits	\t	prohibiting	</item>
-        <item>	638	promise	\t	promised	\t	promised	\t	promises	\t	promising	</item>
-        <item>	639	propose	\t	proposed	\t	proposed	\t	proposes	\t	proposing	</item>
-        <item>	640	prosecute	\t	prosecuted	\t	prosecuted	\t	prosecutes	\t	prosecuting	</item>
-        <item>	641	protect	\t	protected	\t	protected	\t	protects	\t	protecting	</item>
-        <item>	642	prove	\t	proved	\t	proved	\t	proves	\t	proving	</item>
-        <item>	643	provide	\t	provided	\t	provided	\t	provides	\t	providing	</item>
-        <item>	644	pull	\t	pulled	\t	pulled	\t	pulls	\t	pulling	</item>
-        <item>	645	punish	\t	punished	\t	punished	\t	punishes	\t	punishing	</item>
-        <item>	646	purify	\t	purified	\t	purified	\t	purifies	\t	purifying	</item>
-        <item>	647	push	\t	pushed	\t	pushed	\t	pushes	\t	pushing	</item>
-        <item>	648	put	\t	put	\t	put	\t	puts	\t	putting	</item>
-        <item>	649	qualify	\t	qualified	\t	qualified	\t	qualifies	\t	qualifying	</item>
-        <item>	650	quarrel	\t	quarrelled	\t	quarrelled	\t	quarrels	\t	quarrelling	</item>
-        <item>	651	question	\t	questioned	\t	questioned	\t	questions	\t	questioning	</item>
-        <item>	652	quit	\t	quit	\t	quit	\t	quits	\t	quitting	</item>
-        <item>	653	race	\t	raced	\t	raced	\t	races	\t	racing	</item>
-        <item>	654	rain	\t	rained	\t	rained	\t	rains	\t	raining	</item>
-        <item>	655	rattle	\t	rattled	\t	rattled	\t	rattles	\t	rattling	</item>
-        <item>	656	reach	\t	reached	\t	reached	\t	reaches	\t	reaching	</item>
-        <item>	657	read	\t	read	\t	read	\t	reads	\t	reading	</item>
-        <item>	658	realize	\t	realized	\t	realized	\t	realizes	\t	realizing	</item>
-        <item>	659	rebuild	\t	rebuilt	\t	rebuilt	\t	rebuilds	\t	rebuilding	</item>
-        <item>	660	recall	\t	recalled	\t	recalled	\t	recalls	\t	recalling	</item>
-        <item>	661	recast	\t	recast	\t	recast	\t	recasts	\t	recasting	</item>
-        <item>	662	receive	\t	received	\t	received	\t	receives	\t	receiving	</item>
-        <item>	663	recite	\t	recited	\t	recited	\t	recites	\t	reciting	</item>
-        <item>	664	recognize	\t	recognized	\t	recognized	\t	recognizes	\t	recognizing	</item>
-        <item>	665	recollect	\t	recollected	\t	recollected	\t	recollects	\t	recollecting	</item>
-        <item>	666	recur	\t	recurred	\t	recurred	\t	recurs	\t	recurring	</item>
-        <item>	667	redo	\t	redid	\t	redone	\t	redoes	\t	redoing	</item>
-        <item>	668	reduce	\t	reduced	\t	reduced	\t	reduces	\t	reducing	</item>
-        <item>	669	refer	\t	referred	\t	referred	\t	refers	\t	referring	</item>
-        <item>	670	reflect	\t	reflected	\t	reflected	\t	reflects	\t	reflecting	</item>
-        <item>	671	refuse	\t	refused	\t	refused	\t	refuses	\t	refusing	</item>
-        <item>	672	regard	\t	regarded	\t	regarded	\t	regards	\t	regarding	</item>
-        <item>	673	regret	\t	regretted	\t	regretted	\t	regrets	\t	regretting	</item>
-        <item>	674	relate	\t	related	\t	related	\t	relates	\t	relating	</item>
-        <item>	675	relax	\t	relaxed	\t	relaxed	\t	relaxes	\t	relaxing	</item>
-        <item>	676	rely	\t	relied	\t	relied	\t	relies	\t	relying	</item>
-        <item>	677	remain	\t	remained	\t	remained	\t	remains	\t	remaining	</item>
-        <item>	678	remake	\t	remade	\t	remade	\t	remakes	\t	remaking	</item>
-        <item>	679	remove	\t	removed	\t	removed	\t	removes	\t	removing	</item>
-        <item>	680	rend	\t	rent	\t	rent	\t	rends	\t	rending	</item>
-        <item>	681	renew	\t	renewed	\t	renewed	\t	renews	\t	renewing	</item>
-        <item>	682	renounce	\t	renounced	\t	renounced	\t	renounces	\t	renouncing	</item>
-        <item>	683	repair	\t	repaired	\t	repaired	\t	repairs	\t	repairing	</item>
-        <item>	684	repeat	\t	repeated	\t	repeated	\t	repeats	\t	repeating	</item>
-        <item>	685	replace	\t	replaced	\t	replaced	\t	replaces	\t	replacing	</item>
-        <item>	686	reply	\t	replied	\t	replied	\t	replies	\t	replying	</item>
-        <item>	687	report	\t	reported	\t	reported	\t	reports	\t	reporting	</item>
-        <item>	688	request	\t	requested	\t	requested	\t	requests	\t	requesting	</item>
-        <item>	689	resell	\t	resold	\t	resold	\t	resells	\t	reselling	</item>
-        <item>	690	resemble	\t	resembled	\t	resembled	\t	resembles	\t	resembling	</item>
-        <item>	691	reset	\t	reset	\t	reset	\t	resets	\t	resetting	</item>
-        <item>	692	resist	\t	resisted	\t	resisted	\t	resists	\t	resisting	</item>
-        <item>	693	resolve	\t	resolved	\t	resolved	\t	resolves	\t	resolving	</item>
-        <item>	694	respect	\t	respected	\t	respected	\t	respects	\t	respecting	</item>
-        <item>	695	rest	\t	rested	\t	rested	\t	rests	\t	resting	</item>
-        <item>	696	restrain	\t	restrained	\t	restrained	\t	restrains	\t	restraining	</item>
-        <item>	697	retain	\t	retained	\t	retained	\t	retains	\t	retaining	</item>
-        <item>	698	retch	\t	retched	\t	retched	\t	retches	\t	retching	</item>
-        <item>	699	retire	\t	retired	\t	retired	\t	retires	\t	retiring	</item>
-        <item>	700	return	\t	returned	\t	returned	\t	returns	\t	returning	</item>
-        <item>	701	reuse	\t	reused	\t	reused	\t	reuses	\t	reusing	</item>
-        <item>	702	review	\t	reviewed	\t	reviewed	\t	reviews	\t	reviewing	</item>
-        <item>	703	rewind	\t	rewound	\t	rewound	\t	rewinds	\t	rewinding	</item>
-        <item>	704	rid	\t	rid	\t	rid	\t	rids	\t	ridding	</item>
-        <item>	705	ride	\t	rode	\t	ridden	\t	rides	\t	riding	</item>
-        <item>	706	ring	\t	rang	\t	rung	\t	rings	\t	ringing	</item>
-        <item>	707	rise	\t	rose	\t	risen	\t	rises	\t	rising	</item>
-        <item>	708	roar	\t	roared	\t	roared	\t	roars	\t	roaring	</item>
-        <item>	709	rob	\t	robbed	\t	robbed	\t	robs	\t	robbing	</item>
-        <item>	710	roll	\t	rolled	\t	rolled	\t	rolls	\t	rolling	</item>
-        <item>	711	rot	\t	rotted	\t	rotted	\t	rots	\t	rotting	</item>
-        <item>	712	rub	\t	rubbed	\t	rubbed	\t	rubs	\t	rubbing	</item>
-        <item>	713	rule	\t	ruled	\t	ruled	\t	rules	\t	ruling	</item>
-        <item>	714	run	\t	ran	\t	run	\t	runs	\t	running	</item>
-        <item>	715	rush	\t	rushed	\t	rushed	\t	rushes	\t	rushing	</item>
-        <item>	716	sabotage	\t	sabotaged	\t	sabotaged	\t	sabotages	\t	sabotaging	</item>
-        <item>	717	sack	\t	sacked	\t	sacked	\t	sacks	\t	sacking	</item>
-        <item>	718	sacrifice	\t	sacrificed	\t	sacrificed	\t	sacrifices	\t	sacrificing	</item>
-        <item>	719	sadden	\t	saddened	\t	saddened	\t	saddens	\t	saddening	</item>
-        <item>	720	saddle	\t	saddled	\t	saddled	\t	saddles	\t	saddling	</item>
-        <item>	721	sag	\t	sagged	\t	sagged	\t	sags	\t	sagging	</item>
-        <item>	722	sail	\t	sailed	\t	sailed	\t	sails	\t	sailing	</item>
-        <item>	723	sally	\t	sallied	\t	sallied	\t	sallies	\t	sallying	</item>
-        <item>	724	salute	\t	saluted	\t	saluted	\t	salutes	\t	saluting	</item>
-        <item>	725	salvage	\t	salvaged	\t	salvaged	\t	salvages	\t	salvaging	</item>
-        <item>	726	salve	\t	salved	\t	salved	\t	salves	\t	salving	</item>
-        <item>	727	sample	\t	sampled	\t	sampled	\t	samples	\t	sampling	</item>
-        <item>	728	sanctify	\t	sanctified	\t	sanctified	\t	sanctifies	\t	sanctifying	</item>
-        <item>	729	sanction	\t	sanctioned	\t	sanctioned	\t	sanctions	\t	sanctioning	</item>
-        <item>	730	sap	\t	sapped	\t	sapped	\t	saps	\t	sapping	</item>
-        <item>	731	saponify	\t	saponified	\t	saponified	\t	saponifies	\t	saponifying	</item>
-        <item>	732	sash	\t	sashed	\t	sashed	\t	sashes	\t	sashing	</item>
-        <item>	733	sashay	\t	sashayed	\t	sashayed	\t	sashays	\t	sashaying	</item>
-        <item>	734	sass	\t	sassed	\t	sassed	\t	sasses	\t	sassing	</item>
-        <item>	735	sate	\t	sated	\t	sated	\t	sates	\t	sating	</item>
-        <item>	736	satiate	\t	satiated	\t	satiated	\t	satiates	\t	satiating	</item>
-        <item>	737	satirise	\t	satirised	\t	satirised	\t	satirises	\t	satirising	</item>
-        <item>	738	satisfy	\t	satisfied	\t	satisfied	\t	satisfies	\t	satisfying	</item>
-        <item>	739	saturate	\t	saturated	\t	saturated	\t	saturates	\t	saturating	</item>
-        <item>	740	saunter	\t	sauntered	\t	sauntered	\t	saunters	\t	sauntering	</item>
-        <item>	741	save	\t	saved	\t	saved	\t	saves	\t	saving	</item>
-        <item>	742	savor	\t	savored	\t	savored	\t	savors	\t	savoring	</item>
-        <item>	743	savvy	\t	savvied	\t	savvied	\t	savvies	\t	savvying	</item>
-        <item>	744	saw	\t	sawed	\t	sawn	\t	saws	\t	sawing	</item>
-        <item>	745	say	\t	said	\t	said	\t	says	\t	saying	</item>
-        <item>	746	scab	\t	scabbed	\t	scabbed	\t	scabs	\t	scabbing	</item>
-        <item>	747	scabble	\t	scabbled	\t	scabbled	\t	scabbles	\t	scabbling	</item>
-        <item>	748	scald	\t	scalded	\t	scalded	\t	scalds	\t	scalding	</item>
-        <item>	749	scale	\t	scaled	\t	scaled	\t	scales	\t	scaling	</item>
-        <item>	750	scam	\t	scammed	\t	scammed	\t	scams	\t	scamming	</item>
-        <item>	751	scan	\t	scanned	\t	scanned	\t	scans	\t	scanning	</item>
-        <item>	752	scant	\t	scanted	\t	scanted	\t	scants	\t	scanting	</item>
-        <item>	753	scar	\t	scarred	\t	scarred	\t	scars	\t	scarring	</item>
-        <item>	754	scare	\t	scared	\t	scared	\t	scares	\t	scaring	</item>
-        <item>	755	scarify	\t	scarified	\t	scarified	\t	scarifies	\t	scarifying	</item>
-        <item>	756	scarp	\t	scarped	\t	scarped	\t	scarps	\t	scarping	</item>
-        <item>	757	scat	\t	scatted	\t	scatted	\t	scats	\t	scatting	</item>
-        <item>	758	scatter	\t	scattered	\t	scattered	\t	scatters	\t	scattering	</item>
-        <item>	759	scold	\t	scolded	\t	scolded	\t	scolds	\t	scolding	</item>
-        <item>	760	scorch	\t	scorched	\t	scorched	\t	scorches	\t	scorching	</item>
-        <item>	761	scowl	\t	scowled	\t	scowled	\t	scowls	\t	scowling	</item>
-        <item>	762	scrawl	\t	scrawled	\t	scrawled	\t	scrawls	\t	scrawling	</item>
-        <item>	763	scream	\t	screamed	\t	screamed	\t	screams	\t	screaming	</item>
-        <item>	764	screw	\t	screwed	\t	screwed	\t	screws	\t	screwing	</item>
-        <item>	765	scrub	\t	scrubbed	\t	scrubbed	\t	scrubs	\t	scrubbing	</item>
-        <item>	766	search	\t	searched	\t	searched	\t	searches	\t	searching	</item>
-        <item>	767	seat	\t	seated	\t	seated	\t	seats	\t	seating	</item>
-        <item>	768	secure	\t	secured	\t	secured	\t	secures	\t	securing	</item>
-        <item>	769	see	\t	saw	\t	seen	\t	sees	\t	seeing	</item>
-        <item>	770	seek	\t	sought	\t	sought	\t	seeks	\t	seeking	</item>
-        <item>	771	seem	\t	seemed	\t	seemed	\t	seems	\t	seeming	</item>
-        <item>	772	seize	\t	seized	\t	seized	\t	seizes	\t	seizing	</item>
-        <item>	773	select	\t	selected	\t	selected	\t	selects	\t	selecting	</item>
-        <item>	774	sell	\t	sold	\t	sold	\t	sells	\t	selling	</item>
-        <item>	775	send	\t	sent	\t	sent	\t	sends	\t	sending	</item>
-        <item>	776	sentence	\t	sentenced	\t	sentenced	\t	sentences	\t	sentencing	</item>
-        <item>	777	separate	\t	separated	\t	separated	\t	separates	\t	separating	</item>
-        <item>	778	set	\t	set	\t	set	\t	sets	\t	setting	</item>
-        <item>	779	sever	\t	severed	\t	severed	\t	severs	\t	severing	</item>
-        <item>	780	sew	\t	sewed	\t	sewn	\t	sews	\t	sewing	</item>
-        <item>	781	shake	\t	shook	\t	shaken	\t	shakes	\t	shaking	</item>
-        <item>	782	shape	\t	shaped	\t	shaped	\t	shapes	\t	shaping	</item>
-        <item>	783	share	\t	shared	\t	shared	\t	shares	\t	sharing	</item>
-        <item>	784	shatter	\t	shattered	\t	shattered	\t	shatters	\t	shattering	</item>
-        <item>	785	shave	\t	shove	\t	shaven	\t	shaves	\t	shaving	</item>
-        <item>	786	shear	\t	shore	\t	shorn	\t	shears	\t	shearing	</item>
-        <item>	787	shed	\t	shed	\t	shed	\t	sheds	\t	shedding	</item>
-        <item>	788	shine	\t	shone	\t	shone	\t	shines	\t	shining	</item>
-        <item>	789	shirk	\t	shirked	\t	shirked	\t	shirks	\t	shirking	</item>
-        <item>	790	shit	\t	shit	\t	shit	\t	shits	\t	shitting	</item>
-        <item>	791	shiver	\t	shivered	\t	shivered	\t	shivers	\t	shivering	</item>
-        <item>	792	shock	\t	shocked	\t	shocked	\t	shocks	\t	shocking	</item>
-        <item>	793	shoe	\t	shod	\t	shod	\t	shoes	\t	shoeing	</item>
-        <item>	794	shoot	\t	shot	\t	shot	\t	shoots	\t	shooting	</item>
-        <item>	795	shorten	\t	shortened	\t	shortened	\t	shortens	\t	shortening	</item>
-        <item>	796	shout	\t	shouted	\t	shouted	\t	shouts	\t	shouting	</item>
-        <item>	797	show	\t	showed	\t	shown	\t	shows	\t	showing	</item>
-        <item>	798	shrink	\t	shrank	\t	shrunk	\t	shrinks	\t	shrinking	</item>
-        <item>	799	shun	\t	shunned	\t	shunned	\t	shuns	\t	shunning	</item>
-        <item>	800	shut	\t	shut	\t	shut	\t	shuts	\t	shutting	</item>
-        <item>	801	sight	\t	sighted	\t	sighted	\t	sights	\t	sighting	</item>
-        <item>	802	signal	\t	signalled	\t	signalled	\t	signals	\t	signalling	</item>
-        <item>	803	signify	\t	signified	\t	signified	\t	signifies	\t	signifying	</item>
-        <item>	804	sing	\t	sang	\t	sung	\t	sings	\t	singing	</item>
-        <item>	805	sink	\t	sank	\t	sunk	\t	sinks	\t	sinking	</item>
-        <item>	806	sip	\t	sipped	\t	sipped	\t	sips	\t	sipping	</item>
-        <item>	807	sit	\t	sat	\t	sat	\t	sits	\t	sitting	</item>
-        <item>	808	ski	\t	skied	\t	skied	\t	skis	\t	skiing	</item>
-        <item>	809	skid	\t	skidded	\t	skidded	\t	skids	\t	skidding	</item>
-        <item>	810	slam	\t	slammed	\t	slammed	\t	slams	\t	slamming	</item>
-        <item>	811	slay	\t	slew	\t	slain	\t	slays	\t	slaying	</item>
-        <item>	812	sleep	\t	slept	\t	slept	\t	sleeps	\t	sleeping	</item>
-        <item>	813	slide	\t	slid	\t	slid/slide	\t	slides	\t	sliding	</item>
-        <item>	814	slim	\t	slimmed	\t	slimmed	\t	slims	\t	slimming	</item>
-        <item>	815	sling	\t	slung	\t	slung	\t	slings	\t	slinging	</item>
-        <item>	816	slink	\t	slunk	\t	slunk	\t	slinks	\t	slinking	</item>
-        <item>	817	slip	\t	slipped	\t	slipped	\t	slips	\t	slipping	</item>
-        <item>	818	slit	\t	slit	\t	slit	\t	slits	\t	slitting	</item>
-        <item>	819	smash	\t	smashed	\t	smashed	\t	smashes	\t	smashing	</item>
-        <item>	820	smell	\t	smelt	\t	smelt	\t	smells	\t	smelling	</item>
-        <item>	821	smile	\t	smiled	\t	smiled	\t	smiles	\t	smiling	</item>
-        <item>	822	smite	\t	smote	\t	smitten	\t	smites	\t	smiting	</item>
-        <item>	823	smooth	\t	smoothed	\t	smoothed	\t	smoothes	\t	smoothing	</item>
-        <item>	824	smother	\t	smothered	\t	smothered	\t	smothers	\t	smothering	</item>
-        <item>	825	snap	\t	snapped	\t	snapped	\t	snaps	\t	snapping	</item>
-        <item>	826	snatch	\t	snatched	\t	snatched	\t	snatches	\t	snatching	</item>
-        <item>	827	sneak	\t	sneaked	\t	sneaked	\t	sneaks	\t	sneaking	</item>
-        <item>	828	sneeze	\t	sneezed	\t	sneezed	\t	sneezes	\t	sneezing	</item>
-        <item>	829	sniff	\t	sniffed	\t	sniffed	\t	sniffs	\t	sniffing	</item>
-        <item>	830	soar	\t	soared	\t	soared	\t	soars	\t	soaring	</item>
-        <item>	831	sob	\t	sobbed	\t	sobbed	\t	sobs	\t	sobbing	</item>
-        <item>	832	solicit	\t	solicited	\t	solicited	\t	solicits	\t	soliciting	</item>
-        <item>	833	solve	\t	solved	\t	solved	\t	solves	\t	solving	</item>
-        <item>	834	soothe	\t	soothed	\t	soothed	\t	soothes	\t	soothing	</item>
-        <item>	835	sort	\t	sorted	\t	sorted	\t	sorts	\t	sorting	</item>
-        <item>	836	sow	\t	sowed	\t	sowed	\t	sows	\t	sowing	</item>
-        <item>	837	sparkle	\t	sparkled	\t	sparkled	\t	sparkles	\t	sparkling	</item>
-        <item>	838	speak	\t	spoke	\t	spoken	\t	speaks	\t	speaking	</item>
-        <item>	839	speed	\t	sped	\t	sped	\t	speeds	\t	speeding	</item>
-        <item>	840	spell	\t	spelt	\t	spelt	\t	spells	\t	spelling	</item>
-        <item>	841	spend	\t	spent	\t	spent	\t	spends	\t	spending	</item>
-        <item>	842	spill	\t	spilt	\t	spilt	\t	spills	\t	spilling	</item>
-        <item>	843	spin	\t	span/spun	\t	spun	\t	spins	\t	spinning	</item>
-        <item>	844	spit	\t	spat/spit	\t	spat/spit	\t	spits	\t	spitting	</item>
-        <item>	845	split	\t	split	\t	split	\t	splits	\t	splitting	</item>
-        <item>	846	spoil	\t	spoilt	\t	spoilt	\t	spoils	\t	spoiling	</item>
-        <item>	847	spray	\t	sprayed	\t	sprayed	\t	sprays	\t	spraying	</item>
-        <item>	848	spread	\t	spread	\t	spread	\t	spreads	\t	spreading	</item>
-        <item>	849	spring	\t	sprang	\t	sprung	\t	springs	\t	springing	</item>
-        <item>	850	sprout	\t	sprouted	\t	sprouted	\t	sprouts	\t	sprouting	</item>
-        <item>	851	squeeze	\t	squeezed	\t	squeezed	\t	squeezes	\t	squeezing	</item>
-        <item>	852	stand	\t	stood	\t	stood	\t	stands	\t	standing	</item>
-        <item>	853	stare	\t	stared	\t	stared	\t	stares	\t	staring	</item>
-        <item>	854	start	\t	started	\t	started	\t	starts	\t	starting	</item>
-        <item>	855	state	\t	stated	\t	stated	\t	states	\t	stating	</item>
-        <item>	856		\t		\t		\t		\t		</item>
-        <item>	857	stay	\t	stayed	\t	stayed	\t	stays	\t	staying	</item>
-        <item>	858	steal	\t	stole	\t	stolen	\t	steals	\t	stealing	</item>
-        <item>	859	steep	\t	steeped	\t	steeped	\t	steeps	\t	steeping	</item>
-        <item>	860	stem	\t	stemmed	\t	stemmed	\t	stems	\t	stemming	</item>
-        <item>	861	step	\t	stepped	\t	stepped	\t	steps	\t	stepping	</item>
-        <item>	862	sterilize	\t	sterilized	\t	sterilized	\t	sterilizes	\t	sterilizing	</item>
-        <item>	863	stick	\t	stuck	\t	stuck	\t	sticks	\t	sticking	</item>
-        <item>	864	stimulate	\t	stimulated	\t	stimulated	\t	stimulates	\t	stimulating	</item>
-        <item>	865	sting	\t	stung	\t	stung	\t	stings	\t	stinging	</item>
-        <item>	866	stink	\t	stank	\t	stunk	\t	stinks	\t	stinking	</item>
-        <item>	867	stir	\t	stirred	\t	stirred	\t	stirs	\t	stirring	</item>
-        <item>	868	stitch	\t	stitched	\t	stitched	\t	stitches	\t	stitching	</item>
-        <item>	869	stoop	\t	stooped	\t	stooped	\t	stoops	\t	stooping	</item>
-        <item>	870	stop	\t	stopped	\t	stopped	\t	stops	\t	stopping	</item>
-        <item>	871	store	\t	stored	\t	stored	\t	stores	\t	storing	</item>
-        <item>	872	strain	\t	strained	\t	strained	\t	strains	\t	straining	</item>
-        <item>	873	stray	\t	strayed	\t	strayed	\t	strays	\t	straying	</item>
-        <item>	874	stress	\t	stressed	\t	stressed	\t	stresses	\t	stressing	</item>
-        <item>	875	stretch	\t	stretched	\t	stretched	\t	stretches	\t	stretching	</item>
-        <item>	876	strew	\t	strewed	\t	strewn	\t	strews	\t	strewing	</item>
-        <item>	877	stride	\t	strode	\t	stridden	\t	strides	\t	striding	</item>
-        <item>	878	strike	\t	struck	\t	struck/stricken	\t	strikes	\t	striking	</item>
-        <item>	879	string	\t	strung	\t	strung	\t	strings	\t	stringing	</item>
-        <item>	880	strive	\t	strove	\t	striven	\t	strives	\t	striving	</item>
-        <item>	881	study	\t	studied	\t	studied	\t	studies	\t	studying	</item>
-        <item>	882	submit	\t	submitted	\t	submitted	\t	submits	\t	submitting	</item>
-        <item>	883	subscribe	\t	subscribed	\t	subscribed	\t	subscribes	\t	subscribing	</item>
-        <item>	884	subtract	\t	subtracted	\t	subtracted	\t	subtracts	\t	subtracting	</item>
-        <item>	885	succeed	\t	succeeded	\t	succeeded	\t	succeeds	\t	succeeding	</item>
-        <item>	886	suck	\t	sucked	\t	sucked	\t	sucks	\t	sucking	</item>
-        <item>	887	suffer	\t	suffered	\t	suffered	\t	suffers	\t	suffering	</item>
-        <item>	888	suggest	\t	suggested	\t	suggested	\t	suggests	\t	suggesting	</item>
-        <item>	889	summon	\t	summoned	\t	summoned	\t	summons	\t	summoning	</item>
-        <item>	890	supply	\t	supplied	\t	supplied	\t	supplies	\t	supplying	</item>
-        <item>	891	support	\t	supported	\t	supported	\t	supports	\t	supporting	</item>
-        <item>	892	suppose	\t	supposed	\t	supposed	\t	supposes	\t	supposing	</item>
-        <item>	893	surge	\t	surged	\t	surged	\t	surges	\t	surging	</item>
-        <item>	894	surmise	\t	surmised	\t	surmised	\t	surmises	\t	surmising	</item>
-        <item>	895	surpass	\t	surpassed	\t	surpassed	\t	surpasses	\t	surpassing	</item>
-        <item>	896	surround	\t	surrounded	\t	surrounded	\t	surrounds	\t	surrounding	</item>
-        <item>	897	survey	\t	surveyed	\t	surveyed	\t	surveys	\t	surveying	</item>
-        <item>	898	survive	\t	survived	\t	survived	\t	survives	\t	surviving	</item>
-        <item>	899	swallow	\t	swallowed	\t	swallowed	\t	swallows	\t	swallowing	</item>
-        <item>	900	sway	\t	swayed	\t	swayed	\t	sways	\t	swaying	</item>
-        <item>	901	swear	\t	swore	\t	sworn	\t	swears	\t	swearing	</item>
-        <item>	902	sweat	\t	sweat	\t	sweat	\t	sweats	\t	sweating	</item>
-        <item>	903	sweep	\t	swept	\t	swept	\t	sweeps	\t	sweeping	</item>
-        <item>	904	swell	\t	swelled	\t	swollen	\t	swells	\t	swelling	</item>
-        <item>	905	swim	\t	swam	\t	swum	\t	swims	\t	swimming	</item>
-        <item>	906	swing	\t	swung	\t	swung	\t	swings	\t	swinging	</item>
-        <item>	907	swot	\t	swotted	\t	swotted	\t	swots	\t	swotting	</item>
-        <item>	908	take	\t	took	\t	taken	\t	takes	\t	taking	</item>
-        <item>	909	talk	\t	talked	\t	talked	\t	talks	\t	talking	</item>
-        <item>	910	tap	\t	tapped	\t	tapped	\t	taps	\t	tapping	</item>
-        <item>	911	taste	\t	tasted	\t	tasted	\t	tastes	\t	tasting	</item>
-        <item>	912	tax	\t	taxed	\t	taxed	\t	taxes	\t	taxing	</item>
-        <item>	913	teach	\t	taught	\t	taught	\t	teaches	\t	teaching	</item>
-        <item>	914	tear	\t	tore	\t	torn	\t	tears	\t	tearing	</item>
-        <item>	915	tee	\t	teed	\t	teed	\t	tees	\t	teeing	</item>
-        <item>	916	tell	\t	told	\t	told	\t	tells	\t	telling	</item>
-        <item>	917	tempt	\t	tempted	\t	tempted	\t	tempts	\t	tempting	</item>
-        <item>	918	tend	\t	tended	\t	tended	\t	tends	\t	tending	</item>
-        <item>	919	terminate	\t	terminated	\t	terminated	\t	terminates	\t	terminating	</item>
-        <item>	920	terrify	\t	terrified	\t	terrified	\t	terrifies	\t	terrifying	</item>
-        <item>	921	test	\t	tested	\t	tested	\t	tests	\t	testing	</item>
-        <item>	922	thank	\t	thanked	\t	thanked	\t	thanks	\t	thanking	</item>
-        <item>	923	think	\t	thought	\t	thought	\t	thinks	\t	thinking	</item>
-        <item>	924	thrive	\t	throve	\t	thriven	\t	thrives	\t	thriving	</item>
-        <item>	925	throw	\t	threw	\t	thrown	\t	throws	\t	throwing	</item>
-        <item>	926	thrust	\t	thrust	\t	thrust	\t	thrusts	\t	thrusting	</item>
-        <item>	927	thump	\t	thumped	\t	thumped	\t	thumps	\t	thumping	</item>
-        <item>	928	tie	\t	tied	\t	tied	\t	ties	\t	tying	</item>
-        <item>	929	tire	\t	tired	\t	tired	\t	tires	\t	tiring	</item>
-        <item>	930	toss	\t	tossed	\t	tossed	\t	tosses	\t	tossing	</item>
-        <item>	931	touch	\t	touched	\t	touched	\t	touches	\t	touching	</item>
-        <item>	932	train	\t	trained	\t	trained	\t	trains	\t	training	</item>
-        <item>	933	trample	\t	trampled	\t	trampled	\t	tramples	\t	trampling	</item>
-        <item>	934	transfer	\t	transferred	\t	transferred	\t	transfers	\t	transferring	</item>
-        <item>	935	transform	\t	transformed	\t	transformed	\t	transforms	\t	transforming	</item>
-        <item>	936	translate	\t	translated	\t	translated	\t	translates	\t	translating	</item>
-        <item>	937	trap	\t	trapped	\t	trapped	\t	traps	\t	trapping	</item>
-        <item>	938	travel	\t	travelled	\t	travelled	\t	travels	\t	travelling	</item>
-        <item>	939	tread	\t	trod	\t	trodden	\t	treads	\t	treading	</item>
-        <item>	940	treasure	\t	treasured	\t	treasured	\t	treasures	\t	treasuring	</item>
-        <item>	941	treat	\t	treated	\t	treated	\t	treats	\t	treating	</item>
-        <item>	942	tree	\t	treed	\t	treed	\t	trees	\t	treeing	</item>
-        <item>	943	tremble	\t	trembled	\t	trembled	\t	trembles	\t	trembling	</item>
-        <item>	944	triumph	\t	triumphed	\t	triumphed	\t	triumphs	\t	triumphing	</item>
-        <item>	945	trust	\t	trusted	\t	trusted	\t	trusts	\t	trusting	</item>
-        <item>	946	try	\t	tried	\t	tried	\t	tries	\t	trying	</item>
-        <item>	947	turn	\t	turned	\t	turned	\t	turns	\t	turning	</item>
-        <item>	948	type	\t	typed	\t	typed	\t	types	\t	typing	</item>
-        <item>	949	typeset	\t	typeset	\t	typeset	\t	typesets	\t	typesetting	</item>
-        <item>	950	understand	\t	understood	\t	understood	\t	understands	\t	understanding	</item>
-        <item>	951	undo	\t	undid	\t	undone	\t	undoes	\t	undoing	</item>
-        <item>	952	uproot	\t	uprooted	\t	uprooted	\t	uproots	\t	uprooting	</item>
-        <item>	953	upset	\t	upset	\t	upset	\t	upsets	\t	upsetting	</item>
-        <item>	954	urge	\t	urged	\t	urged	\t	urges	\t	urging	</item>
-        <item>	955	use	\t	used	\t	used	\t	uses	\t	using	</item>
-        <item>	956	utter	\t	uttered	\t	uttered	\t	utters	\t	uttering	</item>
-        <item>	957	value	\t	valued	\t	valued	\t	values	\t	valuing	</item>
-        <item>	958	vanish	\t	vanished	\t	vanished	\t	vanishes	\t	vanishing	</item>
-        <item>	959	vary	\t	varied	\t	varied	\t	varies	\t	varying	</item>
-        <item>	960	verify	\t	verified	\t	verified	\t	verifies	\t	verifying	</item>
-        <item>	961	vex	\t	vexed	\t	vexed	\t	vexes	\t	vexing	</item>
-        <item>	962	vie	\t	vied	\t	vied	\t	vies	\t	vying	</item>
-        <item>	963	view	\t	viewed	\t	viewed	\t	views	\t	viewing	</item>
-        <item>	964	violate	\t	violated	\t	violated	\t	violates	\t	violating	</item>
-        <item>	965	vomit	\t	vomited	\t	vomited	\t	vomits	\t	vomiting	</item>
-        <item>	966	wake	\t	woke	\t	woken	\t	wakes	\t	waking	</item>
-        <item>	967	walk	\t	walked	\t	walked	\t	walks	\t	walking	</item>
-        <item>	968	wander	\t	wandered	\t	wandered	\t	wanders	\t	wandering	</item>
-        <item>	969	want	\t	wanted	\t	wanted	\t	wants	\t	wanting	</item>
-        <item>	970	warn	\t	warned	\t	warned	\t	warns	\t	warning	</item>
-        <item>	971	waste	\t	wasted	\t	wasted	\t	wastes	\t	wasting	</item>
-        <item>	972	watch	\t	watched	\t	watched	\t	watches	\t	watching	</item>
-        <item>	973	water	\t	watered	\t	watered	\t	waters	\t	watering	</item>
-        <item>	974	wave	\t	waved	\t	waved	\t	waves	\t	waving	</item>
-        <item>	975	wax	\t	waxed	\t	waxed	\t	waxes	\t	waxing	</item>
-        <item>	976	waylay	\t	waylaid	\t	waylaid	\t	waylays	\t	waylaying	</item>
-        <item>	977	wear	\t	wore	\t	worn	\t	wears	\t	wearing	</item>
-        <item>	978	weave	\t	wove	\t	woven	\t	weaves	\t	weaving	</item>
-        <item>	979	wed	\t	wed	\t	wed	\t	weds	\t	wedding	</item>
-        <item>	980	weep	\t	wept	\t	wept	\t	weeps	\t	weeping	</item>
-        <item>	981	weigh	\t	weighed	\t	weighed	\t	weighs	\t	weighing	</item>
-        <item>	982	welcome	\t	welcomed	\t	welcomed	\t	welcomes	\t	welcoming	</item>
-        <item>	983	wend	\t	went	\t	went	\t	wends	\t	wending	</item>
-        <item>	984	wet	\t	wet	\t	wet	\t	wets	\t	wetting	</item>
-        <item>	985	whip	\t	whipped	\t	whipped	\t	whips	\t	whipping	</item>
-        <item>	986	whisper	\t	whispered	\t	whispered	\t	whispers	\t	whispering	</item>
-        <item>	987	win	\t	won	\t	won	\t	wins	\t	winning	</item>
-        <item>	988	wind	\t	wound	\t	wound	\t	winds	\t	winding	</item>
-        <item>	989	wish	\t	wished	\t	wished	\t	wishes	\t	wishing	</item>
-        <item>	990	withdraw	\t	withdrew	\t	withdrawn	\t	withdraws	\t	withdrawing	</item>
-        <item>	991	work	\t	worked	\t	worked	\t	works	\t	working	</item>
-        <item>	992	worry	\t	worried	\t	worried	\t	worries	\t	worrying	</item>
-        <item>	993	worship	\t	worshipped	\t	worshipped	\t	worships	\t	worshipping	</item>
-        <item>	994	wring	\t	wrung	\t	wrung	\t	wrings	\t	wringing	</item>
-        <item>	995	write	\t	wrote	\t	written	\t	writes	\t	writing	</item>
-        <item>	996	yawn	\t	yawned	\t	yawned	\t	yawns	\t	yawning	</item>
-        <item>	997	yell	\t	yelled	\t	yelled	\t	yells	\t	yelling	</item>
-        <item>	998	yield	\t	yielded	\t	yielded	\t	yields	\t	yielding	</item>
-        <item>	999	zinc	\t	zincked	\t	zincked	\t	zincs	\t	zincking	</item>
-        <item>	1000	zoom	\t	zoomed	\t	zoomed	\t	zooms	\t	zooming	</item>
+   </string-array>
 
 
 
 
-
-
-    </string-array>
 
 
 
