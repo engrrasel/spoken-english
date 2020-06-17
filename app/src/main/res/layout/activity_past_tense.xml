@@ -23,12 +23,12 @@
             android:id="@+id/past_tab_layout_id"
             android:layout_width="match_parent"
             android:layout_height="80dp"
-            app:tabIndicatorColor="#FB0202"
+            app:tabIndicatorColor="@color/white"
             app:tabMode="fixed"
             app:tabGravity="fill"
             app:tabIndicatorHeight="5dp"
-            android:background="@color/ash"
-            app:tabTextColor="@color/black"
+            android:background="@color/purple"
+            app:tabTextColor="@color/white"
             />
 
 

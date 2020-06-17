@@ -3,7 +3,9 @@ package com.example.spokenenglish;
 import androidx.appcompat.app.AppCompatActivity;
 import androidx.viewpager.widget.ViewPager;
 
+import android.os.Build;
 import android.os.Bundle;
+import android.view.Window;
 
 import com.google.android.material.tabs.TabLayout;
 
@@ -11,6 +13,7 @@ public class future_tense extends AppCompatActivity {
 
     private TabLayout future_table;
     private ViewPager future_viewpager;
+    Window window;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,10 +24,15 @@ public class future_tense extends AppCompatActivity {
         future_table= (TabLayout) findViewById(R.id.future_table_id);
         future_viewpager=(ViewPager) findViewById(R.id.future_viewpager_id);
 
+
+        if (Build.VERSION.SDK_INT >= 21) {
+            window = this.getWindow();
+            window.setStatusBarColor(this.getResources().getColor(R.color.purple));
+
+        }
+
         setViewPager(future_viewpager);
         future_table.setupWithViewPager(future_viewpager);
-
-
 
 
     }
@@ -39,5 +47,6 @@ public class future_tense extends AppCompatActivity {
         viewpagerfuture.addFragment(new future_prfect_Continuous_tense(),"future \n per. Continuous");
         viewpager.setAdapter(viewpagerfuture);
     }
+
 
 }

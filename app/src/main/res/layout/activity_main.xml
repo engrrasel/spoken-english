@@ -5,7 +5,7 @@
     android:layout_height="match_parent"
     android:gravity="center"
     android:orientation="vertical"
-    android:background="@color/ash"
+    android:background="@drawable/main_background"
     tools:context=".MainActivity"
     >
 
@@ -22,7 +22,7 @@
             android:fitsSystemWindows="true"
             app:expandedTitleMarginEnd="64dp"
             app:expandedTitleMarginStart="48dp"
-            android:background="@color/ash"
+            android:background="@color/purple"
             app:layout_scrollFlags="scroll|snap|exitUntilCollapsed"
             app:title="Spoken English"
             android:outlineSpotShadowColor="@color/colorAccent"
@@ -34,7 +34,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="270dp"
                 android:scaleType="centerCrop"
-                android:background="@drawable/collapsing_image"
+                android:background="@color/purple"
                 />
             <ImageView
                 android:layout_width="match_parent"
@@ -110,15 +110,35 @@
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
-                    >
+                    app:cardBackgroundColor="@color/purple"
 
-                    <TextView
+                    >
+                    <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:text="@string/spoken_english"
-                        android:textColor="@color/black"
                         android:gravity="center"
-                        android:textSize="20sp"/>
+                        android:background="@drawable/btn"
+                        >
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/spoken_english"
+                            android:textColor="@color/white"
+                            android:gravity="center"
+                            android:textSize="20sp"
+                            android:layout_gravity="center"
+                            />
+
+
+
+
+
+
+                    </LinearLayout>
+
+
 
 
                 </androidx.cardview.widget.CardView>
@@ -139,15 +159,23 @@
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
+                    app:cardBackgroundColor="@color/purple"
                     >
 
-                    <TextView
+                    <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:text="@string/tense"
-                        android:textColor="@color/black"
-                        android:gravity="center"
-                        android:textSize="20sp"/>
+                        android:background="@drawable/btn">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/tense"
+                            android:textColor="@color/white"
+                            android:gravity="center"
+                            android:textSize="20sp"/>
+
+                    </LinearLayout>
 
                 </androidx.cardview.widget.CardView>
 
@@ -178,16 +206,24 @@
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
+                    app:cardBackgroundColor="@color/purple"
                     >
 
-
-                    <TextView
+                    <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:text="@string/learn_everyday"
-                        android:textColor="@color/black"
-                        android:gravity="center"
-                        android:textSize="20sp"/>
+                        android:background="@drawable/btn">
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/learn_everyday"
+                            android:textColor="@color/white"
+                            android:gravity="center"
+                            android:textSize="20sp"/>
+
+                    </LinearLayout>
 
 
                 </androidx.cardview.widget.CardView>
@@ -208,16 +244,24 @@
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
+                    app:cardBackgroundColor="@color/purple"
                     >
 
-                    <TextView
+                    <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:text="@string/verbs"
-                        android:textColor="@color/black"
-                        android:gravity="center"
-                        android:textSize="20sp"/>
+                        android:background="@drawable/btn">
 
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/verbs"
+                            android:textColor="@color/white"
+                            android:gravity="center"
+                            android:textSize="20sp"/>
+
+
+                    </LinearLayout>
 
                 </androidx.cardview.widget.CardView>
 
@@ -248,16 +292,30 @@
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
+                    app:cardBackgroundColor="@color/purple"
                     >
 
-                    <TextView
+
+                    <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:text="@string/proverbs"
-                        android:textColor="@color/black"
-                        android:gravity="center"
-                        android:textSize="20sp"/>
+                        android:background="@drawable/btn">
 
+
+
+
+
+
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/proverbs"
+                            android:textColor="@color/white"
+                            android:gravity="center"
+                            android:textSize="20sp"/>
+
+                    </LinearLayout>
 
                 </androidx.cardview.widget.CardView>
 
@@ -277,15 +335,27 @@
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
+                    app:cardBackgroundColor="@color/purple"
+
                     >
 
-                    <TextView
+
+                    <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:text="@string/phrases_idioms"
-                        android:textColor="@color/black"
-                        android:gravity="center"
-                        android:textSize="20sp"/>
+                        android:background="@drawable/btn">
+
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/phrases_idioms"
+                            android:textColor="@color/white"
+                            android:gravity="center"
+                            android:textSize="20sp"/>
+
+
+                    </LinearLayout>
+
 
                 </androidx.cardview.widget.CardView>
 
@@ -318,17 +388,23 @@
                     android:clickable="true"
                     android:focusable="true"
                     android:foreground="?android:attr/selectableItemBackground"
+                    app:cardBackgroundColor="@color/purple"
                     >
 
-                    <TextView
+                    <LinearLayout
                         android:layout_width="match_parent"
                         android:layout_height="match_parent"
-                        android:text="@string/about"
-                        android:textColor="@color/black"
-                        android:gravity="center"
-                        android:textSize="20sp"/>
+                        android:background="@drawable/btn">
 
+                        <TextView
+                            android:layout_width="match_parent"
+                            android:layout_height="match_parent"
+                            android:text="@string/about"
+                            android:textColor="@color/white"
+                            android:gravity="center"
+                            android:textSize="20sp"/>
 
+                    </LinearLayout>
                 </androidx.cardview.widget.CardView>
 
 

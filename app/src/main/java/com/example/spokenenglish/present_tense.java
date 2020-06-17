@@ -12,6 +12,7 @@ import androidx.viewpager.widget.ViewPager;
 import android.os.Build;
 import android.os.Bundle;
 import android.view.View;
+import android.view.Window;
 import android.widget.Toolbar;
 
 import com.google.android.material.tabs.TabLayout;
@@ -23,6 +24,8 @@ public class present_tense extends AppCompatActivity {
     private TabLayout tabLayout;
     private ViewPager viewPager;
 
+    Window window;
+
     @RequiresApi(api = Build.VERSION_CODES.LOLLIPOP)
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -32,6 +35,14 @@ public class present_tense extends AppCompatActivity {
         /*toolbar = (Toolbar) findViewById(R.id.toolbarid);*/
         tabLayout = (TabLayout) findViewById(R.id.tablayoutid);
         viewPager = (ViewPager) findViewById(R.id.viewpagerid);
+
+
+        /*for statusbar color*/
+        if (Build.VERSION.SDK_INT >= 21) {
+            window = this.getWindow();
+            window.setStatusBarColor(this.getResources().getColor(R.color.purple));
+
+        }
 
         /*setSupportActionBar(toolbar);*/
 

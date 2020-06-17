@@ -1,6 +1,7 @@
 package com.example.spokenenglish;
 
 import androidx.appcompat.app.AppCompatActivity;
+import androidx.cardview.widget.CardView;
 
 import android.content.Intent;
 import android.os.Build;
@@ -12,7 +13,7 @@ import android.widget.Button;
 public class tense_activity extends AppCompatActivity {
 
     Window window;
-    Button present_tense,past_tense,future_tense;
+    CardView present_tense,past_tense,future_tense;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -21,7 +22,7 @@ public class tense_activity extends AppCompatActivity {
 
         if (Build.VERSION.SDK_INT>=21){
             window=this.getWindow();
-            window.setStatusBarColor(this.getResources().getColor(R.color.ash));
+            window.setStatusBarColor(this.getResources().getColor(R.color.purple));
 
             present_tense=findViewById(R.id.presenttenseid);
             past_tense=findViewById(R.id.pasttenseid);

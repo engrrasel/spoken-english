@@ -44,7 +44,7 @@ public class MainActivity extends AppCompatActivity implements View.OnClickListe
 
         if (Build.VERSION.SDK_INT >= 21) {
             window = this.getWindow();
-            window.setStatusBarColor(this.getResources().getColor(R.color.ash));
+            window.setStatusBarColor(this.getResources().getColor(R.color.purple));
 
 
             textView = findViewById(R.id.marquee);

@@ -6,7 +6,7 @@
     android:layout_height="match_parent"
     tools:context=".spoken"
     android:orientation="vertical"
-    android:background="@color/ash"
+    android:background="@drawable/main_background"
     >
 
     <LinearLayout

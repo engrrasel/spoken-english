@@ -10,19 +10,29 @@
 
     <string name="clasificationoftense">"Tense প্রধানত ৩ প্রকার"</string>
     
-    <string name="spoken_english">"Spoken English"</string>
+    <string name="spoken_english">"Spoken \nEnglish"</string>
     
     <string name="tense">"Tense"</string>
     
-    <string name="learn_everyday">"Learn Everyday"</string>
+    <string name="learn_everyday">"Learn \nEveryday"</string>
     
     <string name="verbs">"Verbs"</string>
     
     <string name="proverbs">"Proverbs"</string>
     
-    <string name="phrases_idioms">"phrases &amp; Idioms"</string>
+    <string name="phrases_idioms">"phrases &amp; \nIdioms"</string>
 
     <string name="about">"About"</string>
+
+
+<!--    this data used for tens activity-->
+    <string name="past">"Past tens"</string>
+
+
+    <string name="present">"Present tense"</string>
+
+
+    <string name="futere">"Future tense"</string>
 
 
 

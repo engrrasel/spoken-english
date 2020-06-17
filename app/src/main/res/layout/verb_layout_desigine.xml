@@ -15,7 +15,7 @@
             android:id="@+id/verb_layout_desigin_id"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:textSize="14sp"
+            android:textSize="17sp"
             android:text="Phrase"
             android:gravity="clip_vertical"
             android:padding="10dp"
