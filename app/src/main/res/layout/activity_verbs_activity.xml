@@ -5,12 +5,16 @@
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
     android:layout_height="match_parent"
-    tools:context=".verbs_activity">
+    tools:context=".verbs_activity"
+    android:background="@drawable/main_background"
+    >
 
     <ListView
         android:id="@+id/verb_list_view_id"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
+        android:divider="@color/white"
+        android:dividerHeight="2dp"
 
         />
 
