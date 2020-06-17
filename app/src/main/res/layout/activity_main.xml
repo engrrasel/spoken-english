@@ -34,7 +34,7 @@
                 android:layout_width="match_parent"
                 android:layout_height="270dp"
                 android:scaleType="centerCrop"
-                android:background="@color/purple"
+                android:background="@drawable/collapsing_toolbar"
                 />
             <ImageView
                 android:layout_width="match_parent"
