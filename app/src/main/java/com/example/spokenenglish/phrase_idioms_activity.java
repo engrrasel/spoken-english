@@ -15,6 +15,7 @@ public class phrase_idioms_activity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_phrase_idioms_activity);
 
+
         phraselistview=(ListView) findViewById(R.id.phraselistviewid);
 
         String[] phrase_idioms = getResources().getStringArray(R.array.phrase_data);
