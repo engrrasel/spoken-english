@@ -21,7 +21,7 @@
             android:layout_height="wrap_content"
             android:fitsSystemWindows="true"
             app:expandedTitleMarginEnd="64dp"
-
+            app:expandedTitleMarginStart="48dp"
             android:background="@color/purple"
             app:layout_scrollFlags="scroll|snap|exitUntilCollapsed"
             app:title="Spoken English"
@@ -406,13 +406,6 @@
 
                     </LinearLayout>
                 </androidx.cardview.widget.CardView>
-
-
-
-
-
-
-
 
 
 

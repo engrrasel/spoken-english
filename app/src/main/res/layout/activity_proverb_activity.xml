@@ -7,7 +7,17 @@
     android:layout_height="match_parent"
     tools:context=".proverb_activity"
     android:background="@drawable/main_background"
+    android:orientation="vertical"
     >
+
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/proverb_search_view_id"
+        app:queryHint="Search"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/spoken_english_head"
+        />
 
     <ListView
         android:id="@+id/proverb_list_id"

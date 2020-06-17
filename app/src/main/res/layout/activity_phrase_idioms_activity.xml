@@ -7,14 +7,24 @@
     android:layout_height="match_parent"
     tools:context=".phrase_idioms_activity"
     android:background="@drawable/main_background"
+    android:orientation="vertical"
     >
+
+
+    <androidx.appcompat.widget.SearchView
+        android:id="@+id/phrase_search_view_id"
+        app:queryHint="Search"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@drawable/spoken_english_head"
+        />
 
 
     <ListView
         android:id="@+id/phraselistviewid"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:divider="@color/white"
+        android:divider="@color/black"
         android:dividerHeight="2dp"
         />
 
